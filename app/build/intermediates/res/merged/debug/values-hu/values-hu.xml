@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="DateFormatEntries">
+    <item>@string/MM_DD_YYYY</item>
+    <item>@string/DD_MM_YYYY</item>
+    <item>@string/YYYY_MM_DD</item>
+</string-array>
+    <string-array name="DateFormatValues">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+</string-array>
+    <string-array name="interpolatorList">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+</string-array>
+    <string-array name="interpolatorListEntris">
+    <item>@string/overshoot</item>
+    <item>@string/bounce</item>
+    <item>@string/anticipate_overshoot</item>
+</string-array>
+    <string-array name="langListEntris">
+    	<item>@string/lang_defolt</item>
+        <item>Arabic(العربية)</item> <!-- Arabic -->
+        <item>Bulgarian(Български)</item> <!-- Bulgarian -->
+        <item>Catalan(Búlgar)</item> <!-- Catalan -->
+        <item>Chinese (Simplified)中文（简体）</item> <!-- Chinese (Simplified) -->
+        <item>Chinese (Traditional)中文（繁體）</item> <!-- Chinese (Traditional) -->
+        <item>Czech(Česká)</item> <!-- Czech -->
+        <item>Danish(Dansk)</item> <!-- Danish -->
+        <item>Dutch(Nederlands)</item> <!-- Dutch -->
+        <item>English</item> <!-- English -->
+        <item>Estonian(Estonian)</item> <!-- Estonian -->
+        <item>Finnish(Suomi)</item> <!-- Finnish -->
+        <item>French(Français)</item> <!-- French -->
+        <item>German(Deutsch)</item> <!-- German -->
+        <item>Greek(Έλληνας)</item> <!-- Greek -->
+        <item>Hebrew(עברית)</item> <!-- Hebrew -->
+        <item>Hungarian(Magyar)</item> <!-- Hungarian -->
+        <item>Indonesian(Indonesia)</item> <!-- Indonesian -->
+        <item>Italian(Italiano)</item> <!-- Italian -->
+        <item>Japanese(日本人)</item> <!-- Japanese -->
+        <item>Korean(한국의)</item> <!-- Korean -->
+        <item>Lithuanian(Lietuvos)</item> <!-- Lithuanian -->
+        <item>Norwegian(Norsk)</item> <!-- Norwegian -->
+        <item>Polish(Polski)</item> <!-- Polish -->
+        <item>Portuguese(Português)</item> <!-- Portuguese -->
+        <item>Romanian(Român)</item> <!-- Romanian -->
+        <item>Slovak(Slovenčina)</item> <!-- Slovak -->
+        <item>Slovenian(Slovenski jezik)</item> <!-- Slovenian -->
+        <item>Spanish(Español)</item> <!-- Spanish -->
+        <item>Swedish(Svenska)</item> <!-- Swedish -->
+        <item>Thai(ภาษาไทย)</item> <!-- Thai -->
+        <item>Turkish(Türk)</item> <!-- Turkish -->
+        <item>Ukrainian(Українська)</item> <!-- Ukrainian -->
+</string-array>
+    <string-array name="langListValues">
+    	<item>defolt</item> <!-- defolt -->
+        <item>ar</item> <!-- Arabic -->
+        <item>bg</item> <!-- Bulgarian -->
+        <item>ca</item> <!-- Catalan -->
+        <item>zh-rCN</item> <!-- Chinese (Simplified) -->
+        <item>zh-rTW</item> <!-- Chinese (Traditional) -->
+        <item>cs</item> <!-- Czech -->
+        <item>da</item> <!-- Danish -->
+        <item>nl</item> <!-- Dutch -->
+        <item>en</item> <!-- English -->
+        <item>et</item> <!-- Estonian -->
+        <item>fi</item> <!-- Finnish -->
+        <item>fr</item> <!-- French -->
+        <item>de</item> <!-- German -->
+        <item>el</item> <!-- Greek -->
+        <item>he</item> <!-- Hebrew -->
+        <item>hu</item> <!-- Hungarian -->
+        <item>id</item> <!-- Indonesian -->
+        <item>it</item> <!-- Italian -->
+        <item>ja</item> <!-- Japanese -->
+        <item>ko</item> <!-- Korean -->
+        <item>lt</item> <!-- Lithuanian -->
+        <item>no</item> <!-- Norwegian -->
+        <item>pl</item> <!-- Polish -->
+        <item>pt</item> <!-- Portuguese -->
+        <item>ro</item> <!-- Romanian -->
+        <item>sk</item> <!-- Slovak -->
+        <item>sl</item> <!-- Slovenian -->
+        <item>es</item> <!-- Spanish -->
+        <item>sv</item> <!-- Swedish -->
+        <item>th</item> <!-- Thai -->
+        <item>tr</item> <!-- Turkish -->
+        <item>uk</item> <!-- Ukrainian -->
+</string-array>
+    <string-array name="lengthUnitEntries">
+    <item>@string/centimetre_short</item>
+    <item>@string/inch_short</item>
+</string-array>
+    <string-array name="lengthUnitValues">
+    <item>1</item>
+    <item>2</item>
+</string-array>
+    <string-array name="sexListEntries">
+    <item>@string/male</item>
+    <item>@string/female</item>
+</string-array>
+    <string-array name="sexListValues">
+    <item>1</item>
+    <item>2</item>
+</string-array>
+    <string-array name="weightUnitEntries">
+    <item>@string/pound_short</item>
+    <item>@string/kilogram_short</item>
+</string-array>
+    <string-array name="weightUnitValues">
+    <item>1</item>
+    <item>2</item>
+</string-array>
+    <string name="Attention">Figyelem.</string>
+    <string name="BMI">BMI</string>
+    <string name="BMIFullString">Testtömeg index (BMI)</string>
+    <string name="BMR">BSM</string>
+    <string name="BRMFullString">Basal Metabolic Rate (BMR)</string>
+    <string name="Baza_d">Adatbázis.</string>
+    <string name="Cancel">Törlés</string>
+    <string name="ChekBoxAnimation">Indítása animáció</string>
+    <string name="DD_MM_YYYY">DD/MM/YYYY</string>
+    <string name="Data_on_this_date_already_exist">Az adatok az említett időpontban már be.</string>
+    <string name="Delete">Eltávolít</string>
+    <string name="Edit">Szerkeszt</string>
+    <string name="EnterPassword">Írja be a jelszót</string>
+    <string name="FatFullString">% zsír</string>
+    <string name="FeedBackText">Hello! Dolgozunk az Ön számára! Segíteni, hogy a program jobb. Ha tetszik az app, kérjük helyre értékelése, vagy írjon e-mailt a hiányosságokat és a hiányosságokat. Köszönöm. Fejlesztők.</string>
+    <string name="FirstDayOfWeek">Az első nap a hét</string>
+    <string name="Largest">Legnagyobb</string>
+    <string name="Last">utolsó</string>
+    <string name="MM_DD_YYYY">MM/DD/YYYY</string>
+    <string name="Month">Hónap.</string>
+    <string name="Month3">3 hónap.</string>
+    <string name="Month6">6 hónap.</string>
+    <string name="NoData">nincs adat</string>
+    <string name="Optoins">Beállítások</string>
+    <string name="ProvideFirstDayOfWeek">Adja meg az első nap a héten</string>
+    <string name="Select_unit_of_length">Válasszon egy egységnyi hosszúságú.</string>
+    <string name="Select_unit_of_weight">Válassza ki a súlymérték.</string>
+    <string name="Size_baza">Size (rekord):</string>
+    <string name="Smolest">legalacsonyabb</string>
+    <string name="Waist_size">Derék</string>
+    <string name="Week">Hét</string>
+    <string name="Weight">Súly</string>
+    <string name="YYYY_MM_DD">YYYY/MM/DD</string>
+    <string name="Year">Év</string>
+    <string msgid="5835639618285370804" name="accept">"Elfogadás"</string>
+    <string name="age">Életkor</string>
+    <string name="alarm_service_started">Emlékeztető</string>
+    <string name="all_data_deleted">Minden adat el</string>
+    <string name="animation">Élénkség</string>
+    <string name="anticipate_overshoot">Elébe kell menni / Túllövés</string>
+    <string name="app_name">Napló tömeg</string>
+    <string name="bounce">Ugrál</string>
+    <string name="centimetre">Centiméter</string>
+    <string name="centimetre_short">Cm</string>
+    <string name="chart_no_data">Nincs adat a diagram</string>
+    <string name="chest">Mellkas</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Engedélyezés"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás csak akkor működik, ha  engedélyezi a Google Play-szolgáltatásokat."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play-szolgáltatások engedélyezése"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Telepítés"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek hiányoznak az eszközről."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"A Google Play-szolgáltatások beszerzése"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play-szolgáltatások – hiba"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás problémába ütközött a Google Play-szolgáltatások használata során. Próbálkozzon újra."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyeket eszköze nem támogat."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Frissítés"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás csak akkor fog működni, ha frissíti a Google Play-szolgáltatásokat."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"A Google Play-szolgáltatások frissítése"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek frissítése folyamatban van."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"A Google Play-szolgáltatások új verziójára van szükség. A szolgáltatás hamarosan frissíti önmagát."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Megnyitás a telefonon"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Bejelentkezés"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Bejelentkezés Google-fiókkal"</string>
+    <string name="config_general_target">Terv</string>
+    <string name="confirm_password">Ismételje meg a jelszót</string>
+    <string msgid="6155048007205742679" name="create_calendar_message">"Engedélyezi a hirdetés számára naptáresemény létrehozását?"</string>
+    <string msgid="7967007864778154790" name="create_calendar_title">"Naptáresemény létrehozása"</string>
+    <string name="currentTimeTextViewText">Idő</string>
+    <string name="data_is_saved">Az adatok mentve.</string>
+    <string name="date_format">Date format</string>
+    <string name="days">nap</string>
+    <string msgid="4722375419392727435" name="debug_menu_ad_information">"Hirdetési információ"</string>
+    <string msgid="1605938743055376690" name="debug_menu_creative_preview">"Kreatív előnézete"</string>
+    <string msgid="2039274714455389140" name="debug_menu_title">"Hibaelhárítási mód kiválasztása"</string>
+    <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"Problémamegoldás"</string>
+    <string msgid="6099173376375995052" name="decline">"Elutasítás"</string>
+    <string name="delete_all">Távolítson el minden</string>
+    <string name="delete_all_data">Valóban szeretné törölni az összes adatot?</string>
+    <string name="done_writing_sd">Felvétel SD befejezett</string>
+    <string name="feedback">Értékelés</string>
+    <string name="female">női</string>
+    <string name="first_write">első rekord</string>
+    <string name="heigh">Növekedés</string>
+    <string name="helpBMI">BMI (Body Mass Index) a becslés testzsír alapuló magasság és súly adatokat, és alkalmazza a férfiak és a nők 18 év és 65 év. BMI segít meghatározni megfelelőnek, normál, túlsúlyos, és az elhízás. Az egészséges BMI között 20 - 25. Mark 20 alatti jelezheti súlyú, legfeljebb 25 azt jelenti, hogy lehet, hogy túlsúlyos. Kérjük, vegye figyelembe, hogy ez csak egy a sok lehetséges módja, hogy felmérje a súlyát. Ha bármilyen kérdése van kapcsolatban a testsúly, címét, aki képes lesz arra, hogy pontosan felméri a helyzetet alapuló intenzív egyedi jellemzői a tested. \ N \ n BMI kevesebb, mint 18,5 = lesoványodott * \ n BMI 18,5-24,9 = normál súlyú \ n BMI = 25,0-29,9 tömeg \ n BMI 30,0 és felette = elhízott \ n \ n \ n * - van egy konfliktus kapcsolódik a mutató "sovány". Tanulmányok kimutatták, hogy az alacsony BMI kockázati tényező az egészségre. Ebben az esetben, ha nem veszi figyelembe az emberek az alacsony BMI jár súlyos és krónikus betegségek, melynek mértéke "sovány" nem yavlyatsya kockázati tényező, feltéve, ha egészséges és jó fizikai állapotban.</string>
+    <string name="helpBRM">Töltesz az energia folyamatosan, függetlenül attól, az aktivitás szintjét, akkor is, ha alszol. Ez a kalkulátor segít kiszámítani a BMR index (Basal Metabolic Rate), a kalóriák számát, hogy akkor töltött, miközben egész nap ágyban. Ha észreveszi, hogy az idősebb kapsz, annál nehezebb mindent, amit akar, és maradni alakja, tudnod kell, hogy a kor, a BCM csökken. BSM is csökkenhet, ha korlátozza magát az élelmiszer, remélve, hogy PONV súlyát, így a szervezet alkalmazkodik az új feltételekhez. Bár az évek során a szervezet azon képességét, hogy kalóriát éget csökken, a rendszeres testmozgás növelheti a BMR, pozitív hatással van a fizikai állapotára.</string>
+    <string name="helpFAT">Zsír a test a legpontosabb mércéje haladás diéta és a testmozgás.
+			\n A szint a zsír a test egy nő:
+			\n Essential zsír 10-12 \u0025
+			\n sportolók 14-20 \u0025
+			\n Fitness 21-24 \u0025
+			\n Elfogadható 25-31 \u0025
+			\n Az elhízott ≥ 32 \u0025
+			\n
+			\n A szint a zsír a férfi:
+			\n Essential zsír 2-4 \u0025
+			\n sportolók 6-13 \u0025
+			\n Fitness 14-17 \u0025
+			\n Elfogadható 18-25 \u0025
+			\n Az elhízott ≥ 26 \u0025
+
+	</string>
+    <string name="hip">Csípő</string>
+    <string name="im_port">Behozatal</string>
+    <string name="inch">Hüvelyk</string>
+    <string name="inch_short">Hüvelyk</string>
+    <string name="interpolatorList">Lista</string>
+    <string name="kilogram">kilogramm</string>
+    <string name="kilogram_short">Kg</string>
+    <string name="lang_defolt">Default(alapértelmezés szerint)</string>
+    <string name="lang_titl">Language(nyelv)</string>
+    <string name="last_write">utolsó rekord</string>
+    <string name="later">később</string>
+    <string name="length_unit">Unit hossza.</string>
+    <string name="lines_imported">Records importálva:</string>
+    <string name="male">férfi</string>
+    <string name="monday">Hétfő</string>
+    <string name="neck">Neck</string>
+    <string name="need_restart">You need to restart app</string>
+    <string name="nextAlarmString">A következő emlékeztető:</string>
+    <string name="noAlarmString">Emlékeztető.</string>
+    <string name="no_senks">Nem, kösz</string>
+    <string name="normal">normál súlyú</string>
+    <string name="obese">elhízottság</string>
+    <string name="overshoot">Túllövés</string>
+    <string name="overweight">túlsúly</string>
+    <string name="password">Jelszó</string>
+    <string name="passwords_do_not_match">A jelszavak nem egyeznek</string>
+    <string name="please_provide_target_chest">Kérjük, írja be az utazás tervezett méretét a mell</string>
+    <string name="please_provide_target_hip">Kérjük, adja meg a tervezett összeget a csípő</string>
+    <string name="please_provide_target_waist_size">Kérjük, adja meg a tervezett összeget derék</string>
+    <string name="please_provide_target_weight">Kérjük, írja be az utazás tervezett tömeg</string>
+    <string name="pound">Font</string>
+    <string name="pound_short">Font</string>
+    <string name="proc_fat">% fat</string>
+    <string name="quit">Teljesítmény</string>
+    <string name="quit_feedback">Kérjük, hagyja a visszajelzést.</string>
+    <string name="quit_feedback_title">Javítani programot</string>
+    <string name="quit_mesage">Valóban ki akar lépni?</string>
+    <string name="save_database">Tartsa a bázis</string>
+    <string name="security">Biztonság</string>
+    <string name="select_import_file">Az import fájl</string>
+    <string name="sex">Paul</string>
+    <string name="share">Share</string>
+    <string name="statistics">statisztika</string>
+    <string msgid="8020323581538738027" name="store_picture_message">"Engedélyezi a hirdetés számára a kép tárolását a Képgalériában?"</string>
+    <string msgid="4180630057627064606" name="store_picture_title">"Kép mentése"</string>
+    <string name="summary_average">Átlag</string>
+    <string name="sunday">Vasárnap</string>
+    <string name="target_chest">A tervezett méret a mell</string>
+    <string name="target_hip">A tervezett méret a csípő</string>
+    <string name="target_waist_size">Tervezett derékbőség</string>
+    <string name="target_weight">Tervezett tömeg</string>
+    <string name="tendency">Trend:</string>
+    <string name="type_of_animation">Típusa animáció</string>
+    <string name="underweight">sovány</string>
+    <string name="user_info">Felhasználói adatok</string>
+    <string name="vsego">teljes</string>
+    <string name="weight_diary_plus">Napló tömeg Plus</string>
+    <string name="weight_manager">Tömeg manager</string>
+    <string name="weight_unit">Az súlymérték.</string>
+    <string name="years">év</string>
+</resources>

@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg_800">
+
+    
+    
+    
+    <LinearLayout
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:gravity="right" >
+	    
+		<TextView
+		    android:layout_width="fill_parent"
+		    android:layout_height="fill_parent"
+		    android:layout_marginLeft="20dp"
+		    android:text="@string/app_name"
+		    android:textColor="#000000"
+		    android:textSize="15sp"
+		    android:gravity="center"
+		    android:textStyle="bold"
+		     android:layout_weight="1"/>
+		
+		<Button
+		    android:layout_width="30dp"
+		    android:layout_height="30dp"
+    	    android:background="@drawable/settings"
+    	    android:onClick="settingsClick"/>
+		
+        
+	</LinearLayout>    
+    
+    
+    
+    
+    
+    
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp" >
+
+
+        <Button
+            android:id="@+id/button11"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:onClick="Week"
+            android:text="@string/Week"
+            android:background="@drawable/custom_dialog_button_date_pressed" />
+        <!--     android:background="#20ddd600" />  --> 
+
+        <Button
+            android:id="@+id/button12"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="@string/Month"
+            android:onClick="Month"
+            android:background="@drawable/custom_dialog_button_date" />
+
+        <Button
+            android:id="@+id/button13"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="@string/Month3"
+            android:onClick="Month3"
+            android:background="@drawable/custom_dialog_button_date" />
+
+        <Button
+            android:id="@+id/button14"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="@string/Month6"
+            android:onClick="Month6"
+            android:background="@drawable/custom_dialog_button_date" />
+
+        <Button
+            android:id="@+id/button15"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="@string/Year"
+            android:onClick="Year"
+            android:background="@drawable/custom_dialog_button_date" />
+
+    </LinearLayout>
+
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp" >
+
+
+
+
+            <Button
+                android:id="@+id/button6"
+                android:layout_width="40dp"
+                android:layout_height="fill_parent"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/previous"
+                android:onClick="Prev" />
+            
+		        <LinearLayout
+		            android:layout_width="0dp"
+		            android:layout_height="fill_parent"
+		            android:layout_weight="1"
+		            android:onClick="dateClick" >
+
+			            <TextView
+			                android:id="@+id/textViewDate"
+			                android:layout_width="fill_parent"
+			                android:layout_height="fill_parent"
+			                android:text=""
+			        		android:gravity="center"
+	
+		                  android:textSize="20dp"
+		                  android:textStyle="bold"
+		                  android:textColor="#FBFBFB"
+		                  android:shadowColor="#7F000000"
+		                  android:shadowDx="1"
+		                  android:shadowDy="1"
+		                  android:shadowRadius="2"  
+			        	  android:background="@drawable/custom_dialog_button_date_pressed" />
+	            </LinearLayout>
+
+
+
+
+
+            <Button
+                android:id="@+id/button7"
+                android:layout_width="40dp"
+                android:layout_height="fill_parent"
+                android:layout_marginBottom="5dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/next"
+                android:onClick="Next" />
+        
+    </LinearLayout>             
+
+        
+        
+         <ViewFlipper android:id="@+id/viewFlipperChart"
+			      android:layout_width="match_parent"
+			      android:layout_height="0dp"
+			      android:layout_weight="1">        
+        
+			    <LinearLayout
+			      android:layout_width="fill_parent"
+			      android:layout_height="fill_parent" >
+
+							<weight.manager.LineChart
+							  android:layout_width="match_parent"
+							  android:layout_height="match_parent"
+							  android:layout_marginLeft="4dp"
+							  android:layout_marginRight="4dp"
+							  android:layout_marginBottom="4dp"	  
+						      android:id="@+id/line_chart1"
+						      android:layout_weight="100"/>	        
+
+			    </LinearLayout>
+    
+			    
+		    
+    
+    </ViewFlipper>
+
+
+    <LinearLayout
+        
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center" >
+
+
+        <Button
+            android:id="@+id/button_weight"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:onClick="Weight"
+            android:text="@string/Weight"
+            android:background="@drawable/custom_dialog_button_date_pressed"
+            android:textStyle="bold" />
+        <!--     android:background="#20ddd600" />  --> 
+
+        <Button
+            android:id="@+id/button_waist_size"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="@string/Waist_size"
+            android:onClick="Waist_size"
+            android:background="@drawable/custom_dialog_button_date"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/button_chest"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="@string/chest"
+            android:onClick="Chest"
+            android:background="@drawable/custom_dialog_button_date"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/button_hip"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="@string/hip"
+            android:onClick="Hip"
+            android:background="@drawable/custom_dialog_button_date"
+            android:textStyle="bold" />
+        
+<Button
+            android:id="@+id/button_neck"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="@string/neck"
+            android:onClick="Neck"
+            android:background="@drawable/custom_dialog_button_date"
+            android:textStyle="bold" />        
+        
+        
+    </LinearLayout>
+    
+<LinearLayout
+	xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+
+    android:id="@+id/mainAdViewLayout" >
+
+
+	<com.google.android.gms.ads.AdView
+		android:id="@+id/ad_view"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		ads:adSize="SMART_BANNER"
+		ads:adUnitId="@string/banner_ad_unit_id" />
+
+
+</LinearLayout>
+    
+            
+    
+    
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/BottomButtHeight"
+        android:layout_margin="5dp" >
+
+	    <LinearLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+	        android:layout_weight="1"
+	        android:gravity="center" >        
+	        <Button
+	            android:id="@+id/button1"
+	            android:layout_width="@dimen/BottomButtHeight"
+	            android:layout_height="@dimen/BottomButtHeight"
+	            android:background="@layout/button_add"
+	            android:onClick="addActivity"
+	            android:text="" />
+        </LinearLayout>
+
+	    <LinearLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+	        android:layout_weight="1"
+	        android:gravity="center" > 
+	        <Button
+	            android:id="@+id/button2"
+	            android:layout_width="@dimen/BottomButtHeight"
+	            android:layout_height="@dimen/BottomButtHeight"
+	            android:background="@layout/button_chart"
+	            
+	            android:text=""/>
+	    </LinearLayout>
+
+	    <LinearLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+	        android:layout_weight="1"
+	        android:gravity="center" > 
+	        <Button
+	            android:id="@+id/button3"
+	            android:layout_width="@dimen/BottomButtHeight"
+	            android:layout_height="@dimen/BottomButtHeight"
+	            android:background="@layout/button_list"
+	            android:onClick="listActivity"
+	            android:text=""/>
+	    </LinearLayout>
+
+	    <LinearLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+	        android:layout_weight="1"
+	        android:gravity="center" > 
+	        <Button
+	            android:id="@+id/button4"
+	            android:layout_width="@dimen/BottomButtHeight"
+	            android:layout_height="@dimen/BottomButtHeight"
+	            android:background="@layout/button_share"
+	            android:onClick="share"
+	            android:text=""/>
+	    </LinearLayout>
+        
+	    <LinearLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+	        android:layout_weight="1"
+	        android:gravity="center" > 
+	        <Button
+	            android:id="@+id/button5"
+	            android:layout_width="@dimen/BottomButtHeight"
+	            android:layout_height="@dimen/BottomButtHeight"
+	            android:background="@layout/button_alarm"
+	            android:onClick="alarm"
+	            android:text="" />
+	     </LinearLayout>
+
+    </LinearLayout>    
+    
+    
+    
+    
+
+</LinearLayout>

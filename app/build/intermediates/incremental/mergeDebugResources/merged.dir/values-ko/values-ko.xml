@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="DateFormatEntries">
+    <item>@string/MM_DD_YYYY</item>
+    <item>@string/DD_MM_YYYY</item>
+    <item>@string/YYYY_MM_DD</item>
+</string-array>
+    <string-array name="DateFormatValues">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+</string-array>
+    <string-array name="interpolatorList">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+</string-array>
+    <string-array name="interpolatorListEntris">
+    <item>@string/overshoot</item>
+    <item>@string/bounce</item>
+    <item>@string/anticipate_overshoot</item>
+</string-array>
+    <string-array name="langListEntris">
+    	<item>@string/lang_defolt</item>
+        <item>Arabic(العربية)</item> <!-- Arabic -->
+        <item>Bulgarian(Български)</item> <!-- Bulgarian -->
+        <item>Catalan(Búlgar)</item> <!-- Catalan -->
+        <item>Chinese (Simplified)中文（简体）</item> <!-- Chinese (Simplified) -->
+        <item>Chinese (Traditional)中文（繁體）</item> <!-- Chinese (Traditional) -->
+        <item>Czech(Česká)</item> <!-- Czech -->
+        <item>Danish(Dansk)</item> <!-- Danish -->
+        <item>Dutch(Nederlands)</item> <!-- Dutch -->
+        <item>English</item> <!-- English -->
+        <item>Estonian(Estonian)</item> <!-- Estonian -->
+        <item>Finnish(Suomi)</item> <!-- Finnish -->
+        <item>French(Français)</item> <!-- French -->
+        <item>German(Deutsch)</item> <!-- German -->
+        <item>Greek(Έλληνας)</item> <!-- Greek -->
+        <item>Hebrew(עברית)</item> <!-- Hebrew -->
+        <item>Hungarian(Magyar)</item> <!-- Hungarian -->
+        <item>Indonesian(Indonesia)</item> <!-- Indonesian -->
+        <item>Italian(Italiano)</item> <!-- Italian -->
+        <item>Japanese(日本人)</item> <!-- Japanese -->
+        <item>Korean(한국의)</item> <!-- Korean -->
+        <item>Lithuanian(Lietuvos)</item> <!-- Lithuanian -->
+        <item>Norwegian(Norsk)</item> <!-- Norwegian -->
+        <item>Polish(Polski)</item> <!-- Polish -->
+        <item>Portuguese(Português)</item> <!-- Portuguese -->
+        <item>Romanian(Român)</item> <!-- Romanian -->
+        <item>Slovak(Slovenčina)</item> <!-- Slovak -->
+        <item>Slovenian(Slovenski jezik)</item> <!-- Slovenian -->
+        <item>Spanish(Español)</item> <!-- Spanish -->
+        <item>Swedish(Svenska)</item> <!-- Swedish -->
+        <item>Thai(ภาษาไทย)</item> <!-- Thai -->
+        <item>Turkish(Türk)</item> <!-- Turkish -->
+        <item>Ukrainian(Українська)</item> <!-- Ukrainian -->
+</string-array>
+    <string-array name="langListValues">
+    	<item>defolt</item> <!-- defolt -->
+        <item>ar</item> <!-- Arabic -->
+        <item>bg</item> <!-- Bulgarian -->
+        <item>ca</item> <!-- Catalan -->
+        <item>zh-rCN</item> <!-- Chinese (Simplified) -->
+        <item>zh-rTW</item> <!-- Chinese (Traditional) -->
+        <item>cs</item> <!-- Czech -->
+        <item>da</item> <!-- Danish -->
+        <item>nl</item> <!-- Dutch -->
+        <item>en</item> <!-- English -->
+        <item>et</item> <!-- Estonian -->
+        <item>fi</item> <!-- Finnish -->
+        <item>fr</item> <!-- French -->
+        <item>de</item> <!-- German -->
+        <item>el</item> <!-- Greek -->
+        <item>he</item> <!-- Hebrew -->
+        <item>hu</item> <!-- Hungarian -->
+        <item>id</item> <!-- Indonesian -->
+        <item>it</item> <!-- Italian -->
+        <item>ja</item> <!-- Japanese -->
+        <item>ko</item> <!-- Korean -->
+        <item>lt</item> <!-- Lithuanian -->
+        <item>no</item> <!-- Norwegian -->
+        <item>pl</item> <!-- Polish -->
+        <item>pt</item> <!-- Portuguese -->
+        <item>ro</item> <!-- Romanian -->
+        <item>sk</item> <!-- Slovak -->
+        <item>sl</item> <!-- Slovenian -->
+        <item>es</item> <!-- Spanish -->
+        <item>sv</item> <!-- Swedish -->
+        <item>th</item> <!-- Thai -->
+        <item>tr</item> <!-- Turkish -->
+        <item>uk</item> <!-- Ukrainian -->
+</string-array>
+    <string-array name="lengthUnitEntries">
+    <item>@string/centimetre_short</item>
+    <item>@string/inch_short</item>
+</string-array>
+    <string-array name="lengthUnitValues">
+    <item>1</item>
+    <item>2</item>
+</string-array>
+    <string-array name="sexListEntries">
+    <item>@string/male</item>
+    <item>@string/female</item>
+</string-array>
+    <string-array name="sexListValues">
+    <item>1</item>
+    <item>2</item>
+</string-array>
+    <string-array name="weightUnitEntries">
+    <item>@string/pound_short</item>
+    <item>@string/kilogram_short</item>
+</string-array>
+    <string-array name="weightUnitValues">
+    <item>1</item>
+    <item>2</item>
+</string-array>
+    <string name="Attention">주의.</string>
+    <string name="BMI">BMI</string>
+    <string name="BMIFullString">체질량 지수 (BMI)</string>
+    <string name="BMR">BSM</string>
+    <string name="BRMFullString">기초 신진 대사 율 (BMR)</string>
+    <string name="Baza_d">데이터베이스.</string>
+    <string name="Cancel">말소</string>
+    <string name="ChekBoxAnimation">애니메이션을 시작</string>
+    <string name="DD_MM_YYYY">DD/MM/YYYY</string>
+    <string name="Data_on_this_date_already_exist">해당 날짜의 데이터는 이미 입력했습니다.</string>
+    <string name="Delete">삭제</string>
+    <string name="Edit">수정</string>
+    <string name="EnterPassword">비밀번호를 입력</string>
+    <string name="FatFullString">% 지방</string>
+    <string name="FeedBackText">안녕하세요! 우리는 당신을 위해 일한다! 프로그램을 더 좋게 만드는 데 도움이됩니다. 만약 당신이 좋아하면 앱이 장소 평가하십시오 또는 모든 결점과 결함에 대한 전자 메일을 작성합니다. 감사합니다. 개발자.</string>
+    <string name="FirstDayOfWeek">일주일의 첫 날</string>
+    <string name="Largest">최고</string>
+    <string name="Last">마지막</string>
+    <string name="MM_DD_YYYY">MM/DD/YYYY</string>
+    <string name="Month">개월.</string>
+    <string name="Month3">3개월.</string>
+    <string name="Month6">6 개월.</string>
+    <string name="NoData">데이터가 없습니다</string>
+    <string name="Optoins">설정</string>
+    <string name="ProvideFirstDayOfWeek">주 첫날을 입력</string>
+    <string name="Select_unit_of_length">길이의 단위를 선택합니다.</string>
+    <string name="Select_unit_of_weight">무게의 단위를 선택합니다.</string>
+    <string name="Size_baza">크기 (기록) :</string>
+    <string name="Smolest">최저</string>
+    <string name="Waist_size">허리</string>
+    <string name="Week">주</string>
+    <string name="Weight">무게</string>
+    <string name="YYYY_MM_DD">YYYY/MM/DD</string>
+    <string name="Year">년</string>
+    <string msgid="5835639618285370804" name="accept">"동의"</string>
+    <string name="age">나이</string>
+    <string name="alarm_service_started">조언</string>
+    <string name="all_data_deleted">모든 데이터가 삭제</string>
+    <string name="animation">생기</string>
+    <string name="anticipate_overshoot">예측 / 오버 슈트</string>
+    <string name="app_name">일기 무게</string>
+    <string name="bounce">튀다</string>
+    <string name="centimetre">센티미터</string>
+    <string name="centimetre_short">CM</string>
+    <string name="chart_no_data">차트에 대한 데이터가 없습니다</string>
+    <string name="chest">가슴</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"사용 설정"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Google Play 서비스를 사용하도록 설정해야 <ns1:g id="APP_NAME">%1$s</ns1:g>이(가) 작동합니다."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play 서비스 사용"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"설치"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"기기에 Google Play 서비스가 설치되어 있어야 <ns1:g id="APP_NAME">%1$s</ns1:g>이(가) 실행됩니다."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play 서비스 설치"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play 서비스 오류"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g>에서 Google Play 서비스를 사용하는 데 문제가 있습니다. 다시 시도하세요."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>은(는) Google Play 서비스 없이는 실행되지 않으나, 기기에서 Google Play 서비스를 지원하지 않습니다."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"업데이트"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Google Play 서비스를 업데이트해야 <ns1:g id="APP_NAME">%1$s</ns1:g>이(가) 실행됩니다."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play 서비스 업데이트"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"현재 업데이트 중인 Google Play 서비스가 있어야 <ns1:g id="APP_NAME">%1$s</ns1:g>이(가) 실행됩니다."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"새 버전의 Google Play 서비스가 필요합니다. 곧 자동으로 업데이트됩니다."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"스마트폰에서 열기"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"로그인"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Google 계정으로 로그인"</string>
+    <string name="config_general_target">계획</string>
+    <string name="confirm_password">비밀번호를 반복</string>
+    <string msgid="6155048007205742679" name="create_calendar_message">"광고에서 캘린더 일정을 만들도록 허용하시겠습니까?"</string>
+    <string msgid="7967007864778154790" name="create_calendar_title">"캘린더 일정 만들기"</string>
+    <string name="currentTimeTextViewText">시간</string>
+    <string name="data_is_saved">데이터가 저장됩니다.</string>
+    <string name="date_format">Date format</string>
+    <string name="days">일</string>
+    <string msgid="4722375419392727435" name="debug_menu_ad_information">"광고 정보"</string>
+    <string msgid="1605938743055376690" name="debug_menu_creative_preview">"광고 소재 미리보기"</string>
+    <string msgid="2039274714455389140" name="debug_menu_title">"디버그 모드 선택"</string>
+    <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"문제해결"</string>
+    <string msgid="6099173376375995052" name="decline">"거부"</string>
+    <string name="delete_all">모두 제거</string>
+    <string name="delete_all_data">당신은 정말 모든 데이터를 삭제 하시겠습니까?</string>
+    <string name="done_writing_sd">SD로 녹음하면 완료</string>
+    <string name="feedback">검토</string>
+    <string name="female">여성</string>
+    <string name="first_write">첫 번째 레코드</string>
+    <string name="heigh">성장</string>
+    <string name="helpBMI">BMI (체질량 지수)는 키와 몸무게 수치에 따라 신체 지방의 추정이며, 18-65년 세 남성과 여성 모두에 적용됩니다. BMI는 부족, 정상, 과체중 및 비만을 결정하는 데 도움이됩니다. 25 - 건강한 BMI는 20 사이입니다. 20 아래의 마크가 25 위, 체중 나타낼 수 있습니다하면 비만 될 수 있음을 나타냅니다. 이 방법은 체중을 평가하는 여러 가지 방법 중 하나입니다. 당신은 무게, 정확하게 몸의 집중 각각의 특성에 따라 상황을 평가 할 수 있습니다 사람의 주소에 관한 질문이있을 경우. \ n \ n입니다 BMI보다 18.5 = 체중 * 위의 \ N 30.0의 18.5-24.9 = 정상 체중 \ N BMI = 25.0-29.9 중량 \ N BMI의 BMI와 = 비만 \ n을 \ n \ n입니다 * -. "체중"표시기와 관련된 충돌이 연구는 낮은 BMI가 건강에 위험 요인임을 보여줍니다. 이 경우, 당신은 낮은 BMI와 계정 명으로 취하지 않을 경우는 "체중"의 비율이 당신이 건강하고 좋은 신체 모양의 것을하지 yavlyatsya 위험 요소를 제공 할 수 있습니다 심각하고 만성 질환과 연결되어 있습니다.</string>
+    <string name="helpBRM">당신은 잠도 때에 관계없이 활동의 수준, 지속적으로 에너지를 보냅니다. 이 계산기는 귀하 BMR 색인 (자연적으로 흐르는 것과 신진 대사 율), 하루 종일 침대에있는 동안 지출 할 것으로 열량의 수를 계산하는 데 도움이됩니다. 당신이 나이가 얻을 것을 확인할 경우, 더 당신이 원하는 몸매를 유지하는 모든 것입니다, 당신은 나이가, BCM이 감소 알고 있어야합니다. 당신이 음식에 자신을 제한하면 BSM도 따라서 몸이 새로운 조건에 적응, PONV 중량을 기대 감소. 년 동안, 칼로리를 구울 몸의 능력이 감소, 규칙적인 운동은 당신의 BMR을 증가시킬 수 있지만, 실제 상태에 긍정적 인 영향을 미쳤다.</string>
+    <string name="helpFAT">Fat in the body is the most accurate measure of progress in diet and exercise.
+				\n	The level of fat in the body of a woman:
+				\n  Essential fat 10-12\u0025
+				\n  Athletes      14-20\u0025
+				\n  Fitness       21-24\u0025
+				\n  Acceptable    25-31\u0025 
+				\n  Obese         ≥ 32\u0025 
+				\n
+				\n  The level of fat in the male:
+				\n  Essential fat 2-4\u0025
+				\n  Athletes       6-13\u0025
+				\n  Fitness        14-17\u0025
+				\n  Acceptable     18-25\u0025
+				\n  Obese          ≥ 26\u0025
+
+	</string>
+    <string name="hip">엉덩이</string>
+    <string name="im_port">수입</string>
+    <string name="inch">인치</string>
+    <string name="inch_short">인치</string>
+    <string name="interpolatorList">명부</string>
+    <string name="kilogram">킬로그램</string>
+    <string name="kilogram_short">kg</string>
+    <string name="lang_defolt">Default(기본적으로)</string>
+    <string name="lang_titl">Language(언어)</string>
+    <string name="last_write">마지막 레코드</string>
+    <string name="later">후</string>
+    <string name="length_unit">단위 길이입니다.</string>
+    <string name="lines_imported">기록 가져 오기 :</string>
+    <string name="male">남성</string>
+    <string name="monday">월요일</string>
+    <string name="neck">Neck</string>
+    <string name="need_restart">You need to restart app</string>
+    <string name="nextAlarmString">다음 알림 :</string>
+    <string name="noAlarmString">알림.</string>
+    <string name="no_senks">아니, 감사합니다</string>
+    <string name="normal">정상 체중</string>
+    <string name="obese">비만</string>
+    <string name="overshoot">넘겨 쏘다</string>
+    <string name="overweight">초과 중량</string>
+    <string name="password">암호</string>
+    <string name="passwords_do_not_match">비밀번호가 일치하지 않습니다</string>
+    <string name="please_provide_target_chest">유방의 계획 크기를 입력하세요</string>
+    <string name="please_provide_target_hip">엉덩이 계획 금액을 입력하십시오</string>
+    <string name="please_provide_target_waist_size">허리의 계획 금액을 입력하십시오</string>
+    <string name="please_provide_target_weight">계획 무게를 입력하세요</string>
+    <string name="pound">파운드</string>
+    <string name="pound_short">파운드</string>
+    <string name="proc_fat">% fat</string>
+    <string name="quit">출력</string>
+    <string name="quit_feedback">여러분의 의견을 남겨주세요.</string>
+    <string name="quit_feedback_title">프로그램을 개선</string>
+    <string name="quit_mesage">정말로 종료 하시겠습니까?</string>
+    <string name="save_database">베이스를 유지</string>
+    <string name="security">안전</string>
+    <string name="select_import_file">가져 오기 파일</string>
+    <string name="sex">폴</string>
+    <string name="share">Share</string>
+    <string name="statistics">통계</string>
+    <string msgid="8020323581538738027" name="store_picture_message">"광고에서 사진 갤러리에 이미지를 저장하도록 허용하시겠습니까?"</string>
+    <string msgid="4180630057627064606" name="store_picture_title">"이미지 저장"</string>
+    <string name="summary_average">평균</string>
+    <string name="sunday">일요일</string>
+    <string name="target_chest">유방의 예상 크기</string>
+    <string name="target_hip">엉덩이의 크기 계획</string>
+    <string name="target_waist_size">계획 허리 크기</string>
+    <string name="target_weight">계획 무게</string>
+    <string name="tendency">동향 :</string>
+    <string name="type_of_animation">애니메이션의 종류</string>
+    <string name="underweight">체중</string>
+    <string name="user_info">사용자 정보</string>
+    <string name="vsego">합계</string>
+    <string name="weight_diary_plus">일기 플러스 무게</string>
+    <string name="weight_manager">무게 관리자</string>
+    <string name="weight_unit">무게의 단위입니다.</string>
+    <string name="years">년</string>
+</resources>

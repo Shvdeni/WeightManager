@@ -1,0 +1,3035 @@
+[
+    {
+        "outputFile": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-es\\values-es.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 6,
+                    "endColumn": 15,
+                    "endOffset": 268
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\array.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 0,
+                        "startOffset": 1033,
+                        "endLine": 58,
+                        "endColumn": 15,
+                        "endOffset": 1200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 273,
+                    "endLine": 11,
+                    "endColumn": 15,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\array.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 0,
+                        "startOffset": 1204,
+                        "endLine": 64,
+                        "endColumn": 15,
+                        "endOffset": 1319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endLine": 16,
+                    "endColumn": 15,
+                    "endOffset": 500
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\array.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 0,
+                        "startOffset": 717,
+                        "endLine": 38,
+                        "endColumn": 15,
+                        "endOffset": 832
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 505,
+                    "endLine": 21,
+                    "endColumn": 15,
+                    "endOffset": 678
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\array.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 0,
+                        "startOffset": 836,
+                        "endLine": 44,
+                        "endColumn": 15,
+                        "endOffset": 1013
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 683,
+                    "endLine": 56,
+                    "endColumn": 15,
+                    "endOffset": 2583
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\array.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 0,
+                        "startOffset": 2822,
+                        "endLine": 144,
+                        "endColumn": 15,
+                        "endOffset": 4756
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2588,
+                    "endLine": 91,
+                    "endColumn": 15,
+                    "endOffset": 4033
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\array.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 0,
+                        "startOffset": 1339,
+                        "endLine": 108,
+                        "endColumn": 15,
+                        "endOffset": 2818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 4038,
+                    "endLine": 95,
+                    "endColumn": 15,
+                    "endOffset": 4171
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\array.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 356,
+                        "endLine": 20,
+                        "endColumn": 15,
+                        "endOffset": 492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 4176,
+                    "endLine": 99,
+                    "endColumn": 15,
+                    "endOffset": 4268
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\array.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 257,
+                        "endLine": 15,
+                        "endColumn": 15,
+                        "endOffset": 352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 4273,
+                    "endLine": 103,
+                    "endColumn": 15,
+                    "endOffset": 4387
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\array.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 0,
+                        "startOffset": 498,
+                        "endLine": 26,
+                        "endColumn": 15,
+                        "endOffset": 615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 4392,
+                    "endLine": 107,
+                    "endColumn": 15,
+                    "endOffset": 4481
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\array.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 0,
+                        "startOffset": 619,
+                        "endLine": 31,
+                        "endColumn": 15,
+                        "endOffset": 711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 4486,
+                    "endLine": 111,
+                    "endColumn": 15,
+                    "endOffset": 4618
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\array.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 118,
+                        "endLine": 10,
+                        "endColumn": 15,
+                        "endOffset": 253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 4623,
+                    "endLine": 115,
+                    "endColumn": 15,
+                    "endOffset": 4715
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\array.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 0,
+                        "startOffset": 19,
+                        "endLine": 5,
+                        "endColumn": 15,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 4720,
+                    "endColumn": 47,
+                    "endOffset": 4763
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 2,
+                        "startOffset": 1598,
+                        "endColumn": 45,
+                        "endOffset": 1641
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 4768,
+                    "endColumn": 35,
+                    "endOffset": 4799
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 2,
+                        "startOffset": 2520,
+                        "endColumn": 33,
+                        "endOffset": 2551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 4804,
+                    "endColumn": 71,
+                    "endOffset": 4871
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 2,
+                        "startOffset": 4224,
+                        "endColumn": 69,
+                        "endOffset": 4291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 4876,
+                    "endColumn": 35,
+                    "endOffset": 4907
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 2,
+                        "startOffset": 2555,
+                        "endColumn": 33,
+                        "endOffset": 2586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 4912,
+                    "endColumn": 69,
+                    "endOffset": 4977
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 2,
+                        "startOffset": 4295,
+                        "endColumn": 67,
+                        "endOffset": 4360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 4982,
+                    "endColumn": 49,
+                    "endOffset": 5027
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 1,
+                        "startOffset": 8734,
+                        "endColumn": 46,
+                        "endOffset": 8779
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 5032,
+                    "endColumn": 46,
+                    "endOffset": 5074
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 2,
+                        "startOffset": 2474,
+                        "endColumn": 44,
+                        "endOffset": 2516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 5079,
+                    "endColumn": 65,
+                    "endOffset": 5140
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 2,
+                        "startOffset": 2864,
+                        "endColumn": 63,
+                        "endOffset": 2925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 5145,
+                    "endColumn": 49,
+                    "endOffset": 5190
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 1,
+                        "startOffset": 7442,
+                        "endColumn": 46,
+                        "endOffset": 7487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 5195,
+                    "endColumn": 101,
+                    "endOffset": 5292
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 2,
+                        "startOffset": 1645,
+                        "endColumn": 99,
+                        "endOffset": 1742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 5297,
+                    "endColumn": 41,
+                    "endOffset": 5334
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 2,
+                        "startOffset": 1785,
+                        "endColumn": 39,
+                        "endOffset": 1822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 5339,
+                    "endColumn": 39,
+                    "endOffset": 5374
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 2,
+                        "startOffset": 1746,
+                        "endColumn": 37,
+                        "endOffset": 1781
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 5379,
+                    "endColumn": 66,
+                    "endOffset": 5441
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 2,
+                        "startOffset": 5669,
+                        "endColumn": 64,
+                        "endOffset": 5731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 5446,
+                    "endColumn": 53,
+                    "endOffset": 5495
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 0,
+                        "startOffset": 8628,
+                        "endColumn": 49,
+                        "endOffset": 8677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 5500,
+                    "endColumn": 244,
+                    "endOffset": 5740
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 0,
+                        "startOffset": 8292,
+                        "endColumn": 240,
+                        "endOffset": 8532
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 5745,
+                    "endColumn": 69,
+                    "endOffset": 5810
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 2,
+                        "startOffset": 5420,
+                        "endColumn": 67,
+                        "endOffset": 5485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 5815,
+                    "endColumn": 41,
+                    "endOffset": 5852
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 144,
+                        "startColumn": 1,
+                        "startOffset": 8983,
+                        "endColumn": 38,
+                        "endOffset": 9020
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 5857,
+                    "endColumn": 39,
+                    "endOffset": 5892
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 146,
+                        "startColumn": 1,
+                        "startOffset": 9063,
+                        "endColumn": 36,
+                        "endOffset": 9098
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 5897,
+                    "endColumn": 49,
+                    "endOffset": 5942
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 3,
+                        "startOffset": 7394,
+                        "endColumn": 48,
+                        "endOffset": 7439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 5947,
+                    "endColumn": 40,
+                    "endOffset": 5983
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 2,
+                        "startOffset": 1968,
+                        "endColumn": 38,
+                        "endOffset": 2004
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 5988,
+                    "endColumn": 43,
+                    "endOffset": 6027
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 2,
+                        "startOffset": 2008,
+                        "endColumn": 41,
+                        "endOffset": 2047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 6032,
+                    "endColumn": 43,
+                    "endOffset": 6071
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 2,
+                        "startOffset": 2051,
+                        "endColumn": 41,
+                        "endOffset": 2090
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 6076,
+                    "endColumn": 46,
+                    "endOffset": 6118
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 2,
+                        "startOffset": 2965,
+                        "endColumn": 44,
+                        "endOffset": 3007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 6123,
+                    "endColumn": 49,
+                    "endOffset": 6168
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 2,
+                        "startOffset": 2130,
+                        "endColumn": 47,
+                        "endOffset": 2175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 6173,
+                    "endColumn": 87,
+                    "endOffset": 6256
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 2,
+                        "startOffset": 5489,
+                        "endColumn": 85,
+                        "endOffset": 5572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 6261,
+                    "endColumn": 84,
+                    "endOffset": 6341
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 2,
+                        "startOffset": 1467,
+                        "endColumn": 82,
+                        "endOffset": 1547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 6346,
+                    "endColumn": 80,
+                    "endOffset": 6422
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 2,
+                        "startOffset": 1328,
+                        "endColumn": 78,
+                        "endOffset": 1404
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 6427,
+                    "endColumn": 57,
+                    "endOffset": 6480
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 1,
+                        "startOffset": 8782,
+                        "endColumn": 54,
+                        "endOffset": 8835
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 6485,
+                    "endColumn": 41,
+                    "endOffset": 6522
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 145,
+                        "startColumn": 1,
+                        "startOffset": 9023,
+                        "endColumn": 38,
+                        "endOffset": 9060
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 6527,
+                    "endColumn": 46,
+                    "endOffset": 6569
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 2,
+                        "startOffset": 912,
+                        "endColumn": 44,
+                        "endOffset": 954
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 6574,
+                    "endColumn": 39,
+                    "endOffset": 6609
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 2,
+                        "startOffset": 1929,
+                        "endColumn": 37,
+                        "endOffset": 1964
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 6614,
+                    "endColumn": 39,
+                    "endOffset": 6649
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 2,
+                        "startOffset": 873,
+                        "endColumn": 37,
+                        "endOffset": 908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 6654,
+                    "endColumn": 49,
+                    "endOffset": 6699
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 1,
+                        "startOffset": 7490,
+                        "endColumn": 46,
+                        "endOffset": 7535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 6704,
+                    "endColumn": 36,
+                    "endOffset": 6736
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 2,
+                        "startOffset": 2094,
+                        "endColumn": 34,
+                        "endOffset": 2126
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 6741,
+                    "endColumn": 72,
+                    "endOffset": 6809
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\9.8.0\\res\\values-es\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 237,
+                        "endColumn": 68,
+                        "endOffset": 305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 6814,
+                    "endColumn": 36,
+                    "endOffset": 6846
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 2,
+                        "startOffset": 2929,
+                        "endColumn": 34,
+                        "endOffset": 2961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 6851,
+                    "endColumn": 62,
+                    "endOffset": 6909
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 2,
+                        "startOffset": 460,
+                        "endColumn": 60,
+                        "endOffset": 518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 6914,
+                    "endColumn": 70,
+                    "endOffset": 6980
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 2,
+                        "startOffset": 6521,
+                        "endColumn": 68,
+                        "endOffset": 6587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 6985,
+                    "endColumn": 47,
+                    "endOffset": 7028
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 2,
+                        "startOffset": 2817,
+                        "endColumn": 45,
+                        "endOffset": 2860
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 7033,
+                    "endColumn": 70,
+                    "endOffset": 7099
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 2,
+                        "startOffset": 5966,
+                        "endColumn": 68,
+                        "endOffset": 6032
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 7104,
+                    "endColumn": 51,
+                    "endOffset": 7151
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 2,
+                        "startOffset": 57,
+                        "endColumn": 49,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 7156,
+                    "endColumn": 42,
+                    "endOffset": 7194
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 2,
+                        "startOffset": 5924,
+                        "endColumn": 40,
+                        "endOffset": 5962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 7199,
+                    "endColumn": 49,
+                    "endOffset": 7244
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 1180,
+                        "endColumn": 47,
+                        "endOffset": 1225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 7249,
+                    "endColumn": 47,
+                    "endOffset": 7292
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 1133,
+                        "endColumn": 45,
+                        "endOffset": 1176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 7297,
+                    "endColumn": 70,
+                    "endOffset": 7363
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 2,
+                        "startOffset": 108,
+                        "endColumn": 68,
+                        "endOffset": 174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 7368,
+                    "endColumn": 39,
+                    "endOffset": 7403
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 2,
+                        "startOffset": 6149,
+                        "endColumn": 37,
+                        "endOffset": 6184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 7408,
+                    "endColumn": 109,
+                    "endOffset": 7513
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-es\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 283,
+                        "endColumn": 105,
+                        "endOffset": 388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 7518,
+                    "endColumn": 194,
+                    "endOffset": 7708
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-es\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 389,
+                        "endColumn": 194,
+                        "endOffset": 583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 7713,
+                    "endColumn": 132,
+                    "endOffset": 7841
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-es\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 584,
+                        "endColumn": 128,
+                        "endOffset": 712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 7846,
+                    "endColumn": 109,
+                    "endOffset": 7951
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-es\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 713,
+                        "endColumn": 105,
+                        "endOffset": 818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 7956,
+                    "endColumn": 219,
+                    "endOffset": 8171
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-es\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 819,
+                        "endColumn": 219,
+                        "endOffset": 1038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 8176,
+                    "endColumn": 134,
+                    "endOffset": 8306
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-es\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 1039,
+                        "endColumn": 130,
+                        "endOffset": 1169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 8311,
+                    "endColumn": 138,
+                    "endOffset": 8445
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-es\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 1170,
+                        "endColumn": 134,
+                        "endOffset": 1304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 8450,
+                    "endColumn": 218,
+                    "endOffset": 8664
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.8.0\\res\\values-es\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 218,
+                        "endOffset": 503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 8669,
+                    "endColumn": 250,
+                    "endOffset": 8915
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-es\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 1305,
+                        "endColumn": 250,
+                        "endOffset": 1555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 8920,
+                    "endColumn": 110,
+                    "endOffset": 9026
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-es\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 1556,
+                        "endColumn": 106,
+                        "endOffset": 1662
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 9031,
+                    "endColumn": 195,
+                    "endOffset": 9222
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-es\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1663,
+                        "endColumn": 195,
+                        "endOffset": 1858
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 9227,
+                    "endColumn": 133,
+                    "endOffset": 9356
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-es\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 1859,
+                        "endColumn": 129,
+                        "endOffset": 1988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 9361,
+                    "endColumn": 223,
+                    "endOffset": 9580
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-es\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 1989,
+                        "endColumn": 223,
+                        "endOffset": 2212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 9585,
+                    "endColumn": 186,
+                    "endOffset": 9767
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-es\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 2213,
+                        "endColumn": 182,
+                        "endOffset": 2395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 9772,
+                    "endColumn": 96,
+                    "endOffset": 9864
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-es\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 2396,
+                        "endColumn": 92,
+                        "endOffset": 2488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 9869,
+                    "endColumn": 98,
+                    "endOffset": 9963
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-es\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 2489,
+                        "endColumn": 94,
+                        "endOffset": 2583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 9968,
+                    "endColumn": 113,
+                    "endOffset": 10077
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-es\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 2584,
+                        "endColumn": 109,
+                        "endOffset": 2693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 10082,
+                    "endColumn": 54,
+                    "endOffset": 10132
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 2,
+                        "startOffset": 230,
+                        "endColumn": 52,
+                        "endOffset": 280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 10137,
+                    "endColumn": 63,
+                    "endOffset": 10196
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 2,
+                        "startOffset": 5814,
+                        "endColumn": 61,
+                        "endOffset": 5873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 10201,
+                    "endColumn": 136,
+                    "endOffset": 10333
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\9.8.0\\res\\values-es\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 306,
+                        "endColumn": 132,
+                        "endOffset": 438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 10338,
+                    "endColumn": 106,
+                    "endOffset": 10440
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\9.8.0\\res\\values-es\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 439,
+                        "endColumn": 102,
+                        "endOffset": 541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 10445,
+                    "endColumn": 58,
+                    "endOffset": 10499
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 2,
+                        "startOffset": 284,
+                        "endColumn": 56,
+                        "endOffset": 338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 10504,
+                    "endColumn": 63,
+                    "endOffset": 10563
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 2,
+                        "startOffset": 6227,
+                        "endColumn": 61,
+                        "endOffset": 6286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 10568,
+                    "endColumn": 51,
+                    "endOffset": 10615
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 1,
+                        "startOffset": 7538,
+                        "endColumn": 48,
+                        "endOffset": 7585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 10620,
+                    "endColumn": 37,
+                    "endOffset": 10653
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 147,
+                        "startColumn": 1,
+                        "startOffset": 9101,
+                        "endColumn": 34,
+                        "endOffset": 9134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 10658,
+                    "endColumn": 107,
+                    "endOffset": 10761
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\9.8.0\\res\\values-es\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 542,
+                        "endColumn": 103,
+                        "endOffset": 645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 10766,
+                    "endColumn": 116,
+                    "endOffset": 10878
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\9.8.0\\res\\values-es\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 646,
+                        "endColumn": 112,
+                        "endOffset": 758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 10883,
+                    "endColumn": 108,
+                    "endOffset": 10987
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\9.8.0\\res\\values-es\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 759,
+                        "endColumn": 104,
+                        "endOffset": 863
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 10992,
+                    "endColumn": 105,
+                    "endOffset": 11093
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\9.8.0\\res\\values-es\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 864,
+                        "endColumn": 101,
+                        "endOffset": 965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 191,
+                    "startColumn": 4,
+                    "startOffset": 11098,
+                    "endColumn": 74,
+                    "endOffset": 11168
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\9.8.0\\res\\values-es\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 966,
+                        "endColumn": 70,
+                        "endOffset": 1036
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 11173,
+                    "endColumn": 55,
+                    "endOffset": 11224
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 2,
+                        "startOffset": 6348,
+                        "endColumn": 53,
+                        "endOffset": 6399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 11229,
+                    "endColumn": 95,
+                    "endOffset": 11320
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 2,
+                        "startOffset": 6591,
+                        "endColumn": 93,
+                        "endOffset": 6682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 11325,
+                    "endColumn": 69,
+                    "endOffset": 11390
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 2,
+                        "startOffset": 6452,
+                        "endColumn": 67,
+                        "endOffset": 6517
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 11395,
+                    "endColumn": 43,
+                    "endOffset": 11434
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 2,
+                        "startOffset": 2431,
+                        "endColumn": 41,
+                        "endOffset": 2470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 11439,
+                    "endColumn": 43,
+                    "endOffset": 11478
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 2,
+                        "startOffset": 2774,
+                        "endColumn": 41,
+                        "endOffset": 2813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 11483,
+                    "endColumn": 55,
+                    "endOffset": 11534
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 1,
+                        "startOffset": 8838,
+                        "endColumn": 52,
+                        "endOffset": 8889
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 11539,
+                    "endColumn": 45,
+                    "endOffset": 11580
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 2,
+                        "startOffset": 2687,
+                        "endColumn": 43,
+                        "endOffset": 2728
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 11585,
+                    "endColumn": 1213,
+                    "endOffset": 12794
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 2,
+                        "startOffset": 3011,
+                        "endColumn": 1211,
+                        "endOffset": 4220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 12799,
+                    "endColumn": 781,
+                    "endOffset": 13576
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 2,
+                        "startOffset": 4364,
+                        "endColumn": 779,
+                        "endOffset": 5141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 13581,
+                    "endLine": 215,
+                    "endColumn": 9,
+                    "endOffset": 14069
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 7784,
+                        "endLine": 127,
+                        "endColumn": 9,
+                        "endOffset": 8286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 14074,
+                    "endColumn": 39,
+                    "endOffset": 14109
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 2,
+                        "startOffset": 6188,
+                        "endColumn": 37,
+                        "endOffset": 6223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 14114,
+                    "endColumn": 49,
+                    "endOffset": 14159
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 2,
+                        "startOffset": 6403,
+                        "endColumn": 47,
+                        "endOffset": 6448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 14164,
+                    "endColumn": 40,
+                    "endOffset": 14200
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 1229,
+                        "endColumn": 38,
+                        "endOffset": 1265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 219,
+                    "startColumn": 4,
+                    "startOffset": 14205,
+                    "endColumn": 46,
+                    "endOffset": 14247
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 2,
+                        "startOffset": 1883,
+                        "endColumn": 44,
+                        "endOffset": 1925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 220,
+                    "startColumn": 4,
+                    "startOffset": 14252,
+                    "endColumn": 50,
+                    "endOffset": 14298
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 2,
+                        "startOffset": 6099,
+                        "endColumn": 48,
+                        "endOffset": 6145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 221,
+                    "startColumn": 4,
+                    "startOffset": 14303,
+                    "endColumn": 46,
+                    "endOffset": 14345
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 1087,
+                        "endColumn": 44,
+                        "endOffset": 1129
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 14350,
+                    "endColumn": 45,
+                    "endOffset": 14391
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 1042,
+                        "endColumn": 43,
+                        "endOffset": 1083
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 14396,
+                    "endColumn": 60,
+                    "endOffset": 14452
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 1,
+                        "startOffset": 7329,
+                        "endColumn": 57,
+                        "endOffset": 7385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 14457,
+                    "endColumn": 54,
+                    "endOffset": 14507
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 3,
+                        "startOffset": 7276,
+                        "endColumn": 53,
+                        "endOffset": 7326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 14512,
+                    "endColumn": 54,
+                    "endOffset": 14562
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 1,
+                        "startOffset": 8892,
+                        "endColumn": 51,
+                        "endOffset": 8942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 14567,
+                    "endColumn": 45,
+                    "endOffset": 14608
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 0,
+                        "startOffset": 8536,
+                        "endColumn": 41,
+                        "endOffset": 8577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 14613,
+                    "endColumn": 59,
+                    "endOffset": 14668
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 2,
+                        "startOffset": 1408,
+                        "endColumn": 57,
+                        "endOffset": 1463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 14673,
+                    "endColumn": 64,
+                    "endOffset": 14733
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 2,
+                        "startOffset": 6758,
+                        "endColumn": 62,
+                        "endOffset": 6818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 14738,
+                    "endColumn": 42,
+                    "endOffset": 14776
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 2,
+                        "startOffset": 2732,
+                        "endColumn": 40,
+                        "endOffset": 2770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 14781,
+                    "endColumn": 40,
+                    "endOffset": 14817
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 2,
+                        "startOffset": 5338,
+                        "endColumn": 38,
+                        "endOffset": 5374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 231,
+                    "startColumn": 4,
+                    "startOffset": 14822,
+                    "endColumn": 39,
+                    "endOffset": 14857
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 0,
+                        "startOffset": 7739,
+                        "endColumn": 35,
+                        "endOffset": 7774
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 232,
+                    "startColumn": 4,
+                    "startOffset": 14862,
+                    "endColumn": 64,
+                    "endOffset": 14922
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 1,
+                        "startOffset": 7588,
+                        "endColumn": 61,
+                        "endOffset": 7648
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 233,
+                    "startColumn": 4,
+                    "startOffset": 14927,
+                    "endColumn": 63,
+                    "endOffset": 14986
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 2,
+                        "startOffset": 342,
+                        "endColumn": 61,
+                        "endOffset": 401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 234,
+                    "startColumn": 4,
+                    "startOffset": 14991,
+                    "endColumn": 55,
+                    "endOffset": 15042
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 2,
+                        "startOffset": 405,
+                        "endColumn": 53,
+                        "endOffset": 456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 235,
+                    "startColumn": 4,
+                    "startOffset": 15047,
+                    "endColumn": 49,
+                    "endOffset": 15092
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 0,
+                        "startOffset": 8579,
+                        "endColumn": 45,
+                        "endOffset": 8624
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 236,
+                    "startColumn": 4,
+                    "startOffset": 15097,
+                    "endColumn": 46,
+                    "endOffset": 15139
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 2,
+                        "startOffset": 5194,
+                        "endColumn": 44,
+                        "endOffset": 5236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 237,
+                    "startColumn": 4,
+                    "startOffset": 15144,
+                    "endColumn": 42,
+                    "endOffset": 15182
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 2,
+                        "startOffset": 5296,
+                        "endColumn": 40,
+                        "endOffset": 5334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 238,
+                    "startColumn": 4,
+                    "startOffset": 15187,
+                    "endColumn": 47,
+                    "endOffset": 15230
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 2,
+                        "startOffset": 5877,
+                        "endColumn": 45,
+                        "endOffset": 5920
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 239,
+                    "startColumn": 4,
+                    "startOffset": 15235,
+                    "endColumn": 56,
+                    "endOffset": 15287
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 2,
+                        "startOffset": 5240,
+                        "endColumn": 54,
+                        "endOffset": 5292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 240,
+                    "startColumn": 4,
+                    "startOffset": 15292,
+                    "endColumn": 47,
+                    "endOffset": 15335
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 2,
+                        "startOffset": 5622,
+                        "endColumn": 45,
+                        "endOffset": 5665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 241,
+                    "startColumn": 4,
+                    "startOffset": 15340,
+                    "endColumn": 79,
+                    "endOffset": 15415
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 2,
+                        "startOffset": 5735,
+                        "endColumn": 77,
+                        "endOffset": 5810
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 15420,
+                    "endColumn": 105,
+                    "endOffset": 15521
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 2,
+                        "startOffset": 6892,
+                        "endColumn": 103,
+                        "endOffset": 6993
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 243,
+                    "startColumn": 4,
+                    "startOffset": 15526,
+                    "endColumn": 105,
+                    "endOffset": 15627
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 2,
+                        "startOffset": 7069,
+                        "endColumn": 103,
+                        "endOffset": 7170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 244,
+                    "startColumn": 4,
+                    "startOffset": 15632,
+                    "endColumn": 113,
+                    "endOffset": 15741
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 2,
+                        "startOffset": 760,
+                        "endColumn": 111,
+                        "endOffset": 869
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 245,
+                    "startColumn": 4,
+                    "startOffset": 15746,
+                    "endColumn": 92,
+                    "endOffset": 15834
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 2,
+                        "startOffset": 668,
+                        "endColumn": 90,
+                        "endOffset": 756
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 246,
+                    "startColumn": 4,
+                    "startOffset": 15839,
+                    "endColumn": 39,
+                    "endOffset": 15874
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 1003,
+                        "endColumn": 37,
+                        "endOffset": 1038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 247,
+                    "startColumn": 4,
+                    "startOffset": 15879,
+                    "endColumn": 45,
+                    "endOffset": 15920
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 958,
+                        "endColumn": 43,
+                        "endOffset": 999
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 248,
+                    "startColumn": 4,
+                    "startOffset": 15925,
+                    "endColumn": 48,
+                    "endOffset": 15969
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 0,
+                        "startOffset": 7693,
+                        "endColumn": 44,
+                        "endOffset": 7737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 249,
+                    "startColumn": 4,
+                    "startOffset": 15974,
+                    "endColumn": 39,
+                    "endOffset": 16009
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 2,
+                        "startOffset": 2179,
+                        "endColumn": 37,
+                        "endOffset": 2214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 250,
+                    "startColumn": 4,
+                    "startOffset": 16014,
+                    "endColumn": 74,
+                    "endOffset": 16084
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 2,
+                        "startOffset": 2290,
+                        "endColumn": 72,
+                        "endOffset": 2360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 251,
+                    "startColumn": 4,
+                    "startOffset": 16089,
+                    "endColumn": 67,
+                    "endOffset": 16152
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 2,
+                        "startOffset": 2364,
+                        "endColumn": 65,
+                        "endOffset": 2427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 252,
+                    "startColumn": 4,
+                    "startOffset": 16157,
+                    "endColumn": 72,
+                    "endOffset": 16225
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 2,
+                        "startOffset": 2218,
+                        "endColumn": 70,
+                        "endOffset": 2286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 253,
+                    "startColumn": 4,
+                    "startOffset": 16230,
+                    "endColumn": 58,
+                    "endOffset": 16284
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 2,
+                        "startOffset": 6290,
+                        "endColumn": 56,
+                        "endOffset": 6344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 254,
+                    "startColumn": 4,
+                    "startOffset": 16289,
+                    "endColumn": 46,
+                    "endOffset": 16331
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 2,
+                        "startOffset": 5576,
+                        "endColumn": 44,
+                        "endOffset": 5618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 255,
+                    "startColumn": 4,
+                    "startOffset": 16336,
+                    "endColumn": 72,
+                    "endOffset": 16404
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 2,
+                        "startOffset": 6686,
+                        "endColumn": 70,
+                        "endOffset": 6754
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 256,
+                    "startColumn": 4,
+                    "startOffset": 16409,
+                    "endColumn": 36,
+                    "endOffset": 16441
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 2,
+                        "startOffset": 2651,
+                        "endColumn": 34,
+                        "endOffset": 2683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 257,
+                    "startColumn": 4,
+                    "startOffset": 16446,
+                    "endColumn": 39,
+                    "endOffset": 16481
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 1,
+                        "startOffset": 7651,
+                        "endColumn": 36,
+                        "endOffset": 7686
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 258,
+                    "startColumn": 4,
+                    "startOffset": 16486,
+                    "endColumn": 50,
+                    "endOffset": 16532
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 1,
+                        "startOffset": 8685,
+                        "endColumn": 47,
+                        "endOffset": 8731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 259,
+                    "startColumn": 4,
+                    "startOffset": 16537,
+                    "endColumn": 149,
+                    "endOffset": 16682
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\9.8.0\\res\\values-es\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 1037,
+                        "endColumn": 145,
+                        "endOffset": 1182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 260,
+                    "startColumn": 4,
+                    "startOffset": 16687,
+                    "endColumn": 92,
+                    "endOffset": 16775
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\9.8.0\\res\\values-es\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1183,
+                        "endColumn": 88,
+                        "endOffset": 1271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 261,
+                    "startColumn": 4,
+                    "startOffset": 16780,
+                    "endColumn": 52,
+                    "endOffset": 16828
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 2,
+                        "startOffset": 178,
+                        "endColumn": 50,
+                        "endOffset": 226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 16833,
+                    "endColumn": 42,
+                    "endOffset": 16871
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 2,
+                        "startOffset": 5378,
+                        "endColumn": 40,
+                        "endOffset": 5416
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 263,
+                    "startColumn": 4,
+                    "startOffset": 16876,
+                    "endColumn": 70,
+                    "endOffset": 16942
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 2,
+                        "startOffset": 6822,
+                        "endColumn": 68,
+                        "endOffset": 6888
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 264,
+                    "startColumn": 4,
+                    "startOffset": 16947,
+                    "endColumn": 72,
+                    "endOffset": 17015
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 2,
+                        "startOffset": 6997,
+                        "endColumn": 70,
+                        "endOffset": 7065
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 265,
+                    "startColumn": 4,
+                    "startOffset": 17020,
+                    "endColumn": 83,
+                    "endOffset": 17099
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 2,
+                        "startOffset": 585,
+                        "endColumn": 81,
+                        "endOffset": 664
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 266,
+                    "startColumn": 4,
+                    "startOffset": 17104,
+                    "endColumn": 63,
+                    "endOffset": 17163
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 2,
+                        "startOffset": 522,
+                        "endColumn": 61,
+                        "endOffset": 581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 267,
+                    "startColumn": 4,
+                    "startOffset": 17168,
+                    "endColumn": 47,
+                    "endOffset": 17211
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 2,
+                        "startOffset": 1551,
+                        "endColumn": 45,
+                        "endOffset": 1594
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 17216,
+                    "endColumn": 63,
+                    "endOffset": 17275
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 2,
+                        "startOffset": 6036,
+                        "endColumn": 61,
+                        "endOffset": 6095
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 269,
+                    "startColumn": 4,
+                    "startOffset": 17280,
+                    "endColumn": 49,
+                    "endOffset": 17325
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 2,
+                        "startOffset": 5145,
+                        "endColumn": 47,
+                        "endOffset": 5190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 270,
+                    "startColumn": 4,
+                    "startOffset": 17330,
+                    "endColumn": 61,
+                    "endOffset": 17387
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 2,
+                        "startOffset": 2590,
+                        "endColumn": 59,
+                        "endOffset": 2647
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 271,
+                    "startColumn": 4,
+                    "startOffset": 17392,
+                    "endColumn": 39,
+                    "endOffset": 17427
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 143,
+                        "startColumn": 1,
+                        "startOffset": 8945,
+                        "endColumn": 36,
+                        "endOffset": 8980
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 272,
+                    "startColumn": 4,
+                    "startOffset": 17432,
+                    "endColumn": 61,
+                    "endOffset": 17489
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 2,
+                        "startOffset": 7212,
+                        "endColumn": 59,
+                        "endOffset": 7269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 17494,
+                    "endColumn": 57,
+                    "endOffset": 17547
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 2,
+                        "startOffset": 1826,
+                        "endColumn": 55,
+                        "endOffset": 1879
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 274,
+                    "startColumn": 4,
+                    "startOffset": 17552,
+                    "endColumn": 59,
+                    "endOffset": 17607
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 2,
+                        "startOffset": 1269,
+                        "endColumn": 57,
+                        "endOffset": 1324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 275,
+                    "startColumn": 4,
+                    "startOffset": 17612,
+                    "endColumn": 38,
+                    "endOffset": 17646
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 2,
+                        "startOffset": 7174,
+                        "endColumn": 36,
+                        "endOffset": 7208
+                    }
+                }
+            }
+        ]
+    }
+]

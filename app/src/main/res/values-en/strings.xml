@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weight Diary</string>
+    <string name="chart_no_data">No data for chart</string>
+    <string name="summary_average">Average</string>
+    <string name="config_general_target">Target</string>
+    
+    <string name="currentTimeTextViewText">Current Time</string>
+	<string name="nextAlarmString">Next alarm:</string>
+	<string name="noAlarmString">Next alarm</string>
+	
+	<string name="alarm_service_started">The alarm service has started</string>
+	<string name="target_weight">Target weight</string>
+	<string name="target_waist_size">Target waist size</string>
+	<string name="please_provide_target_weight">Please provide target weight</string>
+	<string name="pound_short">lbs</string>
+	<string name="pound">pound</string>
+	<string name="kilogram_short">kg</string>
+	<string name="kilogram">kilogram</string>
+	<string name="centimetre_short">cm</string>
+	<string name="centimetre">centimetre</string>
+	<string name="inch">inch</string>
+	<string name="weight_unit">Weight unit</string>
+	<string name="Select_unit_of_weight">Select unit of weight</string>
+	
+	
+	
+	<string name="length_unit">Length unit</string>
+	<string name="Select_unit_of_length">Select unit of length</string>
+	<string name="Weight">Weight</string>
+	<string name="Waist_size">Waist</string>
+	
+	<string name="please_provide_target_waist_size">Please provide target waist size</string>
+	<string name="tendency">Tendency:</string>
+	<string name="Attention">Attention</string>
+	<string name="Data_on_this_date_already_exist">Data on this date already exist</string>
+	<string name="Edit">Edit</string>
+	<string name="Delete">Delete</string>
+	<string name="weight_manager">Weight manager</string>
+	<string name="inch_short">in</string>
+	<string name="Week">Week</string>
+	<string name="Month">Month</string>
+	<string name="Month3">3 Month</string>
+	<string name="Month6">6 Month</string>
+	<string name="Year">Year</string>
+	<string name="Optoins">Options</string>
+	<string name="quit">Quit</string>
+	<string name="quit_mesage">Do you really want to quit?</string>
+	<string name="quit_feedback">Please leave your feedback.</string>
+	<string name="quit_feedback_title">For better app.</string>
+	<string name="feedback">Feedback</string>
+	<string name="Cancel">Cancel</string>
+	<string name="BMI">BMI</string>
+	<string name="BMR">BMR</string>
+	<string name="user_info">User information</string>
+	<string name="sex">Gender</string>
+	<string name="heigh">Heigh</string>
+	<string name="male">male</string>
+	<string name="female">female</string>
+	<string name="animation">Animation</string>
+	<string name="ChekBoxAnimation">Turn on animation</string>
+	<string name="age">Age</string>
+	<string name="NoData">no data</string>
+	<string name="helpBMI">The BMI is a statistical measurement derived from your height and weight. Although it is considered to be a useful way to estimate healthy body weight, it does not measure the percentage of body fat. The BMI measurement can sometimes be misleading - a muscleman may have a high BMI but have much less fat than an unfit person whose BMI is lower. However, in general, the BMI measurement can be a useful indicator for the average person.
+		\n\n
+		Below 18.5	Underweight\n
+		18.5 - 24.9	Normal\n
+		25.0 - 29.9	Overweight\n
+		30.0 and Above	Obese\n\n	    
+	    </string>
+	<string name="BMIFullString">Body Mass Index (BMI)</string>
+	<string name="BRMFullString">Basal Metabolic Rate (BMR)</string>
+	<string name="helpBRM">You use energy no matter what you re doing, even when sleeping. The BMR Calculator will calculate your Basal Metabolic Rate (BMR); the number of calories you d burn if you stayed in bed all day.
+	\n    If you ve noticed that every year, it becomes harder to eat whatever you want and stay slim, youve also learnt that your BMR decreases as you age. Likewise, depriving yourself of food in hopes of losing weight also decreases your BMR, a foil to your intentions. However, a regular routine of cardiovascular exercise can increase your BMR, improving your health and fitness when your bodys ability to burn energy gradually slows down.</string>
+	<string name="underweight">underweight</string>
+	<string name="normal">normal</string>
+	<string name="overweight">overweight</string>
+	<string name="obese">obese</string>
+	<string name="monday">Monday</string>
+	<string name="sunday">Sunday </string>
+	<string name="FirstDayOfWeek">First day of week</string>
+	<string name="ProvideFirstDayOfWeek">Provide  first day of week</string>
+	<string name="security">Security</string>
+	<string name="password">Password</string>
+	<string name="EnterPassword">Enter password</string>
+	<string name="passwords_do_not_match">Рasswords do not match</string>
+	<string name="confirm_password">confirm password</string>
+	<string name="overshoot">Overshoot</string>
+	<string name="bounce">Bounce</string>
+	<string name="anticipate_overshoot">Anticipate/Overshoot</string>
+	<string name="type_of_animation">Type of animation</string>
+
+	<string name="chest">Chest</string>
+	<string name="hip">Hip</string>
+	<string name="data_is_saved">Data is saved.</string>
+	
+
+	<string name="save_database">Save database</string>
+	<string name="delete_all">Delete all</string>
+	<string name="im_port">Import</string>
+	
+	<string name="done_writing_sd">Done writing to SD</string>
+	<string name="all_data_deleted">All data deleted</string>
+	
+	<string name="delete_all_data">You really want to delete all data???</string>
+	<string name="select_import_file">Select import file</string>
+	<string name="lines_imported">lines imported: </string>
+	
+	
+	<string name="target_chest">Target chest</string>
+	<string name="please_provide_target_chest">Please provide target chest</string>
+	
+	<string name="target_hip">Target hip</string>
+	<string name="please_provide_target_hip">Please provide target hip</string>
+	
+	<string name="years">years</string>
+	
+	<string name="weight_diary_plus">Weight Diary Plus</string>
+	
+	<string name="lang_titl">Language</string>
+	<string name="lang_defolt">Default</string>	
+	
+	
+	
+	
+	<string name="MM_DD_YYYY">MM/DD/YYYY</string>
+	<string name="DD_MM_YYYY">DD/MM/YYYY</string>
+	<string name="YYYY_MM_DD">YYYY/MM/DD</string>
+	<string name="date_format">Date format</string>
+	<string name="need_restart">You need to restart app</string>
+	<string name="share">Share</string>	
+	
+	
+	<string name="proc_fat">% fat</string>
+	<string name="neck">Neck</string>
+	
+
+		<string name="helpFAT">Fat in the body is the most accurate measure of progress in diet and exercise.
+				\n	The level of fat in the body of a woman:
+				\n  Essential fat 10-12\u0025
+				\n  Athletes      14-20\u0025
+				\n  Fitness       21-24\u0025
+				\n  Acceptable    25-31\u0025 
+				\n  Obese         ≥ 32\u0025 
+				\n
+				\n  The level of fat in the male:
+				\n  Essential fat 2-4\u0025
+				\n  Athletes       6-13\u0025
+				\n  Fitness        14-17\u0025
+				\n  Acceptable     18-25\u0025
+				\n  Obese          ≥ 26\u0025
+
+</string>
+
+
+
+    
+	
+	
+	<string name="FeedBackText">Hello! We work for you! Help make the program better. If you like the app please place rating or write an e-mail about all the shortcomings and deficiencies. Thank you. Developers.</string>
+	
+	<string name="later">Later</string>
+	<string name="no_senks">No, thanks</string>
+	
+	<string name="FatFullString">% fat</string>	
+	
+	
+	<string name="statistics">Statistics</string>
+	<string name="Baza_d">Database.</string>
+	<string name="Size_baza">Size (records):</string>
+	<string name="first_write">First record</string>
+	<string name="last_write">Last record</string>
+	<string name="vsego">Total</string>
+	<string name="Largest">Highest</string>
+	<string name="Smolest">Lowest</string>
+	<string name="Last">Last</string>
+	<string name="days">days</string>	
+	
+	
+	
+</resources>

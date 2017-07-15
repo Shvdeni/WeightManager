@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\summary_bg.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\drawable\\summary_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\background.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\wheel_bg.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\gradient_line.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\drawable\\gradient_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\custom_dialog_password_bg.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\drawable\\custom_dialog_password_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\custom_dialog_button_date_pressed.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\drawable\\custom_dialog_button_date_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\wheel_val.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\custom_dialog_bg.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\drawable\\custom_dialog_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\custom_dialog_button_date.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\drawable\\custom_dialog_button_date.xml"
+    }
+]

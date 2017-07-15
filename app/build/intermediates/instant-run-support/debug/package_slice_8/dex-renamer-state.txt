@@ -1,0 +1,4 @@
+#Sat Jul 15 12:38:40 CLT 2017
+base.0=C\:\\DSD\\temp\\WeightManager79AS\\WeightManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8
+renamed.0=classes.dex
+file.0=C\:\\DSD\\temp\\WeightManager79AS\\WeightManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8\\classes.dex

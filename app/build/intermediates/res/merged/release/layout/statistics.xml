@@ -1,0 +1,1518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg_800" >
+    
+    
+
+    
+          <ScrollView
+          android:layout_width="fill_parent"
+          android:layout_height="wrap_content"
+          android:layout_weight="1">
+  
+   	<LinearLayout
+   	    android:layout_width="fill_parent"
+   	    android:layout_height="fill_parent"
+   	    android:orientation="vertical">
+    
+   	<LinearLayout
+   	    android:id="@+id/Weight"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:gravity="center"
+	    android:orientation="vertical" >
+	    
+   	    
+		<TextView
+    		    android:layout_width="fill_parent"
+    		    android:layout_height="wrap_content"
+    		    android:gravity="center"
+    		    android:text="@string/Weight"
+    		    android:textColor="#000000"
+    		    android:textSize="@dimen/BottomIncDecTextSize1"
+    		    android:textStyle="bold"
+    		    android:layout_weight="1" />
+		
+
+		
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Last"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:layout_weight="1" />					   	    
+	   	    
+	    
+	    </LinearLayout>		
+		
+		
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Week"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/WeightWeek"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	   	    
+	    
+	    </LinearLayout>
+	    
+	   	
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Month"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/WeightMonth"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	    </LinearLayout>	   	
+		
+	   	
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Month3"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/WeightMonth3"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	    </LinearLayout>	
+	    
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Month6"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/WeightMonth6"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	    </LinearLayout>
+	    
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Year"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/WeightYear"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	    </LinearLayout>	   		   	
+	   	
+	   	
+	   	
+	   	
+	   		   	
+		
+	    
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Smolest"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/WeightSmolest"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	   	    
+	    
+	    </LinearLayout>
+	    
+	   	
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Largest"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/WeightLargest"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	   	    
+	    
+	    </LinearLayout>	   	
+	   	
+	   	
+	   	
+    </LinearLayout>
+    
+    
+   	
+    <View
+        android:id="@+id/ViewPar1"
+        android:layout_width="wrap_content"
+        android:layout_height="1dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/gradient_line" >
+	</View>	   	
+   	
+    
+    
+    
+    
+    
+    
+   	<LinearLayout
+   	    android:id="@+id/Waist"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:gravity="center"
+	    android:orientation="vertical" >
+	    
+   	    
+		<TextView
+    		    android:layout_width="fill_parent"
+    		    android:layout_height="wrap_content"
+    		    android:gravity="center"
+    		    android:text="@string/Waist_size"
+    		    android:textColor="#000000"
+    		    android:textSize="@dimen/BottomIncDecTextSize1"
+    		    android:textStyle="bold"
+    		    android:layout_weight="1" />
+		
+
+		
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Last"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:layout_weight="1" />					   	    
+	   	    
+	    
+	    </LinearLayout>		
+		
+		
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Week"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/WaistWeek"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	   	    
+	    
+	    </LinearLayout>
+	    
+	   	
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Month"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/WaistMonth"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	    </LinearLayout>	   	
+		
+	   	
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Month3"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/WaistMonth3"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	    </LinearLayout>	
+	    
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Month6"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/WaistMonth6"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	    </LinearLayout>
+	    
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Year"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/WaistYear"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	    </LinearLayout>	   		   	
+	   	
+	   	
+	   	
+	   	
+	   		   	
+		
+	    
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Smolest"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/WaistSmolest"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	   	    
+	    
+	    </LinearLayout>
+	    
+	   	
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Largest"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/WaistLargest"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	   	    
+	    
+	    </LinearLayout>	   	
+	   	
+	   	
+	   	
+    </LinearLayout>
+    
+    
+   	
+    <View
+        android:id="@+id/ViewPar2"
+        android:layout_width="wrap_content"
+        android:layout_height="1dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/gradient_line" >
+	</View>
+	
+    
+    
+   	<LinearLayout
+   	    android:id="@+id/Chest"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:gravity="center"
+	    android:orientation="vertical" >
+	    
+   	    
+		<TextView
+    		    android:layout_width="fill_parent"
+    		    android:layout_height="wrap_content"
+    		    android:gravity="center"
+    		    android:text="@string/chest"
+    		    android:textColor="#000000"
+    		    android:textSize="@dimen/BottomIncDecTextSize1"
+    		    android:textStyle="bold"
+    		    android:layout_weight="1" />
+		
+
+		
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Last"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:layout_weight="1" />					   	    
+	   	    
+	    
+	    </LinearLayout>		
+		
+		
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Week"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/ChestWeek"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	   	    
+	    
+	    </LinearLayout>
+	    
+	   	
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Month"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/ChestMonth"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	    </LinearLayout>	   	
+		
+	   	
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Month3"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/ChestMonth3"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	    </LinearLayout>	
+	    
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Month6"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/ChestMonth6"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	    </LinearLayout>
+	    
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Year"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/ChestYear"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	    </LinearLayout>	   		   	
+	   	
+	   	
+	   	
+	   	
+	   		   	
+		
+	    
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Smolest"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/ChestSmolest"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	   	    
+	    
+	    </LinearLayout>
+	    
+	   	
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Largest"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/ChestLargest"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	   	    
+	    
+	    </LinearLayout>	   	
+	   	
+	   	
+	   	
+    </LinearLayout>
+    
+    
+   	
+    <View
+        android:id="@+id/ViewPar3"
+        android:layout_width="wrap_content"
+        android:layout_height="1dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/gradient_line" >
+	</View>
+	
+    
+    
+   	<LinearLayout
+   	    android:id="@+id/Hip"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:gravity="center"
+	    android:orientation="vertical" >
+	    
+   	    
+		<TextView
+    		    android:layout_width="fill_parent"
+    		    android:layout_height="wrap_content"
+    		    android:gravity="center"
+    		    android:text="@string/hip"
+    		    android:textColor="#000000"
+    		    android:textSize="@dimen/BottomIncDecTextSize1"
+    		    android:textStyle="bold"
+    		    android:layout_weight="1" />
+		
+
+		
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Last"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:layout_weight="1" />					   	    
+	   	    
+	    
+	    </LinearLayout>		
+		
+		
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Week"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/HipWeek"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	   	    
+	    
+	    </LinearLayout>
+	    
+	   	
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Month"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/HipMonth"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	    </LinearLayout>	   	
+		
+	   	
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Month3"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/HipMonth3"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	    </LinearLayout>	
+	    
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Month6"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/HipMonth6"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	    </LinearLayout>
+	    
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Year"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/HipYear"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	    </LinearLayout>	   		   	
+	   	
+	   	
+	   	
+	   	
+	   		   	
+		
+	    
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Smolest"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/HipSmolest"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	   	    
+	    
+	    </LinearLayout>
+	    
+	   	
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Largest"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/HipLargest"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	   	    
+	    
+	    </LinearLayout>	   	
+	   	
+	   	
+	   	
+    </LinearLayout>
+    
+    
+   	
+    <View
+        android:id="@+id/ViewPar4"
+        android:layout_width="wrap_content"
+        android:layout_height="1dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/gradient_line" >
+	</View>
+	
+    
+    
+    
+   	<LinearLayout
+   	    android:id="@+id/Neck"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:gravity="center"
+	    android:orientation="vertical" >
+	    
+   	    
+		<TextView
+    		    android:layout_width="fill_parent"
+    		    android:layout_height="wrap_content"
+    		    android:gravity="center"
+    		    android:text="@string/neck"
+    		    android:textColor="#000000"
+    		    android:textSize="@dimen/BottomIncDecTextSize1"
+    		    android:textStyle="bold"
+    		    android:layout_weight="1" />
+		
+
+		
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Last"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:layout_weight="1" />					   	    
+	   	    
+	    
+	    </LinearLayout>		
+		
+		
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Week"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/NeckWeek"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	   	    
+	    
+	    </LinearLayout>
+	    
+	   	
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Month"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/NeckMonth"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	    </LinearLayout>	   	
+		
+	   	
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Month3"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/NeckMonth3"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	    </LinearLayout>	
+	    
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Month6"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/NeckMonth6"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	    </LinearLayout>
+	    
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Year"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/NeckYear"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	    </LinearLayout>	   		   	
+	   	
+	   	
+	   	
+	   	
+	   		   	
+		
+	    
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Smolest"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/NeckSmolest"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	   	    
+	    
+	    </LinearLayout>
+	    
+	   	
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+	   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Largest"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/NeckLargest"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	   	    
+	    
+	    </LinearLayout>	   	
+	   	
+	   	
+	   	
+    </LinearLayout>
+    
+    
+   	
+    <View
+        android:id="@+id/ViewPar5"
+        android:layout_width="wrap_content"
+        android:layout_height="1dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/gradient_line" >
+	</View>
+	
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+   
+    
+    
+    
+    
+    
+    
+    
+    
+   	
+   	<LinearLayout
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:gravity="center"
+	    android:orientation="vertical" >   	
+   	
+   	    
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Baza_d"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />   	    
+   	    
+   	    
+   	 </LinearLayout>
+   	
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/Size_baza"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/Size_db"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	    </LinearLayout>   	
+   	
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/first_write"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/first_write"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	    </LinearLayout>   	
+	    
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/last_write"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/last_write"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	    </LinearLayout>
+   	
+	   	<LinearLayout
+	   	    android:layout_width="fill_parent"
+	   	    android:layout_height="wrap_content"
+	   	    android:orientation="horizontal" >
+				<TextView
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="@string/vsego"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />
+				
+				<TextView
+		    		    android:id="@+id/vsego"
+		    		    android:layout_width="fill_parent"
+		    		    android:layout_height="wrap_content"
+		    		    android:gravity="center"
+		    		    android:text="-"
+		    		    android:textColor="#000000"
+		    		    android:textSize="@dimen/BottomIncDecTextSize1"
+		    		    android:textStyle="bold"
+		    		    android:layout_weight="1" />					   	    
+	    </LinearLayout>   	
+   	
+	   	
+	   	
+	   	
+	   	
+	   	
+	   	
+	   	
+	   	
+    	<!-- end --> 
+		
+		</LinearLayout>
+    	 
+    	
+    	</ScrollView> 	   	
+	   	
+	   	
+	   	
+	   	
+	   	
+	   	
+
+</LinearLayout>

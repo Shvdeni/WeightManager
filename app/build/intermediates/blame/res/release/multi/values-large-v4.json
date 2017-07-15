@@ -1,0 +1,216 @@
+[
+    {
+        "outputFile": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-large\\dimen.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 147,
+                        "endColumn": 37,
+                        "endOffset": 184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 43,
+                    "endOffset": 136
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-large\\dimen.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 186,
+                        "endColumn": 39,
+                        "endOffset": 225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 141,
+                    "endColumn": 43,
+                    "endOffset": 180
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-large\\dimen.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 227,
+                        "endColumn": 39,
+                        "endOffset": 266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 185,
+                    "endColumn": 47,
+                    "endOffset": 228
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-large\\dimen.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 270,
+                        "endColumn": 43,
+                        "endOffset": 313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 233,
+                    "endColumn": 48,
+                    "endOffset": 277
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-large\\dimen.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 317,
+                        "endColumn": 44,
+                        "endOffset": 361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 282,
+                    "endColumn": 52,
+                    "endOffset": 330
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-large\\dimen.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 363,
+                        "endColumn": 48,
+                        "endOffset": 411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 335,
+                    "endColumn": 52,
+                    "endOffset": 383
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-large\\dimen.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 413,
+                        "endColumn": 48,
+                        "endOffset": 461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 388,
+                    "endColumn": 50,
+                    "endOffset": 434
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-large\\dimen.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 465,
+                        "endColumn": 46,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 439,
+                    "endColumn": 40,
+                    "endOffset": 475
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-large\\dimen.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 515,
+                        "endColumn": 36,
+                        "endOffset": 551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 480,
+                    "endColumn": 48,
+                    "endOffset": 524
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-large\\dimen.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 99,
+                        "endColumn": 44,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 529,
+                    "endColumn": 44,
+                    "endOffset": 569
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-large\\dimen.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 57,
+                        "endColumn": 40,
+                        "endOffset": 97
+                    }
+                }
+            }
+        ]
+    }
+]

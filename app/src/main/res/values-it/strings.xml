@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">Diario di peso</string>
+  <string name="chart_no_data">Non sono disponibili dati per il grafico</string>
+  <string name="summary_average">Media</string>
+  <string name="config_general_target">Piano</string>
+  <string name="currentTimeTextViewText">Tempo</string>
+  <string name="nextAlarmString">Il promemoria seguente:</string>
+  <string name="noAlarmString">Promemoria.</string>
+  <string name="alarm_service_started">Promemoria</string>
+  <string name="target_weight">Peso previsto</string>
+  <string name="target_waist_size">Girovita previsto</string>
+  <string name="please_provide_target_weight">Inserisci il peso previsto</string>
+  <string name="please_provide_target_waist_size">Si prega di inserire l\'importo previsto di vita</string>
+  <string name="Weight">Peso</string>
+  <string name="Waist_size">Vita</string>
+  <string name="pound_short">Libbra</string>
+  <string name="pound">Libbra</string>
+  <string name="kilogram_short">Kg</string>
+  <string name="kilogram">chilogrammo</string>
+  <string name="centimetre_short">Cm</string>
+  <string name="centimetre">Centimetro</string>
+  <string name="inch">Pollice</string>
+  <string name="weight_unit">Una unità di peso.</string>
+  <string name="Select_unit_of_weight">Selezionare un\'unità di peso.</string>
+  <string name="length_unit">Unità di lunghezza.</string>
+  <string name="Select_unit_of_length">Selezionare un\'unità di lunghezza.</string>
+  <string name="tendency">Trend:</string>
+  <string name="Attention">Attenzione.</string>
+  <string name="Data_on_this_date_already_exist">I dati relativi a tale data già inserito.</string>
+  <string name="Edit">Modifica</string>
+  <string name="Delete">Rimuovere</string>
+  <string name="weight_manager">Peso gestore</string>
+  <string name="inch_short">Pollice</string>
+  <string name="Week">Settimana</string>
+  <string name="Month">Mesi.</string>
+  <string name="Month3">3 mesi.</string>
+  <string name="Month6">6 mesi.</string>
+  <string name="Year">Anno</string>
+  <string name="Optoins">Impostazioni</string>
+  <string name="quit">Produzione</string>
+  <string name="quit_mesage">Sei sicuro di voler uscire?</string>
+  <string name="quit_feedback">Si prega di lasciare i vostri commenti.</string>
+  <string name="quit_feedback_title">Migliorare programma</string>
+  <string name="feedback">Recensione</string>
+  <string name="Cancel">Cancellazione</string>
+  <string name="BMI">BMI</string>
+  <string name="BMR">BSM</string>
+  <string name="user_info">Informazioni per gli utenti</string>
+  <string name="sex">Paul</string>
+  <string name="heigh">Crescita</string>
+  <string name="male">maschio</string>
+  <string name="female">femmina</string>
+  <string name="animation">Animazione</string>
+  <string name="ChekBoxAnimation">Avvio animazione</string>
+  <string name="age">Età</string>
+  <string name="NoData">nessun dato</string>
+  <string name="helpBMI">BMI (Body Mass Index) è la stima del grasso corporeo basato su altezza e peso figure, e si applica a uomini e donne di età compresa tra 18 e 65 anni. BMI consente di determinare inadeguata, normale, sovrappeso e obesità. Un sano BMI è compreso tra 20 - 25. Mark inferiore a 20 può indicare sottopeso, superiore a 25 indica che si può essere in sovrappeso. Si prega di notare che questa è solo uno dei tanti modi possibili per valutare il vostro peso. Se avete domande relative al vostro peso, indirizzo della persona che sarà in grado di valutare con precisione la situazione sulla base di intensi caratteristiche individuali del corpo. \ N \ n indice di massa corporea inferiore a 18,5 = sottopeso * \ n BMI tra 18,5 e 24,9 = peso normale \ n = BMI 25,0-29,9 peso \ n BMI di 30,0 e sopra = obeso \ n \ n \ n * - ". sottopeso" non vi è un conflitto relativo all\'indicatore Gli studi dimostrano che un basso indice di massa corporea è un fattore di rischio per la salute. In questo caso, se non si tiene conto delle persone con un basso indice di massa corporea è associato a patologie gravi e croniche, il tasso di "sottopeso" non può yavlyatsya fattore di rischio, a condizione che sei sano e in buona forma fisica.</string>
+  <string name="BMIFullString">Indice di massa corporea (BMI)</string>
+  <string name="BRMFullString">Tasso metabolico basale (BMR)</string>
+  <string name="helpBRM">Si spende energia continuamente, indipendentemente dal tuo livello di attività, anche quando si dorme. Questa calcolatrice vi aiuterà a calcolare l\'indice di BMR (Basal Metabolic Rate), il numero di calorie che si sarebbe speso, mentre a letto tutto il giorno. Se si nota che il Più si invecchia, più è difficile che tutto ciò che si desidera e mantenersi in forma, è necessario sapere che con l\'età, il BCM è ridotta. BSM anche ridotto se ci si limita al cibo, con la speranza per il peso PONV, in tal modo il corpo si adatta alle nuove condizioni. Mentre nel corso degli anni, la capacità del corpo di bruciare calorie diminuisce, un regolare esercizio fisico può aumentare il vostro BMR, ha avuto un effetto positivo sulla vostra condizione fisica.</string>
+  <string name="underweight">sottopeso</string>
+  <string name="normal">peso normale</string>
+  <string name="overweight">l\'eccesso di peso</string>
+  <string name="obese">obesità</string>
+  <string name="monday">Lunedi</string>
+  <string name="sunday">Domenica</string>
+  <string name="FirstDayOfWeek">Il primo giorno della settimana</string>
+  <string name="ProvideFirstDayOfWeek">Immettere il primo giorno della settimana</string>
+  <string name="security">Sicurezza</string>
+  <string name="password">Password</string>
+  <string name="EnterPassword">Immettere la password</string>
+  <string name="passwords_do_not_match">La password non corrisponde</string>
+  <string name="confirm_password">Ripeti password</string>
+  <string name="overshoot">Andare oltre</string>
+  <string name="bounce">Rimbalzo</string>
+  <string name="anticipate_overshoot">Anticipare / Overshoot</string>
+  <string name="type_of_animation">Tipo di animazione</string>
+  <string name="interpolatorList">Elenco</string>
+  <string name="chest">Petto</string>
+  <string name="hip">Fianchi</string>
+  <string name="data_is_saved">I dati vengono salvati.</string>
+  <string name="save_database">Tenere la base</string>
+  <string name="delete_all">Rimuovi tutti</string>
+  <string name="im_port">Importazioni</string>
+  <string name="done_writing_sd">Registrazione su SD completato</string>
+  <string name="all_data_deleted">Tutti i dati rimossi</string>
+  <string name="delete_all_data">Sei sicuro di voler eliminare tutti i dati?</string>
+  <string name="select_import_file">L\'importazione di file</string>
+  <string name="lines_imported">Records importati:</string>
+  <string name="target_chest">La dimensione proiettata del seno</string>
+  <string name="please_provide_target_chest">Si prega di inserire la dimensione prevista del seno</string>
+  <string name="target_hip">La dimensione prevista dei fianchi</string>
+  <string name="please_provide_target_hip">Si prega di inserire l\'importo previsto di anca</string>
+  <string name="years">anni</string>
+  <string name="weight_diary_plus">Diario peso Più</string>
+  
+  	<string name="lang_titl">Language(lingua)</string>
+	<string name="lang_defolt">Default(predefinita)</string>
+	
+	
+	<string name="MM_DD_YYYY">MM/DD/YYYY</string>
+	<string name="DD_MM_YYYY">DD/MM/YYYY</string>
+	<string name="YYYY_MM_DD">YYYY/MM/DD</string>
+	<string name="date_format">Date format</string>
+	<string name="need_restart">You need to restart app</string>
+	<string name="share">Share</string>
+    
+	<string name="proc_fat">% fat</string>
+	<string name="neck">Neck</string>
+	<string name="helpFAT">Grasso nel corpo è la misura più accurata dei progressi nella dieta ed esercizio fisico.
+			\n Il livello di grasso nel corpo di una donna:
+			\n Essential grasso 10-12 \u0025
+			\n Atleti 14-20 \u0025
+			\n Fitness 21-24 \u0025
+			\n Accettabile 25-31 \u0025
+			\n Obese ≥ 32 \u0025
+			\n
+			\n Il livello di grasso nel maschio:
+			\n Essential grasso 2-4 \u0025
+			\n Atleti 6-13 \u0025
+			\n Fitness 14-17 \u0025
+			\n Accettabile 18-25 \u0025
+			\n Obese ≥ 26 \u0025
+
+	</string>
+
+	<string name="FeedBackText">Ciao! Noi lavoriamo per voi! Contribuire a rendere il programma migliore. Se ti piace l\'applicazione si prega di luogo voto o scrivere una e-mail su tutte le carenze e deficienze. Grazie. Gli sviluppatori.</string>
+	<string name="later">Più tardi</string>
+	<string name="no_senks">No, grazie</string>
+	<string name="FatFullString">grasso %</string>	
+	
+	
+	<string name="statistics">Statistiche</string>
+	<string name="Baza_d">Database.</string>
+	<string name="Size_baza">Dimensioni (record):</string>
+	<string name="first_write">primo record</string>
+	<string name="last_write">Ultima annotazione</string>
+	<string name="vsego">Totale</string>
+	<string name="Largest">Massima</string>
+	<string name="Smolest">più basso</string>
+	<string name="Last">Ultimo</string>
+	<string name="days">giorni</string>	
+	
+	
+</resources>

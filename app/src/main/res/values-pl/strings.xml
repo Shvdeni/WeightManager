@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">Waga Diary</string>
+  <string name="chart_no_data">Brak danych na wykresie</string>
+  <string name="summary_average">Średnia</string>
+  <string name="config_general_target">Plan</string>
+  <string name="currentTimeTextViewText">Czas</string>
+  <string name="nextAlarmString">Następujące przypomnienie:</string>
+  <string name="noAlarmString">Przypomnienie.</string>
+  <string name="alarm_service_started">Przypomnienie</string>
+  <string name="target_weight">Planowana waga</string>
+  <string name="target_waist_size">Planowany rozmiar talii</string>
+  <string name="please_provide_target_weight">Wpisz planowaną wagę</string>
+  <string name="please_provide_target_waist_size">Wpisz planowaną ilość talii</string>
+  <string name="Weight">Waga</string>
+  <string name="Waist_size">Talia</string>
+  <string name="pound_short">Funt</string>
+  <string name="pound">Funt</string>
+  <string name="kilogram_short">Kg</string>
+  <string name="kilogram">kilogram</string>
+  <string name="centimetre_short">Cm</string>
+  <string name="centimetre">Centymetr</string>
+  <string name="inch">Cal</string>
+  <string name="weight_unit">Jednostkę wagi.</string>
+  <string name="Select_unit_of_weight">Wybierz jednostkę masy.</string>
+  <string name="length_unit">Długość jednostki.</string>
+  <string name="Select_unit_of_length">Wybierz jednostkę długości.</string>
+  <string name="tendency">Trend:</string>
+  <string name="Attention">Uwaga.</string>
+  <string name="Data_on_this_date_already_exist">Dane na ten dzień już wprowadzone.</string>
+  <string name="Edit">Edytuj</string>
+  <string name="Delete">Usunąć</string>
+  <string name="weight_manager">Manager Waga</string>
+  <string name="inch_short">Cal</string>
+  <string name="Week">Tydzień</string>
+  <string name="Month">Miesięcy.</string>
+  <string name="Month3">3 miesiące.</string>
+  <string name="Month6">6 miesięcy.</string>
+  <string name="Year">Rok</string>
+  <string name="Optoins">Ustawienia</string>
+  <string name="quit">Produkcja</string>
+  <string name="quit_mesage">Czy na pewno chcesz zakończyć?</string>
+  <string name="quit_feedback">Proszę zostawić swoją opinię.</string>
+  <string name="quit_feedback_title">Poprawa programu</string>
+  <string name="feedback">Skomentuj</string>
+  <string name="Cancel">Anulowanie</string>
+  <string name="BMI">BMI</string>
+  <string name="BMR">BSM</string>
+  <string name="user_info">Informacja o użytkowniku</string>
+  <string name="sex">Paul</string>
+  <string name="heigh">Wzrost</string>
+  <string name="male">mężczyzna</string>
+  <string name="female">kobieta</string>
+  <string name="animation">Ożywienie</string>
+  <string name="ChekBoxAnimation">Uruchom animację</string>
+  <string name="age">Wiek</string>
+  <string name="NoData">Brak danych</string>
+  <string name="helpBMI">BMI (Body Mass Index) jest ocena tkanki tłuszczowej na podstawie wysokości i liczby wagi, i dotyczy zarówno mężczyzn, jak i kobiet w wieku 18 do 65 lat. BMI pozwala określić, nieodpowiedniej, normalny, nadwagę i otyłość. Zdrowe BMI wynosi od 20 - 25. Mark poniżej 20 mogą wskazywać, niedowaga, powyżej 25 wskazuje, że może być z nadwagą. Proszę pamiętać, że jest to tylko jeden z wielu możliwych sposobów oceniają swoją wagę. Jeśli masz jakieś pytania związane z twojej wagi, adres osoby, która będzie w stanie dokładnie ocenić sytuację na podstawie intensywnych indywidualnych cech organizmu. \ N \ n BMI poniżej 18,5 = niedowaga * \ n BMI 18,5 do 24,9 = masa normalny \ n BMI = 25,0 do 29,9 wagi \ n BMI 30,0 i powyżej = otyłość \ n \ n \ n * - ". niedowagi" występuje konflikt związany z kierunkowskazem Badania pokazują, że niskie BMI jest czynnikiem ryzyka dla zdrowia. W tym przypadku, jeśli nie brać pod uwagę ludzi z niskim BMI wiąże się z ciężkich i przewlekłych chorób, stopa "niedowagi" nie może czynnikiem ryzyka yavlyatsya pod warunkiem, że są zdrowe iw dobrej formie fizycznej.</string>
+  <string name="BMIFullString">Wskaźnik masy ciała (BMI)</string>
+  <string name="BRMFullString">Basal Metabolic Rate (BMR)</string>
+  <string name="helpBRM">Spędzasz energię w sposób ciągły, niezależnie od poziomu aktywności, nawet podczas snu. Ten kalkulator pomoże Ci obliczyć swój wskaźnik BMR (Basal Metabolic Rate), ilość kalorii, które zostały wydane w łóżku cały dzień. Jeśli zauważysz, że jesteś starszy, tym trudniej jest to wszystko co chcesz i pozostać w formie, trzeba wiedzieć, że wraz z wiekiem, BCM jest zmniejszona. BSM również zmniejszona jeśli ograniczyć się do jedzenia, z nadzieją na wadze PONV, co ciało dostosowuje się do nowych warunków. Choć na przestrzeni lat, zdolność organizmu do spalania kalorii zmniejsza się, regularne ćwiczenia mogą zwiększyć BMR, miał pozytywny wpływ na kondycję fizyczną.</string>
+  <string name="underweight">niedowaga</string>
+  <string name="normal">normalna waga</string>
+  <string name="overweight">nadwaga</string>
+  <string name="obese">otyłość</string>
+  <string name="monday">Poniedziałek</string>
+  <string name="sunday">Niedziela</string>
+  <string name="FirstDayOfWeek">Pierwszy dzień tygodnia</string>
+  <string name="ProvideFirstDayOfWeek">Wprowadź pierwszy dzień tygodnia</string>
+  <string name="security">Bezpieczeństwo</string>
+  <string name="password">Hasło</string>
+  <string name="EnterPassword">Wprowadź hasło</string>
+  <string name="passwords_do_not_match">Hasła nie są identyczne</string>
+  <string name="confirm_password">Powtórz hasło</string>
+  <string name="overshoot">Przeregulowanie</string>
+  <string name="bounce">Odbić</string>
+  <string name="anticipate_overshoot">Przewiduj / Overshoot</string>
+  <string name="type_of_animation">Typ animacji</string>
+  <string name="interpolatorList">Lista</string>
+  <string name="chest">Pierś</string>
+  <string name="hip">Biodra</string>
+  <string name="data_is_saved">Dane są zapisywane.</string>
+  <string name="save_database">Zachowaj bazę</string>
+  <string name="delete_all">Usuń wszystko</string>
+  <string name="im_port">Import</string>
+  <string name="done_writing_sd">Nagrywanie na karcie SD zakończone</string>
+  <string name="all_data_deleted">Wszystkie dane usunięte</string>
+  <string name="delete_all_data">Czy na pewno chcesz usunąć wszystkie dane?</string>
+  <string name="select_import_file">Plik importu</string>
+  <string name="lines_imported">Records przywożone:</string>
+  <string name="target_chest">Przewidywana wielkość piersi</string>
+  <string name="please_provide_target_chest">Proszę podać planowaną wielkość piersi</string>
+  <string name="target_hip">Planowana wielkość bioder</string>
+  <string name="please_provide_target_hip">Wpisz planowaną kwotę biodra</string>
+  <string name="years">rok</string>
+  <string name="weight_diary_plus">Diary waga Plus</string>
+    
+  	<string name="lang_titl">Language(język)</string>
+	<string name="lang_defolt">Default(domyślnie)</string>
+	
+	
+	<string name="MM_DD_YYYY">MM/DD/YYYY</string>
+	<string name="DD_MM_YYYY">DD/MM/YYYY</string>
+	<string name="YYYY_MM_DD">YYYY/MM/DD</string>
+	<string name="date_format">Date format</string>
+	<string name="need_restart">You need to restart app</string>
+	<string name="share">Share</string>
+  
+	<string name="proc_fat">% fat</string>
+	<string name="neck">Neck</string>
+	<string name="helpFAT">Tłuszcz w organizmie jest najdokładniejszą miarą postępu w dietę i ćwiczenia.
+			\n poziom tłuszczu w ciele kobiety:
+			\n Niezbędna tłuszczu 10-12 \u0025
+			\Zawodnicy n 14-20 \u0025
+			\n Fitness 21-24 \u0025
+			\n Dopuszczalne 25-31 \u0025
+			\n Otyłe ≥ 32 \u0025
+			\n
+			\n poziom tłuszczu w męskiej:
+			\n Niezbędna tłuszczu 2-4 \u0025
+			\Zawodnicy n 6-13 \u0025
+			\n Fitness 14-17 \u0025
+			\n Dopuszczalne 18-25 \u0025
+			\n Otyłe ≥ 26 \u0025
+
+	</string>
+
+	<string name="FeedBackText">Hello! Pracujemy dla Ciebie! Pomóż stworzyć program lepiej. Jeśli podoba Ci się aplikacja proszę rating miejsce lub napisać e-mail o wszelkich niedociągnięć i braków. Dziękuję. Deweloperzy.</string>
+	<string name="later">później</string>
+	<string name="no_senks">Nie, dziękuję</string>
+	<string name="FatFullString">% tłuszczu</string>
+	
+	
+	<string name="statistics">statystyka</string>
+	<string name="Baza_d">baza danych.</string>
+	<string name="Size_baza">Rozmiar (zapisy):</string>
+	<string name="first_write">Pierwszy rekord</string>
+	<string name="last_write">Ostatni rekord</string>
+	<string name="vsego">łączny</string>
+	<string name="Largest">Najwyższa</string>
+	<string name="Smolest">Najniższa</string>
+	<string name="Last">ostatni</string>
+	<string name="days">dni</string>	
+	
+		
+	
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "392805157173",
+    "firebase_url": "https://weight-diary.firebaseio.com",
+    "project_id": "weight-diary",
+    "storage_bucket": "weight-diary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392805157173:android:12d41cab1d9c9fdd",
+        "android_client_info": {
+          "package_name": "weight.manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392805157173-s0hpeg0s7jo51n59q582f8comtim5atf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_31k-S3HNxSBOmxb_LRegM7PxqmR6Mxg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

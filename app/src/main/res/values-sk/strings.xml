@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">Denník hmotnosť</string>
+  <string name="chart_no_data">Žiadne údaje pre graf</string>
+  <string name="summary_average">Priemer</string>
+  <string name="config_general_target">Plán</string>
+  <string name="currentTimeTextViewText">Čas</string>
+  <string name="nextAlarmString">Nasledujúci pripomienka:</string>
+  <string name="noAlarmString">Pripomenutie.</string>
+  <string name="alarm_service_started">Pripomienka</string>
+  <string name="target_weight">Plánované hmotnosť</string>
+  <string name="target_waist_size">Plánované pása veľkosť</string>
+  <string name="please_provide_target_weight">Zadajte prosím plánovanej hmotnosti</string>
+  <string name="please_provide_target_waist_size">Prosím, zadajte plánované množstvo pása</string>
+  <string name="Weight">Hmotnosť</string>
+  <string name="Waist_size">Pás</string>
+  <string name="pound_short">Libra</string>
+  <string name="pound">Libra</string>
+  <string name="kilogram_short">Kg</string>
+  <string name="kilogram">kilogram</string>
+  <string name="centimetre_short">Cm</string>
+  <string name="centimetre">Centimeter</string>
+  <string name="inch">Palec</string>
+  <string name="weight_unit">Jednotka hmotnosti.</string>
+  <string name="Select_unit_of_weight">Vyberte si jednotku hmotnosti.</string>
+  <string name="length_unit">Jednotku dĺžky.</string>
+  <string name="Select_unit_of_length">Vyberte si jednotku dĺžky.</string>
+  <string name="tendency">Trend:</string>
+  <string name="Attention">Pozor.</string>
+  <string name="Data_on_this_date_already_exist">Údaje o tomto dátume už vstúpila.</string>
+  <string name="Edit">Upraviť</string>
+  <string name="Delete">Odstrániť</string>
+  <string name="weight_manager">Hmotnosť Správca</string>
+  <string name="inch_short">Palec</string>
+  <string name="Week">Týždeň</string>
+  <string name="Month">Mesiacov.</string>
+  <string name="Month3">3 mesiace.</string>
+  <string name="Month6">6 mesiacov.</string>
+  <string name="Year">Rok</string>
+  <string name="Optoins">Nastavenie</string>
+  <string name="quit">Výkon</string>
+  <string name="quit_mesage">Naozaj chcete skončiť?</string>
+  <string name="quit_feedback">Prosím, nechajte svoj názor.</string>
+  <string name="quit_feedback_title">Zlepšiť programu</string>
+  <string name="feedback">Recenzia</string>
+  <string name="Cancel">Zrušenie</string>
+  <string name="BMI">BMI</string>
+  <string name="BMR">BSM</string>
+  <string name="user_info">Informácie o užívateľovi</string>
+  <string name="sex">Paul</string>
+  <string name="heigh">Rast</string>
+  <string name="male">samec</string>
+  <string name="female">žena</string>
+  <string name="animation">Animácie</string>
+  <string name="ChekBoxAnimation">Dátum animáciu</string>
+  <string name="age">Vek</string>
+  <string name="NoData">žiadne údaje</string>
+  <string name="helpBMI">BMI (Body Mass Index) je odhad telesného tuku na základe výšky a hmotnosti postavy, a platí pre mužov aj ženy vo veku 18 až 65 rokov. BMI pomáha určiť nedostatočné, normálne, s nadváhou, a obezity. Zdravé BMI je medzi 20 - 25. Mark pod 20 môže znamenať underweight, nad 25 znamená, že môžete mať nadváhu. Vezmite prosím na vedomie, že toto je len jeden z mnohých možných spôsobov, ako posúdiť svoju váhu. Ak máte akékoľvek otázky týkajúce sa vašej telesnej hmotnosti, adresa osoby, ktorá bude schopná presne posúdiť situáciu na základe intenzívnych individuálnych vlastnostiach vášho tela. \ N \ n BMI nižší ako 18,5 = podváha * \ n BMI 18,5 - 24,9 = normálnej hmotnosti \ n BMI = 25,0 - 29,9 hmotnostných \ n BMI 30,0 a vyššie = obézny \ n \ n \ n * - ". podvážením" je konflikt súvisí s ukazovateľom Štúdie ukazujú, že nízka BMI je rizikovým faktorom pre zdravie. V tomto prípade, ak je vám to neberie do úvahy osoby s nízkym BMI spojené s vážnymi a chronickými chorobami, miera "underweight" nemôže yavlyatsya rizikový faktor, za predpokladu, že ste zdravý a v dobrej fyzickej kondícii.</string>
+  <string name="BMIFullString">Body mass index (BMI)</string>
+  <string name="BRMFullString">Bazálny metabolizmus (BMR)</string>
+  <string name="helpBRM">Strávite energiu nepretržite, bez ohľadu na úroveň aktivity, aj keď spíte. Táto kalkulačka vám pomôže vypočítať BMR index (bazálny metabolizmus), počet kalórií, ktoré by ste strávili v posteli celý deň. Ak zistíte, že ste starší, tým ťažšie to je všetko, čo chcete, a zostať vo forme, musíte vedieť, že s vekom sa znižuje BCM. BSM tiež znížiť, keď sa obmedzovať na potraviny, dúfal, že na hmotnosti PONV, tak telo sa prispôsobí novým podmienkam. Zatiaľ čo v priebehu rokov, vaše telo schopnosť spaľovať kalórie klesá, pravidelné cvičenie môže zvýšiť svoj BMR, malo pozitívny vplyv na vašej fyzickej kondícii.</string>
+  <string name="underweight">underweight</string>
+  <string name="normal">normálna hmotnosť</string>
+  <string name="overweight">nadváhy</string>
+  <string name="obese">obezita</string>
+  <string name="monday">Pondelok</string>
+  <string name="sunday">Nedeľa</string>
+  <string name="FirstDayOfWeek">Prvý deň v týždni</string>
+  <string name="ProvideFirstDayOfWeek">Zadajte prvý deň v týždni</string>
+  <string name="security">Bezpečnosť</string>
+  <string name="password">Heslo</string>
+  <string name="EnterPassword">Zadajte heslo</string>
+  <string name="passwords_do_not_match">Heslá sa nezhodujú</string>
+  <string name="confirm_password">Opakujte heslo</string>
+  <string name="overshoot">Prestreliť</string>
+  <string name="bounce">Odskočiť</string>
+  <string name="anticipate_overshoot">Predvídať / prekmit</string>
+  <string name="type_of_animation">Typ animácie</string>
+  <string name="interpolatorList">Zoznam</string>
+  <string name="chest">Hruď</string>
+  <string name="hip">Boky</string>
+  <string name="data_is_saved">Dáta sú uložené.</string>
+  <string name="save_database">Udržujte základňu</string>
+  <string name="delete_all">Odstráňte všetky</string>
+  <string name="im_port">Dovoz</string>
+  <string name="done_writing_sd">Nahrávanie na SD dokončený</string>
+  <string name="all_data_deleted">Všetky údaje odstránené</string>
+  <string name="delete_all_data">Naozaj chcete zmazať všetky dáta?</string>
+  <string name="select_import_file">Import súborov</string>
+  <string name="lines_imported">Záznamy dovezené:</string>
+  <string name="target_chest">Predpokladá veľkosť prsníka</string>
+  <string name="please_provide_target_chest">Zadajte prosím plánovanej veľkosti prsníka</string>
+  <string name="target_hip">Plánovaná veľkosť bokov</string>
+  <string name="please_provide_target_hip">Prosím, zadajte plánované množstvo bedra</string>
+  <string name="years">rokov</string>
+  <string name="weight_diary_plus">Denník hmotnosť Plus</string>
+  
+  	<string name="lang_titl">Language(jazyk)</string>
+	<string name="lang_defolt">Default(v predvolenom nastavení)</string>
+	
+	
+	<string name="MM_DD_YYYY">MM/DD/YYYY</string>
+	<string name="DD_MM_YYYY">DD/MM/YYYY</string>
+	<string name="YYYY_MM_DD">YYYY/MM/DD</string>
+	<string name="date_format">Date format</string>
+	<string name="need_restart">You need to restart app</string>
+	<string name="share">Share</string>
+    
+	<string name="proc_fat">% fat</string>
+	<string name="neck">Neck</string>
+	<string name="helpFAT">Tuk v tele je najpresnejší ukazovateľ pokroku v oblasti diéty a cvičenia.
+			\n úroveň tuku v tele ženy:
+			\n Základné tuk 10-12 \u0025
+			\n Športovci 14-20 \u0025
+			\n Fitness 21-24 \u0025
+			\n Prijateľné 25-31 \u0025
+			\n Obézni ≥ 32 \u0025
+			\n
+			\n obsah tuku v mužovi:
+			\n Esenciálne tuk 2-4 \u0025
+			\n Športovci 6-13 \u0025
+			\n Fitness 14-17 \u0025
+			\n Prijateľné 18-25 \u0025
+			\n Obézni ≥ 26 \u0025
+
+	</string>
+
+	<string name="FeedBackText">Dobrý deň! Pracujeme pre vás! Pomôcť tomu, aby program lepšie. Ak sa vám páči aplikácie, prosím miesto hodnotenia alebo napíšte e-mail o všetkých nedostatkov a závad. Ďakujem. Vývojári.</string>
+	<string name="later">neskôr</string>
+	<string name="no_senks">Nie, vďaka</string>
+	<string name="FatFullString">% fat</string>	
+	
+	
+	<string name="statistics">Štatistika</string>
+	<string name="Baza_d">databáza.</string>
+	<string name="Size_baza">Veľkosť (záznamy):</string>
+	<string name="first_write">prvá nahrávka, ktorú</string>
+	<string name="last_write">posledný záznam</string>
+	<string name="vsego">celkový</string>
+	<string name="Largest">najvyššia</string>
+	<string name="Smolest">najnižšia</string>
+	<string name="Last">posledný</string>
+	<string name="days">dni</string>	
+	
+	
+</resources>

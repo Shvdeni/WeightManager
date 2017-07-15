@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">Journal de poids</string>
+  <string name="chart_no_data">Pas de données pour le graphique</string>
+  <string name="summary_average">Moyenne</string>
+  <string name="config_general_target">Plan</string>
+  <string name="currentTimeTextViewText">Temps</string>
+  <string name="nextAlarmString">Le rappel suivant:</string>
+  <string name="noAlarmString">Rappel.</string>
+  <string name="alarm_service_started">Rappel</string>
+  <string name="target_weight">Masse prévue</string>
+  <string name="target_waist_size">Tour de taille prévue</string>
+  <string name="please_provide_target_weight">S\'il vous plaît entrer le poids prévu</string>
+  <string name="please_provide_target_waist_size">S\'il vous plaît indiquer le montant prévu de la taille</string>
+  <string name="Weight">Poids</string>
+  <string name="Waist_size">Taille</string>
+  <string name="pound_short">Livre</string>
+  <string name="pound">Livre</string>
+  <string name="kilogram_short">Kg</string>
+  <string name="kilogram">kilogramme</string>
+  <string name="centimetre_short">Cm</string>
+  <string name="centimetre">Centimètre</string>
+  <string name="inch">Pouce</string>
+  <string name="weight_unit">Une unité de poids.</string>
+  <string name="Select_unit_of_weight">Sélectionnez une unité de poids.</string>
+  <string name="length_unit">Unité de longueur.</string>
+  <string name="Select_unit_of_length">Sélectionner une unité de longueur.</string>
+  <string name="tendency">Tendance:</string>
+  <string name="Attention">Attention.</string>
+  <string name="Data_on_this_date_already_exist">Les données relatives à cette date déjà entré.</string>
+  <string name="Edit">Éditer</string>
+  <string name="Delete">Enlever</string>
+  <string name="weight_manager">Gestionnaire Poids</string>
+  <string name="inch_short">Pouce</string>
+  <string name="Week">Semaine</string>
+  <string name="Month">Mois.</string>
+  <string name="Month3">3 mois.</string>
+  <string name="Month6">6 mois.</string>
+  <string name="Year">Année</string>
+  <string name="Optoins">Réglages</string>
+  <string name="quit">Sortie</string>
+  <string name="quit_mesage">Voulez-vous vraiment quitter?</string>
+  <string name="quit_feedback">S\'il vous plaît laissez vos commentaires.</string>
+  <string name="quit_feedback_title">Améliorer le programme</string>
+  <string name="feedback">Revoir</string>
+  <string name="Cancel">Annulation</string>
+  <string name="BMI">IMC</string>
+  <string name="BMR">BSM</string>
+  <string name="user_info">Informations sur l\'utilisateur</string>
+  <string name="sex">Paul</string>
+  <string name="heigh">Croissance</string>
+  <string name="male">masculin</string>
+  <string name="female">féminin</string>
+  <string name="animation">Animation</string>
+  <string name="ChekBoxAnimation">Lancer l\'animation</string>
+  <string name="age">Âge</string>
+  <string name="NoData">pas de données</string>
+  <string name="helpBMI">IMC (Indice de Masse Corporelle) est l\'estimation de la graisse corporelle en fonction de la hauteur et de données relatives au poids, et s\'applique à la fois aux hommes et aux femmes âgés de 18 à 65 ans. IMC permet de déterminer insuffisant, normal, surpoids et l\'obésité. Un IMC sain se situe entre 20 - 25. Mark dessous de 20 peut indiquer une insuffisance pondérale, supérieure à 25 indique que vous pouvez être en surpoids. S\'il vous plaît noter que ce n\'est là qu\'une des nombreuses façons possibles d\'évaluer votre poids. Si vous avez des questions concernant votre poids, adresse de la personne qui sera en mesure d\'évaluer avec précision la situation sur la base de caractéristiques individuelles intensives de votre corps. \ N \ n IMC inférieur à 18,5 = poids insuffisant * \ n IMC de 18,5 à 24,9 = poids normal \ n IMC = 25,0 à 29,9 poids IMC \ n de 30,0 et au-dessus = obèse \ n \ n \ n * - ". insuffisance pondérale" il ya un conflit lié à l\'indicateur Des études montrent que le faible IMC est un facteur de risque pour la santé. Dans ce cas, si vous ne prenez pas en compte les personnes ayant un faible IMC est associée à des maladies graves et chroniques, le taux de «poids insuffisant» ne peut pas facteur de risque yavlyatsya, à condition que vous êtes en bonne santé et en bonne forme physique.</string>
+  <string name="BMIFullString">L\'indice de masse corporelle (IMC)</string>
+  <string name="BRMFullString">Taux métabolique basal (BMR)</string>
+  <string name="helpBRM">Vous dépenser de l\'énergie en permanence, quel que soit votre niveau d\'activité, même quand vous dormez. Cette calculatrice vous aidera à calculer votre indice de BMR (Basal Metabolic Rate), le nombre de calories que vous auriez dépensé au lit toute la journée. Si vous remarquez que plus on vieillit, plus il est tout ce que vous voulez et rester en forme, il faut savoir qu\'avec l\'âge, la BCM est réduite. BSM a également réduit lorsque vous vous limitez pas à la nourriture, en espérant pour le poids des NVPO, ainsi que le corps s\'adapte aux nouvelles conditions. Alors qu\'au cours des années, la capacité de votre corps à brûler des calories diminue, l\'exercice régulier peut augmenter votre métabolisme de base, a eu un effet positif sur votre condition physique.</string>
+  <string name="underweight">insuffisance pondérale</string>
+  <string name="normal">poids normal</string>
+  <string name="overweight">l\'excès de poids</string>
+  <string name="obese">obésité</string>
+  <string name="monday">Lundi</string>
+  <string name="sunday">Dimanche</string>
+  <string name="FirstDayOfWeek">Le premier jour de la semaine</string>
+  <string name="ProvideFirstDayOfWeek">Entrez le premier jour de la semaine</string>
+  <string name="security">Sécurité</string>
+  <string name="password">Mot de passe</string>
+  <string name="EnterPassword">Entrez le mot de passe</string>
+  <string name="passwords_do_not_match">Les mots de passe ne correspondent pas</string>
+  <string name="confirm_password">Répétez mot de passe</string>
+  <string name="overshoot">Dépasser</string>
+  <string name="bounce">Rebondir</string>
+  <string name="anticipate_overshoot">Anticiper / Dépassement</string>
+  <string name="type_of_animation">Type d\'animation</string>
+  <string name="interpolatorList">Liste</string>
+  <string name="chest">Poitrine</string>
+  <string name="hip">Hanches</string>
+  <string name="data_is_saved">Les données sont enregistrées.</string>
+  <string name="save_database">Éloignez le socle</string>
+  <string name="delete_all">Retirez tous les</string>
+  <string name="im_port">Importations</string>
+  <string name="done_writing_sd">Enregistrement sur SD complété</string>
+  <string name="all_data_deleted">Toutes les données supprimées</string>
+  <string name="delete_all_data">Voulez-vous vraiment supprimer toutes les données?</string>
+  <string name="select_import_file">Le fichier d\'importation</string>
+  <string name="lines_imported">Les enregistrements importés:</string>
+  <string name="target_chest">La taille projetée de la poitrine</string>
+  <string name="please_provide_target_chest">S\'il vous plaît entrez la taille prévue du sein</string>
+  <string name="target_hip">La taille prévue des hanches</string>
+  <string name="please_provide_target_hip">S\'il vous plaît indiquer le montant prévu de la hanche</string>
+  <string name="years">ans</string>
+  <string name="weight_diary_plus">Journal de poids Plus</string>
+  
+  	<string name="lang_titl">Language(langue)</string>
+	<string name="lang_defolt">Default(par défaut)</string>
+	
+	
+	<string name="MM_DD_YYYY">MM/DD/YYYY</string>
+	<string name="DD_MM_YYYY">DD/MM/YYYY</string>
+	<string name="YYYY_MM_DD">YYYY/MM/DD</string>
+	<string name="date_format">Format de la date</string>
+	<string name="need_restart">Vous devez redémarrer application</string>
+	<string name="share">communiquer</string>
+	
+<string name="proc_fat">% de matières grasses </string>
+<string name="neck"> cou </string>
+
+
+<string name="helpFAT"> teneur en graisse dans le corps est la mesure la plus précise des progrès réalisés dans le régime alimentaire et l\'exercice.
+\n Le niveau de graisse dans le corps d\'une femme:
+\n gras essentiels 10-12 \u0025
+\n athlètes 14-20 \u0025
+\n Medium 21-24 \u0025
+\n Acceptable 25-31 \u0025
+\n Obésité ≥ 32 \u0025
+\n
+\n Le niveau de graisse dans le corps d\'un homme:
+\n significative graisse 2-4 \u0025
+\n athlètes 6-13 \u0025
+\n Medium 14-17 \u0025
+\n Acceptable 18-25 \u0025
+\n Obésité ≥ 26 \u0025
+</string>
+
+
+<string name="FeedBackText"> Bienvenue! Nous travaillons pour vous! Contribuer à rendre le programme plus efficace. Si vous aimez l\'application, veuillez mettre l\'estimation, ou écrire à l\'savon de toutes les déficiences. Je vous remercie. Développeurs. </string>
+
+<string name="later"> tard </string>
+<string name="no_senks"> Non merci </string>
+
+<string name="FatFullString">% de matières grasses </string>	
+	
+    
+	<string name="statistics">Statistiques</string>
+	<string name="Baza_d">base de données.</string>
+	<string name="Size_baza">Taille (dossiers):</string>
+	<string name="first_write">premier enregistrement</string>
+	<string name="last_write">Dernier enregistrement</string>
+	<string name="vsego">totale</string>
+	<string name="Largest">le plus haut</string>
+	<string name="Smolest">le plus bas</string>
+	<string name="Last">Dernier</string>
+	<string name="days">jours</string>
+
+	
+</resources>

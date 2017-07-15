@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+      <string name="app_name">日記重量</string> 
+  <string name="chart_no_data">グラフのデータはありません</string> 
+  <string name="summary_average">平均</string> 
+  <string name="config_general_target">計画</string> 
+  <string name="currentTimeTextViewText">時間</string> 
+  <string name="nextAlarmString">以下のリマインダー：</string> 
+  <string name="noAlarmString">リマインダー。</string> 
+  <string name="alarm_service_started">リマインダー</string> 
+  <string name="target_weight">計画された重量</string> 
+  <string name="target_waist_size">計画的なウエストサイズ</string> 
+  <string name="please_provide_target_weight">計画的な体重を入力してください</string> 
+  <string name="please_provide_target_waist_size">腰の予定額を入力してください</string> 
+  <string name="Weight">重量</string> 
+  <string name="Waist_size">ウエスト</string> 
+  <string name="pound_short">パウンド</string> 
+  <string name="pound">パウンド</string> 
+  <string name="kilogram_short">キロ</string> 
+  <string name="kilogram">キログラム</string> 
+  <string name="centimetre_short">センチ</string> 
+  <string name="centimetre">センチ</string> 
+  <string name="inch">インチ</string> 
+  <string name="weight_unit">重さの単位。</string> 
+  <string name="Select_unit_of_weight">重さの単位を選択します。</string> 
+  <string name="length_unit">単位長さ。</string> 
+  <string name="Select_unit_of_length">長さの単位を選択します。</string> 
+  <string name="tendency">トレンド：</string> 
+  <string name="Attention">注目。</string> 
+  <string name="Data_on_this_date_already_exist">その日付のデータが既に入った。</string> 
+  <string name="Edit">編集</string> 
+  <string name="Delete">削除する</string> 
+  <string name="weight_manager">体重管理</string> 
+  <string name="inch_short">インチ</string> 
+  <string name="Week">週</string> 
+  <string name="Month">ヶ月。</string> 
+  <string name="Month3">3ヶ月。</string> 
+  <string name="Month6">6ヶ月間。</string> 
+  <string name="Year">年</string> 
+  <string name="Optoins">設定</string> 
+  <string name="quit">出力</string> 
+  <string name="quit_mesage">本当に終了してもよろしいですか？</string> 
+  <string name="quit_feedback">あなたのフィードバックを残しなさい。</string> 
+  <string name="quit_feedback_title">プログラムの改善</string> 
+  <string name="feedback">レビュー</string> 
+  <string name="Cancel">キャンセル</string> 
+  <string name="BMI">BMI値</string> 
+  <string name="BMR">BSM</string> 
+  <string name="user_info">ユーザー情報</string> 
+  <string name="sex">ポール</string> 
+  <string name="heigh">成長</string> 
+  <string name="male">男性</string> 
+  <string name="female">女性</string> 
+  <string name="animation">アニメーション</string> 
+  <string name="ChekBoxAnimation">アニメーションを開始</string> 
+  <string name="age">年齢</string> 
+  <string name="NoData">データなし</string> 
+  <string name="helpBMI">BMI（ボディマス指数）は身長と体重の数値に基づいて体脂肪の推定であり、18から65歳の男性と女性の両方に適用されます。 BMIは不十分で、正常、過体重、肥満を判断するのに役立ちます。 25 - 健康なBMIは20です。 20以下のマークがやせ示している可能性があり、25以上のあなたが太りすぎかもしれないのを示します。これはあなたの体重を評価するための多くの可能な方法の一つにすぎないことに注意してください。あなたは、あなたの体重、正確にあなたの体の集中的な個々の特性に基づいて状況を把握できるようになる人のアドレスに関係する質問があれば。 \ N \ N BMIが18.5未満=やせ※上記の\ nの30.0の18.5から24.9 =標準体重\ nはBMI = 25.0から29.9重量\ nのBMIのBMIと肥満= \ N \ N \ N * - "やせ"インジケーターに関連する矛盾がある研究では、低BMIは健康の危険因子であることを示している。このケースでは、低BMIを持つアカウントの人を考慮しない場合には、重篤で慢性疾患に関連付けられている、 "やせ"の割合が危険因子をyavlyatsyaことはできませんが、あなたが健康と良好な物理的形状であることはない。</string> 
+  <string name="BMIFullString">ボディマス指数（BMI）</string> 
+  <string name="BRMFullString">基礎代謝率（BMR）</string> 
+  <string name="helpBRM">あなたが寝るときでさえ、アクティビティに関係なくあなたのレベルの、継続的にエネルギーを費やしています。この電卓は、あなたのBMR指数（基礎代謝率）、あなたは一日中ベッドの中で過ごしてきた間だろうとカロリー数を計算するのに役立ちます。古いあなたが得ることに気付いた場合は、困難それはあなたが欲しいと形にとどまることのすべてです、あなたは年齢とともに、BCMが低減されることを知っている必要があります。あなたは食べ物に自分自身を制限するときのBSMは、このように身体が新しい状況に適応し、PONVの重量のために期待して、減少した。年間で、カロリーを燃やすためにあなたの体の能力が低下し、定期的な運動はあなたのBMRを増やすことができますが、あなたの体調に好影響を与えた。</string> 
+  <string name="underweight">重量不足</string> 
+  <string name="normal">正常体重</string> 
+  <string name="overweight">過剰体重</string> 
+  <string name="obese">肥満</string> 
+  <string name="monday">月曜日</string> 
+  <string name="sunday">日曜日</string> 
+  <string name="FirstDayOfWeek">週の最初の日</string> 
+  <string name="ProvideFirstDayOfWeek">週の最初の曜日を入力します。</string> 
+  <string name="security">安全</string> 
+  <string name="password">パスワード</string> 
+  <string name="EnterPassword">パスワードを入力する</string> 
+  <string name="passwords_do_not_match">パスワードが一致しません</string> 
+  <string name="confirm_password">パスワードを繰り返し</string> 
+  <string name="overshoot">オーバーシュート</string> 
+  <string name="bounce">バウンス</string> 
+  <string name="anticipate_overshoot">先取り/シュート</string> 
+  <string name="type_of_animation">アニメーションの種類</string> 
+  <string name="interpolatorList">リスト</string> 
+  <string name="chest">胸</string> 
+  <string name="hip">ヒップ</string> 
+  <string name="data_is_saved">データが保存されます。</string> 
+  <string name="save_database">ベースを保つ</string> 
+  <string name="delete_all">をすべて削除</string> 
+  <string name="im_port">輸入</string> 
+  <string name="done_writing_sd">SDへの録音は完了</string> 
+  <string name="all_data_deleted">すべてのデータが削除さ</string> 
+  <string name="delete_all_data">あなたは本当にすべてのデータを削除してもよろしいですか？</string> 
+  <string name="select_import_file">インポートファイル</string> 
+  <string name="lines_imported">レコードがインポートされた：</string> 
+  <string name="target_chest">乳房の投影サイズ</string> 
+  <string name="please_provide_target_chest">乳房の予定サイズを入力してください</string> 
+  <string name="target_hip">腰の計画的な大きさ</string> 
+  <string name="please_provide_target_hip">股関節の予定額を入力してください</string> 
+  <string name="years">年</string> 
+  <string name="weight_diary_plus">ダイアリープラス体重</string> 
+    
+  	<string name="lang_titl">Language(言語)</string>
+	<string name="lang_defolt">Default(初期設定で)</string>
+	
+	<string name="MM_DD_YYYY">MM/DD/YYYY</string>
+	<string name="DD_MM_YYYY">DD/MM/YYYY</string>
+	<string name="YYYY_MM_DD">YYYY/MM/DD</string>
+	<string name="date_format">Date format</string>
+	<string name="need_restart">You need to restart app</string>
+	<string name="share">Share</string>	
+	
+	<string name="proc_fat">% fat</string>
+	<string name="neck">Neck</string>
+	<string name="helpFAT">Fat in the body is the most accurate measure of progress in diet and exercise.
+				\n	The level of fat in the body of a woman:
+				\n  Essential fat 10-12\u0025
+				\n  Athletes      14-20\u0025
+				\n  Fitness       21-24\u0025
+				\n  Acceptable    25-31\u0025 
+				\n  Obese         ≥ 32\u0025 
+				\n
+				\n  The level of fat in the male:
+				\n  Essential fat 2-4\u0025
+				\n  Athletes       6-13\u0025
+				\n  Fitness        14-17\u0025
+				\n  Acceptable     18-25\u0025
+				\n  Obese          ≥ 26\u0025
+
+	</string>
+
+	<string name="FeedBackText">こんにちは！私たちはあなたのために働く！プログラムはさらによくする手助けとなります。あなたが好きならこのアプリは場所の評価をお願いしたり、すべての欠点や不備についての電子メールを書く。ありがとう。開発者。</string>
+	<string name="later">後で</string>
+	<string name="no_senks">いや、いいよ</string>
+	<string name="FatFullString">％の脂肪</string>	
+	
+	
+	<string name="statistics">統計</string>
+	<string name="Baza_d">データベース.</string>
+	<string name="Size_baza">サイズ（レコード）：</string>
+	<string name="first_write">先頭レコード</string>
+	<string name="last_write">最後のレコード</string>
+	<string name="vsego">合計</string>
+	<string name="Largest">最高</string>
+	<string name="Smolest">最低</string>
+	<string name="Last">ラスト</string>
+	<string name="days">日</string>	
+	
+	
+	
+</resources>

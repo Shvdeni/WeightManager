@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="DateFormatEntries">
+    <item>@string/MM_DD_YYYY</item>
+    <item>@string/DD_MM_YYYY</item>
+    <item>@string/YYYY_MM_DD</item>
+</string-array>
+    <string-array name="DateFormatValues">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+</string-array>
+    <string-array name="interpolatorList">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+</string-array>
+    <string-array name="interpolatorListEntris">
+    <item>@string/overshoot</item>
+    <item>@string/bounce</item>
+    <item>@string/anticipate_overshoot</item>
+</string-array>
+    <string-array name="langListEntris">
+    	<item>@string/lang_defolt</item>
+        <item>Arabic(العربية)</item> <!-- Arabic -->
+        <item>Bulgarian(Български)</item> <!-- Bulgarian -->
+        <item>Catalan(Búlgar)</item> <!-- Catalan -->
+        <item>Chinese (Simplified)中文（简体）</item> <!-- Chinese (Simplified) -->
+        <item>Chinese (Traditional)中文（繁體）</item> <!-- Chinese (Traditional) -->
+        <item>Czech(Česká)</item> <!-- Czech -->
+        <item>Danish(Dansk)</item> <!-- Danish -->
+        <item>Dutch(Nederlands)</item> <!-- Dutch -->
+        <item>English</item> <!-- English -->
+        <item>Estonian(Estonian)</item> <!-- Estonian -->
+        <item>Finnish(Suomi)</item> <!-- Finnish -->
+        <item>French(Français)</item> <!-- French -->
+        <item>German(Deutsch)</item> <!-- German -->
+        <item>Greek(Έλληνας)</item> <!-- Greek -->
+        <item>Hebrew(עברית)</item> <!-- Hebrew -->
+        <item>Hungarian(Magyar)</item> <!-- Hungarian -->
+        <item>Indonesian(Indonesia)</item> <!-- Indonesian -->
+        <item>Italian(Italiano)</item> <!-- Italian -->
+        <item>Japanese(日本人)</item> <!-- Japanese -->
+        <item>Korean(한국의)</item> <!-- Korean -->
+        <item>Lithuanian(Lietuvos)</item> <!-- Lithuanian -->
+        <item>Norwegian(Norsk)</item> <!-- Norwegian -->
+        <item>Polish(Polski)</item> <!-- Polish -->
+        <item>Portuguese(Português)</item> <!-- Portuguese -->
+        <item>Romanian(Român)</item> <!-- Romanian -->
+        <item>Slovak(Slovenčina)</item> <!-- Slovak -->
+        <item>Slovenian(Slovenski jezik)</item> <!-- Slovenian -->
+        <item>Spanish(Español)</item> <!-- Spanish -->
+        <item>Swedish(Svenska)</item> <!-- Swedish -->
+        <item>Thai(ภาษาไทย)</item> <!-- Thai -->
+        <item>Turkish(Türk)</item> <!-- Turkish -->
+        <item>Ukrainian(Українська)</item> <!-- Ukrainian -->
+</string-array>
+    <string-array name="langListValues">
+    	<item>defolt</item> <!-- defolt -->
+        <item>ar</item> <!-- Arabic -->
+        <item>bg</item> <!-- Bulgarian -->
+        <item>ca</item> <!-- Catalan -->
+        <item>zh-rCN</item> <!-- Chinese (Simplified) -->
+        <item>zh-rTW</item> <!-- Chinese (Traditional) -->
+        <item>cs</item> <!-- Czech -->
+        <item>da</item> <!-- Danish -->
+        <item>nl</item> <!-- Dutch Голландский-->
+        <item>en</item> <!-- English -->
+        <item>et</item> <!-- Estonian -->
+        <item>fi</item> <!-- Finnish -->
+        <item>fr</item> <!-- French -->
+        <item>de</item> <!-- German -->
+        <item>el</item> <!-- Greek -->
+        <item>he</item> <!-- Hebrew -->
+        <item>hu</item> <!-- Hungarian -->
+        <item>id</item> <!-- Indonesian -->
+        <item>it</item> <!-- Italian -->
+        <item>ja</item> <!-- Japanese -->
+        <item>ko</item> <!-- Korean -->
+        <item>lt</item> <!-- Lithuanian -->
+        <item>no</item> <!-- Norwegian -->
+        <item>pl</item> <!-- Polish -->
+        <item>pt</item> <!-- Portuguese Португальский-->
+        <item>ro</item> <!-- Romanian -->
+        <item>sk</item> <!-- Slovak -->
+        <item>sl</item> <!-- Slovenian -->
+        <item>es</item> <!-- Spanish -->
+        <item>sv</item> <!-- Swedish Шведский-->
+        <item>th</item> <!-- Thai -->
+        <item>tr</item> <!-- Turkish -->
+        <item>uk</item> <!-- Ukrainian -->
+</string-array>
+    <string-array name="lengthUnitEntries">
+    <item>@string/centimetre_short</item>
+    <item>@string/inch_short</item>
+</string-array>
+    <string-array name="lengthUnitValues">
+    <item>1</item>
+    <item>2</item>
+</string-array>
+    <string-array name="sexListEntries">
+    <item>@string/male</item>
+    <item>@string/female</item>
+</string-array>
+    <string-array name="sexListValues">
+    <item>1</item>
+    <item>2</item>
+</string-array>
+    <string-array name="weightUnitEntries">
+    <item>@string/pound_short</item>
+    <item>@string/kilogram_short</item>
+</string-array>
+    <string-array name="weightUnitValues">
+    <item>1</item>
+    <item>2</item>
+</string-array>
+    <color name="common_google_signin_btn_text_dark_default">@android:color/white</color>
+    <color name="common_google_signin_btn_text_dark_disabled">#1F000000</color>
+    <color name="common_google_signin_btn_text_dark_focused">@android:color/black</color>
+    <color name="common_google_signin_btn_text_dark_pressed">@android:color/white</color>
+    <color name="common_google_signin_btn_text_light_default">#90000000</color>
+    <color name="common_google_signin_btn_text_light_disabled">#1F000000</color>
+    <color name="common_google_signin_btn_text_light_focused">#90000000</color>
+    <color name="common_google_signin_btn_text_light_pressed">#DE000000</color>
+    <declare-styleable name="AdsAttrs"><attr format="string" name="adSize"/><attr format="string" name="adSizes"/><attr format="string" name="adUnitId"/></declare-styleable>
+    <declare-styleable name="LoadingImageView"><attr name="imageAspectRatioAdjust">
+<enum name="none" value="0"/>
+
+<enum name="adjust_width" value="1"/>
+
+<enum name="adjust_height" value="2"/>
+
+</attr><attr format="float" name="imageAspectRatio"/><attr format="boolean" name="circleCrop"/></declare-styleable>
+    <declare-styleable name="SignInButton"><attr format="reference" name="buttonSize">
+<enum name="standard" value="0"/>
+
+<enum name="wide" value="1"/>
+
+<enum name="icon_only" value="2"/>
+
+</attr><attr format="reference" name="colorScheme">
+<enum name="dark" value="0"/>
+
+<enum name="light" value="1"/>
+
+<enum name="auto" value="2"/>
+
+</attr><attr format="reference|string" name="scopeUris"/></declare-styleable>
+    <drawable name="button_inner">#bbae3f</drawable>
+    <drawable name="button_outer">#5f987a</drawable>
+    <drawable name="chart_axis">#4d3d32</drawable>
+    <drawable name="chart_axis_label">#4d3d32</drawable>
+    <drawable name="chart_bg">#100000ff</drawable>
+    <drawable name="chart_default_user_line">#ff4444</drawable>
+    <drawable name="chart_line">#645d52</drawable>
+    <drawable name="chart_point">#5f987a</drawable>
+    <drawable name="dialog_bg">#77010130</drawable>
+    <drawable name="summary_selected">#80634a</drawable>
+    <drawable name="text_nomarl">#4d3d32</drawable>
+    <drawable name="text_reverse">#ddd6ae</drawable>
+    <drawable name="transparent_background">#dd000000</drawable>
+    <drawable name="transparent_background2">#cc000000</drawable>
+    <drawable name="type0_color">#c87a4b</drawable>
+    <drawable name="type1_color">#d1a058</drawable>
+    <drawable name="type2_color">#669b6a</drawable>
+    <drawable name="type3_color">#bcb037</drawable>
+    <drawable name="type4_color">#829246</drawable>
+    <integer name="google_play_services_version">9877000</integer>
+    <string name="Attention">Attention</string>
+    <string name="BMI">BMI</string>
+    <string name="BMIFullString">Body Mass Index (BMI)</string>
+    <string name="BMR">BMR</string>
+    <string name="BRMFullString">Basal Metabolic Rate (BMR)</string>
+    <string name="Baza_d">Database.</string>
+    <string name="Cancel">Cancel</string>
+    <string name="ChekBoxAnimation">Turn on animation</string>
+    <string name="DD_MM_YYYY">DD/MM/YYYY</string>
+    <string name="Data_on_this_date_already_exist">Data on this date already exist</string>
+    <string name="Delete">Delete</string>
+    <string name="Edit">Edit</string>
+    <string name="EnterPassword">Enter password</string>
+    <string name="FatFullString">% fat</string>
+    <string name="FeedBackText">Hello! We work for you! Help make the program better. If you like the app please place rating or write an e-mail about all the shortcomings and deficiencies. Thank you. Developers.</string>
+    <string name="FirstDayOfWeek">First day of week</string>
+    <string name="Largest">Highest</string>
+    <string name="Last">Last</string>
+    <string name="MM_DD_YYYY">MM/DD/YYYY</string>
+    <string name="Month">Month</string>
+    <string name="Month3">3 Month</string>
+    <string name="Month6">6 Month</string>
+    <string name="NoData">no data</string>
+    <string name="Optoins">Options</string>
+    <string name="ProvideFirstDayOfWeek">Provide  first day of week</string>
+    <string name="Select_unit_of_length">Select unit of length</string>
+    <string name="Select_unit_of_weight">Select unit of weight</string>
+    <string name="Size_baza">Size (records):</string>
+    <string name="Smolest">Lowest</string>
+    <string name="Waist_size">Waist</string>
+    <string name="Week">Week</string>
+    <string name="Weight">Weight</string>
+    <string name="YYYY_MM_DD">YYYY/MM/DD</string>
+    <string name="Year">Year</string>
+    <string name="accept">Accept</string>
+    <string name="age">Age</string>
+    <string name="alarm_service_started">The alarm service has started</string>
+    <string name="all_data_deleted">All data deleted</string>
+    <string name="animation">Animation</string>
+    <string name="anticipate_overshoot">Anticipate/Overshoot</string>
+    <string name="app_name">Weight Diary</string>
+    <string name="banner_ad_unit_id">ca-app-pub-5156952701690991/1342816466</string>
+    <string name="bounce">Bounce</string>
+    <string name="centimetre">centimetre</string>
+    <string name="centimetre_short">cm</string>
+    <string name="chart_no_data">No data for chart</string>
+    <string name="chest">Chest</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t work unless you enable Google Play services.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are missing from your device.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue"><ns1:g id="app_name">%1$s</ns1:g> is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are not supported by your device.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run unless you update Google Play services.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are currently updating.</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="config_general_target">Target</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+    <string name="create_calendar_title">Create calendar event</string>
+    <string name="currentTimeTextViewText">Current Time</string>
+    <string name="data_is_saved">Data is saved.</string>
+    <string name="date_format">Date format</string>
+    <string name="days">days</string>
+    <string name="debug_menu_ad_information">Ad Information</string>
+    <string name="debug_menu_creative_preview">Creative Preview</string>
+    <string name="debug_menu_title">Select a Debug Mode</string>
+    <string name="debug_menu_troubleshooting">Troubleshooting</string>
+    <string name="decline">Decline</string>
+    <string name="default_web_client_id" translatable="false">392805157173-s0hpeg0s7jo51n59q582f8comtim5atf.apps.googleusercontent.com</string>
+    <string name="delete_all">Delete all</string>
+    <string name="delete_all_data">You really want to delete all data???</string>
+    <string name="done_writing_sd">Done writing to SD</string>
+    <string name="feedback">Feedback</string>
+    <string name="female">female</string>
+    <string name="firebase_database_url" translatable="false">https://weight-diary.firebaseio.com</string>
+    <string name="first_write">First record</string>
+    <string name="gcm_defaultSenderId" translatable="false">392805157173</string>
+    <string name="google_api_key" translatable="false">AIzaSyC_31k-S3HNxSBOmxb_LRegM7PxqmR6Mxg</string>
+    <string name="google_app_id" translatable="false">1:392805157173:android:12d41cab1d9c9fdd</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC_31k-S3HNxSBOmxb_LRegM7PxqmR6Mxg</string>
+    <string name="google_storage_bucket" translatable="false">weight-diary.appspot.com</string>
+    <string name="heigh">Heigh</string>
+    <string name="helpBMI">The BMI is a statistical measurement derived from your height and weight. Although it is considered to be a useful way to estimate healthy body weight, it does not measure the percentage of body fat. The BMI measurement can sometimes be misleading - a muscleman may have a high BMI but have much less fat than an unfit person whose BMI is lower. However, in general, the BMI measurement can be a useful indicator for the average person.
+		\n\n
+		Below 18.5	Underweight\n
+		18.5 - 24.9	Normal\n
+		25.0 - 29.9	Overweight\n
+		30.0 and Above	Obese\n\n	    
+	    </string>
+    <string name="helpBRM">You use energy no matter what you re doing, even when sleeping. The BMR Calculator will calculate your Basal Metabolic Rate (BMR); the number of calories you d burn if you stayed in bed all day.
+	\n    If you ve noticed that every year, it becomes harder to eat whatever you want and stay slim, youve also learnt that your BMR decreases as you age. Likewise, depriving yourself of food in hopes of losing weight also decreases your BMR, a foil to your intentions. However, a regular routine of cardiovascular exercise can increase your BMR, improving your health and fitness when your bodys ability to burn energy gradually slows down.</string>
+    <string name="helpFAT">Fat in the body is the most accurate measure of progress in diet and exercise.
+				\n	The level of fat in the body of a woman:
+				\n  Essential fat 10-12\u0025
+				\n  Athletes      14-20\u0025
+				\n  Fitness       21-24\u0025
+				\n  Acceptable    25-31\u0025 
+				\n  Obese         ≥ 32\u0025 
+				\n
+				\n  The level of fat in the male:
+				\n  Essential fat 2-4\u0025
+				\n  Athletes       6-13\u0025
+				\n  Fitness        14-17\u0025
+				\n  Acceptable     18-25\u0025
+				\n  Obese          ≥ 26\u0025
+
+	</string>
+    <string name="hip">Hip</string>
+    <string name="im_port">Import</string>
+    <string name="inch">inch</string>
+    <string name="inch_short">in</string>
+    <string name="kilogram">kilogram</string>
+    <string name="kilogram_short">kg</string>
+    <string name="lang_defolt">Default</string>
+    <string name="lang_titl">Language</string>
+    <string name="last_write">Last record</string>
+    <string name="later">Later</string>
+    <string name="length_unit">Length unit</string>
+    <string name="lines_imported">lines imported: </string>
+    <string name="male">male</string>
+    <string name="monday">Monday</string>
+    <string name="neck">Neck</string>
+    <string name="need_restart">You need to restart app</string>
+    <string name="nextAlarmString">Next alarm:</string>
+    <string name="noAlarmString">Next alarm</string>
+    <string name="no_senks">No, thanks</string>
+    <string name="normal">normal</string>
+    <string name="obese">obese</string>
+    <string name="overshoot">Overshoot</string>
+    <string name="overweight">overweight</string>
+    <string name="password">Password</string>
+    <string name="passwords_do_not_match">Рasswords do not match</string>
+    <string name="please_provide_target_chest">Please provide target chest</string>
+    <string name="please_provide_target_hip">Please provide target hip</string>
+    <string name="please_provide_target_waist_size">Please provide target waist size</string>
+    <string name="please_provide_target_weight">Please provide target weight</string>
+    <string name="pound">pound</string>
+    <string name="pound_short">lbs</string>
+    <string name="proc_fat">% fat</string>
+    <string name="quit">Quit</string>
+    <string name="quit_feedback">Please leave your feedback.</string>
+    <string name="quit_feedback_title">For better app.</string>
+    <string name="quit_mesage">Do you really want to quit?</string>
+    <string name="save_database">Save database</string>
+    <string name="security">Security</string>
+    <string name="select_import_file">Select import file</string>
+    <string name="sex">Gender</string>
+    <string name="share">Share</string>
+    <string name="statistics">Statistics</string>
+    <string name="store_picture_message">"Allow Ad to store image in Picture gallery?"</string>
+    <string name="store_picture_title">Save image</string>
+    <string name="summary_average">Average</string>
+    <string name="sunday">Sunday </string>
+    <string name="target_chest">Target chest</string>
+    <string name="target_hip">Target hip</string>
+    <string name="target_waist_size">Target waist size</string>
+    <string name="target_weight">Target weight</string>
+    <string name="tendency">Tendency:</string>
+    <string name="type_of_animation">Type of animation</string>
+    <string name="underweight">underweight</string>
+    <string name="user_info">User information</string>
+    <string name="vsego">Total</string>
+    <string name="weight_diary_plus">Weight Diary Plus</string>
+    <string name="weight_manager">Weight manager</string>
+    <string name="weight_unit">Weight unit</string>
+    <string name="years">years</string>
+    <style name="Theme.IAPTheme" parent="android:Theme">
+<item name="android:windowIsFloating">true</item>
+<item name="android:windowBackground">@android:color/transparent</item>
+<item name="android:windowContentOverlay">@null</item>
+<item name="android:windowNoTitle">true</item>
+<item name="android:backgroundDimEnabled">false</item>
+<item name="android:windowIsTranslucent">true</item>
+</style>
+</resources>

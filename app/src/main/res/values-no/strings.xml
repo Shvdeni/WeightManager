@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">Dagbok vekt</string>
+  <string name="chart_no_data">Ingen data for diagrammet</string>
+  <string name="summary_average">Gjennomsnittlig</string>
+  <string name="config_general_target">Plan</string>
+  <string name="currentTimeTextViewText">Tid</string>
+  <string name="nextAlarmString">Følgende påminnelse:</string>
+  <string name="noAlarmString">Påminnelse.</string>
+  <string name="alarm_service_started">Påminnelse</string>
+  <string name="target_weight">Planlagt vekt</string>
+  <string name="target_waist_size">Planlagt midje størrelse</string>
+  <string name="please_provide_target_weight">Vennligst skriv den planlagte vekt</string>
+  <string name="please_provide_target_waist_size">Vennligst skriv den planlagte mengden midje</string>
+  <string name="Weight">Vekt</string>
+  <string name="Waist_size">Midje</string>
+  <string name="pound_short">Pund</string>
+  <string name="pound">Pund</string>
+  <string name="kilogram_short">Kg</string>
+  <string name="kilogram">kilo</string>
+  <string name="centimetre_short">Cm</string>
+  <string name="centimetre">Centimeter</string>
+  <string name="inch">Inch</string>
+  <string name="weight_unit">En vektenhet.</string>
+  <string name="Select_unit_of_weight">Velge en vektenhet.</string>
+  <string name="length_unit">Lengdeenhet.</string>
+  <string name="Select_unit_of_length">Velg en måleenhet.</string>
+  <string name="tendency">Trend:</string>
+  <string name="Attention">Oppmerksomhet.</string>
+  <string name="Data_on_this_date_already_exist">Dataene på denne datoen allerede angitt.</string>
+  <string name="Edit">Redigere</string>
+  <string name="Delete">Fjern</string>
+  <string name="weight_manager">Vekt leder</string>
+  <string name="inch_short">Inch</string>
+  <string name="Week">Uke</string>
+  <string name="Month">Måneder.</string>
+  <string name="Month3">3 måneder.</string>
+  <string name="Month6">6 måneder.</string>
+  <string name="Year">År</string>
+  <string name="Optoins">Innstillinger</string>
+  <string name="quit">Utgang</string>
+  <string name="quit_mesage">Vil du virkelig ønsker å slutte?</string>
+  <string name="quit_feedback">Skriv en kommentar.</string>
+  <string name="quit_feedback_title">Forbedre program</string>
+  <string name="feedback">Gjennomgå</string>
+  <string name="Cancel">Kansellering</string>
+  <string name="BMI">BMI</string>
+  <string name="BMR">BSM</string>
+  <string name="user_info">Brukerinformasjon</string>
+  <string name="sex">Paul</string>
+  <string name="heigh">Vekst</string>
+  <string name="male">mann</string>
+  <string name="female">kvinne</string>
+  <string name="animation">Animasjon</string>
+  <string name="ChekBoxAnimation">Start animasjon</string>
+  <string name="age">Alder</string>
+  <string name="NoData">ingen data</string>
+  <string name="helpBMI">BMI (Body Mass Index) er estimering av kroppsfett basert på høyde og vekt tall, og gjelder for både menn og kvinner i alderen 18 til 65 år. BMI bidrar til å bestemme utilstrekkelig, normal, overvekt og fedme. En sunn BMI er mellom 20 - 25. Mark under 20 kan tyde undervektig, over 25 indikerer at du kan være overvektig. Vær oppmerksom på at dette er bare en av mange mulige måter å vurdere vekten din. Hvis du har noen spørsmål knyttet til din vekt, adresse til person som vil være i stand til å nøyaktig vurdere situasjonen basert på intensive individuelle kjennetegn ved kroppen din. \ N \ n BMI mindre enn 18,5 = undervektig * \ n BMI på 18,5 til 24,9 = normal vekt \ n BMI = 25,0 til 29,9 vekt \ n BMI på 30,0 og over = fedme \ n \ n \ n * - ". undervektig" det er en konflikt knyttet til indikatoren Studier viser at lav BMI er en risikofaktor for helse. I dette tilfellet, hvis du ikke tar hensyn til personer med lav BMI assosiert med alvorlige og kroniske sykdommer, frekvensen av "undervekt" kan ikke yavlyatsya risikofaktor, forutsatt at du er frisk og i god fysisk form.</string>
+  <string name="BMIFullString">Body mass index (BMI)</string>
+  <string name="BRMFullString">Basal Metabolic Rate (BMR)</string>
+  <string name="helpBRM">Du bruker energi kontinuerlig, uavhengig av aktivitetsnivå, selv når du sover. Denne kalkulatoren hjelper deg å beregne din BMR indeks (Basal Metabolic Rate), antall kalorier som du ville ha brukt, mens i sengen hele dagen. Hvis du oppdager at jo eldre du blir, jo vanskeligere er det alt som du ønsker, og holde seg i form, må du vite at med alderen, er BCM redusert. BSM også redusert når du begrense deg til mat, håper på PONV vekt, dermed kroppen tilpasser seg de nye forholdene. Mens årene, kroppens evne til å forbrenne kalorier reduseres, regelmessig mosjon kan øke din BMR, hadde en positiv effekt på din fysiske tilstand.</string>
+  <string name="underweight">undervektig</string>
+  <string name="normal">normal vekt</string>
+  <string name="overweight">overvekt</string>
+  <string name="obese">fedme</string>
+  <string name="monday">Mandag</string>
+  <string name="sunday">Søndag</string>
+  <string name="FirstDayOfWeek">Den første dagen i uken</string>
+  <string name="ProvideFirstDayOfWeek">Skriv inn den første dag i uken</string>
+  <string name="security">Sikkerhet</string>
+  <string name="password">Passord</string>
+  <string name="EnterPassword">Skriv inn passordet</string>
+  <string name="passwords_do_not_match">Passordene samsvarer ikke</string>
+  <string name="confirm_password">Gjenta passord</string>
+  <string name="overshoot">Overshoot</string>
+  <string name="bounce">Sprette</string>
+  <string name="anticipate_overshoot">Forutse / Overshoot</string>
+  <string name="type_of_animation">Type animasjon</string>
+  <string name="interpolatorList">Liste</string>
+  <string name="chest">Bryst</string>
+  <string name="hip">Hips</string>
+  <string name="data_is_saved">Data er lagret.</string>
+  <string name="save_database">Hold basen</string>
+  <string name="delete_all">Fjern alle</string>
+  <string name="im_port">Importen</string>
+  <string name="done_writing_sd">Opptak til SD avsluttet</string>
+  <string name="all_data_deleted">Alle data fjernet</string>
+  <string name="delete_all_data">Vil du virkelig ønsker å slette alle data?</string>
+  <string name="select_import_file">Importfilen</string>
+  <string name="lines_imported">Records importert:</string>
+  <string name="target_chest">Den prosjekterte størrelsen på brystet</string>
+  <string name="please_provide_target_chest">Vennligst skriv den planlagte størrelsen på brystene</string>
+  <string name="target_hip">Den planlagte størrelsen på hoftene</string>
+  <string name="please_provide_target_hip">Vennligst skriv den planlagte mengden av hip</string>
+  <string name="years">år</string>
+  <string name="weight_diary_plus">Dagbok vekt Plus</string>
+  
+  	<string name="lang_titl">Language(språk)</string>
+	<string name="lang_defolt">Default(som standard)</string>
+	
+	
+	<string name="MM_DD_YYYY">MM/DD/YYYY</string>
+	<string name="DD_MM_YYYY">DD/MM/YYYY</string>
+	<string name="YYYY_MM_DD">YYYY/MM/DD</string>
+	<string name="date_format">Date format</string>
+	<string name="need_restart">You need to restart app</string>
+	<string name="share">Share</string>
+    
+	<string name="proc_fat">% fat</string>
+	<string name="neck">Neck</string>
+	<string name="helpFAT">Fett i kroppen er den mest nøyaktige mål på fremgang i kosthold og trening.
+			\n nivået av fett i kroppen til en kvinne:
+			\n Essential fett 10-12 \u0025
+			\n Idrettsutøvere 14-20 \u0025
+			\n Fitness 21-24 \u0025
+			\n Akseptabel 25-31 \u0025
+			\n Overvektige ≥ 32 \u0025
+			\n
+			\n nivået av fett i den mannlige:
+			\n Essential fett 2-4 \u0025
+			\n Idrettsutøvere 6-13 \u0025
+			\n Fitness 14-17 \u0025
+			\n Akseptabel 18-25 \u0025
+			\n Overvektige ≥ 26 \u0025
+
+	</string>
+
+	<string name="FeedBackText">Hei! Vi jobber for deg! Bidra til å gjøre programmet bedre. Hvis du liker app behage sted rating eller skrive en e-post om alle svakhetene og manglene. Takk. Utviklere.</string>
+	<string name="later">senere</string>
+	<string name="no_senks">Nei, takk</string>
+	<string name="FatFullString">% fett</string>	
+	
+	
+	<string name="statistics">statistikk</string>
+	<string name="Baza_d">database.</string>
+	<string name="Size_baza">Størrelse (records):</string>
+	<string name="first_write">første posten</string>
+	<string name="last_write">Siste rekord</string>
+	<string name="vsego">Total</string>
+	<string name="Largest">høyeste</string>
+	<string name="Smolest">laveste</string>
+	<string name="Last">Siste</string>
+	<string name="days">dager</string>	
+	
+	
+</resources>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">น้ำหนักไดอารี่</string>
+  <string name="chart_no_data">ไม่มีข้อมูลสำหรับแผนภูมิ</string>
+  <string name="summary_average">เฉลี่ย</string>
+  <string name="config_general_target">แผนการ</string>
+  <string name="currentTimeTextViewText">เวลา</string>
+  <string name="nextAlarmString">เตือนต่อไปนี้:</string>
+  <string name="noAlarmString">เตือน</string>
+  <string name="alarm_service_started">เตือน</string>
+  <string name="target_weight">น้ำหนักวางแผน</string>
+  <string name="target_waist_size">ขนาดเอววางแผน</string>
+  <string name="please_provide_target_weight">กรุณากรอกน้ำหนักวางแผน</string>
+  <string name="please_provide_target_waist_size">กรุณากรอกจำนวนเงินตามแผนของเอว</string>
+  <string name="Weight">น้ำหนัก</string>
+  <string name="Waist_size">เอว</string>
+  <string name="pound_short">ปอนด์</string>
+  <string name="pound">ปอนด์</string>
+  <string name="kilogram_short">กิโลกรัม</string>
+  <string name="kilogram">กิโลกรัม</string>
+  <string name="centimetre_short">เซนติเมตร</string>
+  <string name="centimetre">เซนติเมตร</string>
+  <string name="inch">นิ้ว</string>
+  <string name="weight_unit">หน่วยน้ำหนัก</string>
+  <string name="Select_unit_of_weight">เลือกหน่วยของน้ำหนัก</string>
+  <string name="length_unit">หน่วยความยาว</string>
+  <string name="Select_unit_of_length">เลือกหน่วยของความยาว</string>
+  <string name="tendency">Trend:</string>
+  <string name="Attention">ความสนใจ</string>
+  <string name="Data_on_this_date_already_exist">ข้อมูลในวันที่ป้อนไว้แล้ว</string>
+  <string name="Edit">แก้ไข</string>
+  <string name="Delete">ถอด</string>
+  <string name="weight_manager">ผู้จัดการน้ำหนัก</string>
+  <string name="inch_short">นิ้ว</string>
+  <string name="Week">สัปดาห์</string>
+  <string name="Month">เดือน</string>
+  <string name="Month3">3 เดือน</string>
+  <string name="Month6">6 เดือน</string>
+  <string name="Year">ปี</string>
+  <string name="Optoins">การตั้งค่า</string>
+  <string name="quit">เอาท์พุต</string>
+  <string name="quit_mesage">คุณต้องการที่จะเลิก?</string>
+  <string name="quit_feedback">กรุณาแสดงความคิดเห็นของคุณ</string>
+  <string name="quit_feedback_title">ปรับปรุงโปรแกรม</string>
+  <string name="feedback">ทบทวน</string>
+  <string name="Cancel">การยกเลิก</string>
+  <string name="BMI">ค่าดัชนีมวลกาย</string>
+  <string name="BMR">BSM</string>
+  <string name="user_info">ข้อมูลผู้ใช้</string>
+  <string name="sex">พอล</string>
+  <string name="heigh">การเจริญเติบโต</string>
+  <string name="male">ชาย</string>
+  <string name="female">หญิง</string>
+  <string name="animation">นิเมชั่น</string>
+  <string name="ChekBoxAnimation">เริ่มการเคลื่อนไหว</string>
+  <string name="age">อายุ</string>
+  <string name="NoData">ไม่มีข้อมูล</string>
+  <string name="helpBMI">ค่าดัชนีมวลกาย (ดัชนีมวลกาย) คือการประเมินของไขมันในร่างกายขึ้นอยู่กับความสูงและน้ำหนักตัวเลขและนำไปใช้กับทั้งชายและหญิงอายุตั้งแต่ 18 ปีถึง 65 ปี ค่าดัชนีมวลกายช่วยในการกำหนดไม่เพียงพอ, ปกติ, มีน้ำหนักเกินและโรคอ้วน น้ำหนักปกติอยู่ระหว่าง 20 - 25 มาร์คต่ำกว่า 20 อาจบ่งบอกถึงความหนักน้อยกว่า 25 แสดงว่าคุณอาจจะมีน้ำหนักเกิน โปรดทราบว่านี้เป็นเพียงหนึ่งในวิธีที่เป็นไปได้มากที่จะประเมินน้ำหนักของคุณ หากคุณมีคำถามใด ๆ ที่เกี่ยวข้องกับน้ำหนักของคุณที่อยู่ของบุคคลที่จะสามารถประเมินสถานการณ์ได้อย่างถูกต้องตามลักษณะของแต่ละบุคคลอย่างเข้มข้นของร่างกายของคุณ \ n \ n BMI น้อยกว่า 18.5 = น้ำหนัก * \ n BMI ของ 18.5-24.9 = น้ำหนักปกติ \ n BMI 25.0-29.9 = น้ำหนัก \ n BMI 30.0 และสูงกว่า = อ้วน \ n \ n \ n * - ". หนัก" มีความขัดแย้งที่เกี่ยวข้องกับตัวบ่งชี้ การศึกษาแสดงให้เห็นว่าต่ำ BMI เป็นปัจจัยเสี่ยงต่อสุขภาพ ในกรณีนี้ถ้าคุณไม่คำนึงถึงคนที่มีบัญชีต่ำ BMI จะเกี่ยวข้องกับโรคที่รุนแรงและเรื้อรังอัตราของ "หนัก" ไม่สามารถปัจจัยเสี่ยง yavlyatsya หากว่าคุณมีสุขภาพดีและรูปร่างทางกายภาพที่ดี</string>
+  <string name="BMIFullString">ดัชนีมวลกาย (BMI)</string>
+  <string name="BRMFullString">อัตราการเผาผลาญเป็นมูลฐาน (BMR)</string>
+  <string name="helpBRM">ที่คุณใช้จ่ายอย่างต่อเนื่องของพลังงานโดยไม่คำนึงถึงระดับของคุณของกิจกรรมแม้ในขณะที่คุณนอนหลับ เครื่องคิดเลขนี้จะช่วยให้คุณคำนวณดัชนี BMR (อัตราการเผาผลาญเป็นมูลฐานของคุณ) จำนวนแคลอรี่ที่คุณจะได้ใช้เวลาในขณะที่อยู่บนเตียงทั้งวัน ถ้าคุณสังเกตเห็นว่าคุณได้รับเก่าที่ยากก็คือทุกอย่างที่คุณต้องการและอยู่ในรูปทรงคุณต้องรู้ว่ามีอายุ BCM จะลดลง BSM ยังลดลงเมื่อคุณ จำกัด ตัวเองให้อาหารโดยหวังให้น้ำหนัก PONV จึงร่างกายจะปรับไปใช้เงื่อนไขใหม่ ในขณะที่ปีที่ผ่านมาความสามารถของร่างกายในการเผาไหม้แคลอรี่ลดลงออกกำลังกายเป็นประจำสามารถเพิ่ม BMR ของคุณมีผลกระทบในเชิงบวกต่อสภาพร่างกายของคุณ</string>
+  <string name="underweight">ความหนักน้อย</string>
+  <string name="normal">น้ำหนักปกติ</string>
+  <string name="overweight">น้ำหนักส่วนเกิน</string>
+  <string name="obese">ความอ้วน</string>
+  <string name="monday">วันจันทร์</string>
+  <string name="sunday">วันอาทิตย์</string>
+  <string name="FirstDayOfWeek">วันแรกของสัปดาห์</string>
+  <string name="ProvideFirstDayOfWeek">ใส่วันแรกของสัปดาห์</string>
+  <string name="security">ความปลอดภัย</string>
+  <string name="password">รหัสผ่าน</string>
+  <string name="EnterPassword">ใส่รหัสผ่าน</string>
+  <string name="passwords_do_not_match">รหัสผ่านไม่ตรงกัน</string>
+  <string name="confirm_password">ทำซ้ำรหัสผ่าน</string>
+  <string name="overshoot">ทำเลย</string>
+  <string name="bounce">เด้ง</string>
+  <string name="anticipate_overshoot">คาดว่าจะแหก /</string>
+  <string name="type_of_animation">ชนิดของภาพเคลื่อนไหว</string>
+  <string name="interpolatorList">รายการ</string>
+  <string name="chest">หน้าอก</string>
+  <string name="hip">สะโพก</string>
+  <string name="data_is_saved">ข้อมูลจะถูกบันทึก</string>
+  <string name="save_database">รักษาฐาน</string>
+  <string name="delete_all">ลบทั้งหมด</string>
+  <string name="im_port">การนำเข้า</string>
+  <string name="done_writing_sd">บันทึกไปยังการ์ด SD เสร็จ</string>
+  <string name="all_data_deleted">ข้อมูลทั้งหมดถูกลบออก</string>
+  <string name="delete_all_data">คุณต้องการที่จะลบข้อมูลทั้งหมดหรือไม่</string>
+  <string name="select_import_file">ไฟล์นำเข้า</string>
+  <string name="lines_imported">ประวัติที่นำเข้า:</string>
+  <string name="target_chest">ขนาดของเต้านมที่คาดการณ์</string>
+  <string name="please_provide_target_chest">กรุณาใส่ขนาดของเต้านมตามแผน</string>
+  <string name="target_hip">ขนาดของสะโพกวางแผน</string>
+  <string name="please_provide_target_hip">กรุณากรอกจำนวนเงินตามแผนของสะโพก</string>
+  <string name="years">ปี</string>
+  <string name="weight_diary_plus">ไดอารี่พลัสน้ำหนัก</string>
+  
+  	<string name="lang_titl">Language(ภาษา)</string>
+	<string name="lang_defolt">Default(โดยค่าเริ่มต้น)</string>
+	
+	
+	<string name="MM_DD_YYYY">MM/DD/YYYY</string>
+	<string name="DD_MM_YYYY">DD/MM/YYYY</string>
+	<string name="YYYY_MM_DD">YYYY/MM/DD</string>
+	<string name="date_format">Date format</string>
+	<string name="need_restart">You need to restart app</string>
+	<string name="share">Share</string>
+    
+	<string name="proc_fat">% fat</string>
+	<string name="neck">Neck</string>
+	<string name="helpFAT">Fat in the body is the most accurate measure of progress in diet and exercise.
+				\n	The level of fat in the body of a woman:
+				\n  Essential fat 10-12\u0025
+				\n  Athletes      14-20\u0025
+				\n  Fitness       21-24\u0025
+				\n  Acceptable    25-31\u0025 
+				\n  Obese         ≥ 32\u0025 
+				\n
+				\n  The level of fat in the male:
+				\n  Essential fat 2-4\u0025
+				\n  Athletes       6-13\u0025
+				\n  Fitness        14-17\u0025
+				\n  Acceptable     18-25\u0025
+				\n  Obese          ≥ 26\u0025
+
+	</string>
+
+	<string name="FeedBackText">Hello! We work for you! Help make the program better. If you like the app please place rating or write an e-mail about all the shortcomings and deficiencies. Thank you. Developers.</string>
+	<string name="later">Later</string>
+	<string name="no_senks">No, thanks</string>
+	<string name="FatFullString">% fat</string>	
+	
+	
+	<string name="statistics">Statistics</string>
+	<string name="Baza_d">Database.</string>
+	<string name="Size_baza">Size (records):</string>
+	<string name="first_write">First record</string>
+	<string name="last_write">Last record</string>
+	<string name="vsego">Total</string>
+	<string name="Largest">Highest</string>
+	<string name="Smolest">Lowest</string>
+	<string name="Last">Last</string>
+	<string name="days">days</string>		
+	
+	
+</resources>

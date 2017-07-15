@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/custom_dialog_bg" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+		android:padding="20dp">
+
+<!--          
+		<jp.dip.sys1.android.drumpicker.lib.DateDrumPicker
+			android:id="@+id/datepicker1" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:layout_weight="1" />   		
+-->
+        <wheel_lib.WheelView android:id="@+id/Wheel_1"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:minWidth="60dp"/>
+        <wheel_lib.WheelView android:id="@+id/Wheel_2"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:minWidth="120dp"/>
+        <wheel_lib.WheelView android:id="@+id/Wheel_3"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:minWidth="100dp"/>		
+		
+    </LinearLayout>
+    
+   	<LinearLayout
+   	    android:layout_width="fill_parent"
+   	    android:layout_height="wrap_content"
+
+		android:layout_marginBottom="15dp"   	    
+   	    android:gravity="center" >
+
+			    <Button
+			        android:id="@+id/button22"
+			        android:layout_width="100dp"
+			        android:layout_height="wrap_content"
+
+			        android:text="OK" />
+			
+			    <Button
+			        android:id="@+id/button23"
+			        android:layout_width="100dp"
+			        android:layout_height="wrap_content"
+			        android:text="Cancel"
+			         />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,323 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml
+		INJECTED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml
+		INJECTED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml
+		INJECTED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:7:5-72
+MERGED from [com.google.firebase:firebase-core:9.8.0] C:\Users\DSD\.android\build-cache\46bb5bfc72841ba687ac8d42c7893a54017d0ff9\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-ads:9.8.0] C:\Users\DSD\.android\build-cache\d566632ffd8614bc1edfb96ab313f9a701bd580c\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.8.0] C:\Users\DSD\.android\build-cache\31aa5b3189acfd003ced841283539b72ac86f25c\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\DSD\.android\build-cache\029b9453d9a337f19cafdc2d979daf37752faa04\output\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] C:\Users\DSD\.android\build-cache\e2880361425fab2edfbd310e7231eeec0067bd92\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\DSD\.android\build-cache\5e68bde8151cf5680718d494569d53d99e28ccd9\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] C:\Users\DSD\.android\build-cache\e2bb93bd757a9c5539afa496df27271c3b97b25d\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\DSD\.android\build-cache\98e0a2acab05cf1316b3c3e65556c93eed47f0a7\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\DSD\.android\build-cache\3109459b9e08e0b0334bee8914dfe9849f46ee04\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\DSD\.android\build-cache\9bd31833993ea52ca3341508dcd57e84be6a20f4\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\DSD\.android\build-cache\7311413a65b9346140c0bf2d18e0776236385065\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\DSD\.android\build-cache\8a4c102f0516d8c68f627397acd430970b07baf3\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\DSD\.android\build-cache\eaa7f9857f968d02e7ca843e356d6d9357bf1ce8\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\DSD\.android\build-cache\6ebb7194f9a86a758d60a926e7a1ee10aed096e5\output\AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.0.0] C:\Users\DSD\.android\build-cache\6ebb7194f9a86a758d60a926e7a1ee10aed096e5\output\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:7:41-70
+		INJECTED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml
+		INJECTED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:7:15-40
+		INJECTED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml
+		INJECTED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:9:2-81
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\DSD\.android\build-cache\98e0a2acab05cf1316b3c3e65556c93eed47f0a7\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\DSD\.android\build-cache\3109459b9e08e0b0334bee8914dfe9849f46ee04\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\DSD\.android\build-cache\9bd31833993ea52ca3341508dcd57e84be6a20f4\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:9:19-62
+uses-permission#android.permission.VIBRATE
+ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:10:2-62
+	android:name
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:10:19-60
+uses-permission#android.permission.INTERNET
+ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:11:2-63
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\DSD\.android\build-cache\029b9453d9a337f19cafdc2d979daf37752faa04\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\DSD\.android\build-cache\98e0a2acab05cf1316b3c3e65556c93eed47f0a7\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\DSD\.android\build-cache\3109459b9e08e0b0334bee8914dfe9849f46ee04\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\DSD\.android\build-cache\9bd31833993ea52ca3341508dcd57e84be6a20f4\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:11:19-61
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:12:2-75
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\DSD\.android\build-cache\029b9453d9a337f19cafdc2d979daf37752faa04\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\DSD\.android\build-cache\98e0a2acab05cf1316b3c3e65556c93eed47f0a7\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\DSD\.android\build-cache\3109459b9e08e0b0334bee8914dfe9849f46ee04\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\DSD\.android\build-cache\9bd31833993ea52ca3341508dcd57e84be6a20f4\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:12:19-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:13:2-77
+	android:name
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:13:19-75
+supports-screens
+ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:15:2-19:58
+	android:largeScreens
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:18:2-29
+	android:smallScreens
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:16:2-29
+	android:normalScreens
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:17:2-30
+	android:xlargeScreens
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:19:28-56
+	android:anyDensity
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:19:2-27
+application
+ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:21:5-51:19
+MERGED from [com.google.firebase:firebase-core:9.8.0] C:\Users\DSD\.android\build-cache\46bb5bfc72841ba687ac8d42c7893a54017d0ff9\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-ads:9.8.0] C:\Users\DSD\.android\build-cache\d566632ffd8614bc1edfb96ab313f9a701bd580c\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\DSD\.android\build-cache\029b9453d9a337f19cafdc2d979daf37752faa04\output\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] C:\Users\DSD\.android\build-cache\e2880361425fab2edfbd310e7231eeec0067bd92\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\DSD\.android\build-cache\5e68bde8151cf5680718d494569d53d99e28ccd9\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] C:\Users\DSD\.android\build-cache\e2bb93bd757a9c5539afa496df27271c3b97b25d\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\DSD\.android\build-cache\98e0a2acab05cf1316b3c3e65556c93eed47f0a7\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\DSD\.android\build-cache\3109459b9e08e0b0334bee8914dfe9849f46ee04\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\DSD\.android\build-cache\9bd31833993ea52ca3341508dcd57e84be6a20f4\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\DSD\.android\build-cache\7311413a65b9346140c0bf2d18e0776236385065\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\DSD\.android\build-cache\8a4c102f0516d8c68f627397acd430970b07baf3\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\DSD\.android\build-cache\eaa7f9857f968d02e7ca843e356d6d9357bf1ce8\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\DSD\.android\build-cache\6ebb7194f9a86a758d60a926e7a1ee10aed096e5\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:22:9-45
+activity#weight.manager.WeightManagerActivity
+ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:24:9-34:20
+	android:clearTaskOnLaunch
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:28:13-45
+	android:screenOrientation
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:26:46-82
+	android:label
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:26:13-45
+	android:launchMode
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:28:46-77
+	android:theme
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:27:13-60
+	android:name
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:25:13-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:32:27-74
+activity#weight.manager.listActivity
+ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:35:9-144
+	android:screenOrientation
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:35:48-84
+	android:theme
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:35:85-132
+	android:name
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:35:19-47
+activity#weight.manager.chartActivity
+ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:36:9-145
+	android:screenOrientation
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:36:49-85
+	android:theme
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:36:86-133
+	android:name
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:36:19-48
+activity#weight.manager.AlarmclockActivity
+ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:37:9-150
+	android:screenOrientation
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:37:54-90
+	android:theme
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:37:91-138
+	android:name
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:37:19-53
+activity#weight.manager.ShowSettingsActivity
+ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:38:9-105
+	android:theme
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:38:56-103
+	android:name
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:38:19-55
+activity#weight.manager.HelpBMIActivity
+ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:39:9-100
+	android:theme
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:39:51-98
+	android:name
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:39:19-50
+activity#weight.manager.HelpBRMActivity
+ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:40:9-100
+	android:theme
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:40:51-98
+	android:name
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:40:19-50
+activity#weight.manager.HelpFatActivity
+ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:41:9-100
+	android:theme
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:41:51-98
+	android:name
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:41:19-50
+activity#weight.manager.statistics
+ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:42:9-142
+	android:screenOrientation
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:42:46-82
+	android:theme
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:42:83-130
+	android:name
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:42:19-45
+receiver#weight.manager.BReceiver
+ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:44:3-73
+	android:enabled
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:44:39-61
+	android:name
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:44:13-38
+activity#com.google.ads.AdActivity
+ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:48:6-49:126
+	android:configChanges
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:49:15-124
+	android:name
+		ADDED from C:\DSD\temp\WeightManager79AS\WeightManager\app\src\main\AndroidManifest.xml:48:16-56
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\DSD\.android\build-cache\029b9453d9a337f19cafdc2d979daf37752faa04\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\DSD\.android\build-cache\029b9453d9a337f19cafdc2d979daf37752faa04\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\DSD\.android\build-cache\029b9453d9a337f19cafdc2d979daf37752faa04\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\DSD\.android\build-cache\029b9453d9a337f19cafdc2d979daf37752faa04\output\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\DSD\.android\build-cache\029b9453d9a337f19cafdc2d979daf37752faa04\output\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\DSD\.android\build-cache\029b9453d9a337f19cafdc2d979daf37752faa04\output\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\DSD\.android\build-cache\029b9453d9a337f19cafdc2d979daf37752faa04\output\AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\DSD\.android\build-cache\5e68bde8151cf5680718d494569d53d99e28ccd9\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\DSD\.android\build-cache\5e68bde8151cf5680718d494569d53d99e28ccd9\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\DSD\.android\build-cache\5e68bde8151cf5680718d494569d53d99e28ccd9\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\DSD\.android\build-cache\5e68bde8151cf5680718d494569d53d99e28ccd9\output\AndroidManifest.xml:19:19-85
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\DSD\.android\build-cache\98e0a2acab05cf1316b3c3e65556c93eed47f0a7\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\DSD\.android\build-cache\3109459b9e08e0b0334bee8914dfe9849f46ee04\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\DSD\.android\build-cache\98e0a2acab05cf1316b3c3e65556c93eed47f0a7\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\DSD\.android\build-cache\98e0a2acab05cf1316b3c3e65556c93eed47f0a7\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\DSD\.android\build-cache\98e0a2acab05cf1316b3c3e65556c93eed47f0a7\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\DSD\.android\build-cache\98e0a2acab05cf1316b3c3e65556c93eed47f0a7\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\DSD\.android\build-cache\98e0a2acab05cf1316b3c3e65556c93eed47f0a7\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\DSD\.android\build-cache\98e0a2acab05cf1316b3c3e65556c93eed47f0a7\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\DSD\.android\build-cache\98e0a2acab05cf1316b3c3e65556c93eed47f0a7\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\DSD\.android\build-cache\98e0a2acab05cf1316b3c3e65556c93eed47f0a7\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\DSD\.android\build-cache\98e0a2acab05cf1316b3c3e65556c93eed47f0a7\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\DSD\.android\build-cache\98e0a2acab05cf1316b3c3e65556c93eed47f0a7\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\DSD\.android\build-cache\98e0a2acab05cf1316b3c3e65556c93eed47f0a7\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\DSD\.android\build-cache\3109459b9e08e0b0334bee8914dfe9849f46ee04\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\DSD\.android\build-cache\98e0a2acab05cf1316b3c3e65556c93eed47f0a7\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\DSD\.android\build-cache\98e0a2acab05cf1316b3c3e65556c93eed47f0a7\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\DSD\.android\build-cache\98e0a2acab05cf1316b3c3e65556c93eed47f0a7\output\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\DSD\.android\build-cache\9bd31833993ea52ca3341508dcd57e84be6a20f4\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\DSD\.android\build-cache\9bd31833993ea52ca3341508dcd57e84be6a20f4\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\DSD\.android\build-cache\9bd31833993ea52ca3341508dcd57e84be6a20f4\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\DSD\.android\build-cache\9bd31833993ea52ca3341508dcd57e84be6a20f4\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\DSD\.android\build-cache\9bd31833993ea52ca3341508dcd57e84be6a20f4\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\DSD\.android\build-cache\9bd31833993ea52ca3341508dcd57e84be6a20f4\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\DSD\.android\build-cache\9bd31833993ea52ca3341508dcd57e84be6a20f4\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\DSD\.android\build-cache\9bd31833993ea52ca3341508dcd57e84be6a20f4\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\DSD\.android\build-cache\9bd31833993ea52ca3341508dcd57e84be6a20f4\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\DSD\.android\build-cache\9bd31833993ea52ca3341508dcd57e84be6a20f4\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\DSD\.android\build-cache\9bd31833993ea52ca3341508dcd57e84be6a20f4\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\DSD\.android\build-cache\9bd31833993ea52ca3341508dcd57e84be6a20f4\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\DSD\.android\build-cache\9bd31833993ea52ca3341508dcd57e84be6a20f4\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\DSD\.android\build-cache\9bd31833993ea52ca3341508dcd57e84be6a20f4\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\DSD\.android\build-cache\9bd31833993ea52ca3341508dcd57e84be6a20f4\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\DSD\.android\build-cache\9bd31833993ea52ca3341508dcd57e84be6a20f4\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\DSD\.android\build-cache\9bd31833993ea52ca3341508dcd57e84be6a20f4\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\DSD\.android\build-cache\9bd31833993ea52ca3341508dcd57e84be6a20f4\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\DSD\.android\build-cache\9bd31833993ea52ca3341508dcd57e84be6a20f4\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\DSD\.android\build-cache\9bd31833993ea52ca3341508dcd57e84be6a20f4\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\DSD\.android\build-cache\9bd31833993ea52ca3341508dcd57e84be6a20f4\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\DSD\.android\build-cache\9bd31833993ea52ca3341508dcd57e84be6a20f4\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\DSD\.android\build-cache\9bd31833993ea52ca3341508dcd57e84be6a20f4\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\DSD\.android\build-cache\9bd31833993ea52ca3341508dcd57e84be6a20f4\output\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\DSD\.android\build-cache\9bd31833993ea52ca3341508dcd57e84be6a20f4\output\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\DSD\.android\build-cache\9bd31833993ea52ca3341508dcd57e84be6a20f4\output\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\DSD\.android\build-cache\9bd31833993ea52ca3341508dcd57e84be6a20f4\output\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\DSD\.android\build-cache\9bd31833993ea52ca3341508dcd57e84be6a20f4\output\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\DSD\.android\build-cache\7311413a65b9346140c0bf2d18e0776236385065\output\AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\DSD\.android\build-cache\7311413a65b9346140c0bf2d18e0776236385065\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\DSD\.android\build-cache\7311413a65b9346140c0bf2d18e0776236385065\output\AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\DSD\.android\build-cache\7311413a65b9346140c0bf2d18e0776236385065\output\AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\DSD\.android\build-cache\7311413a65b9346140c0bf2d18e0776236385065\output\AndroidManifest.xml:6:79-124
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\DSD\.android\build-cache\eaa7f9857f968d02e7ca843e356d6d9357bf1ce8\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\DSD\.android\build-cache\eaa7f9857f968d02e7ca843e356d6d9357bf1ce8\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\DSD\.android\build-cache\eaa7f9857f968d02e7ca843e356d6d9357bf1ce8\output\AndroidManifest.xml:20:20-65

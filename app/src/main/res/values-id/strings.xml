@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">Diary berat badan</string>
+  <string name="chart_no_data">Tidak ada data untuk tabel</string>
+  <string name="summary_average">Rata-rata</string>
+  <string name="config_general_target">Rencana</string>
+  <string name="currentTimeTextViewText">Waktu</string>
+  <string name="nextAlarmString">Pengingat berikut:</string>
+  <string name="noAlarmString">Pengingat.</string>
+  <string name="alarm_service_started">Peringatan</string>
+  <string name="target_weight">Rencana berat badan</string>
+  <string name="target_waist_size">Rencana ukuran pinggang</string>
+  <string name="please_provide_target_weight">Masukkan berat direncanakan</string>
+  <string name="please_provide_target_waist_size">Silakan masukkan jumlah yang direncanakan pinggang</string>
+  <string name="Weight">Berat</string>
+  <string name="Waist_size">Pinggang</string>
+  <string name="pound_short">Pon</string>
+  <string name="pound">Pon</string>
+  <string name="kilogram_short">Kg</string>
+  <string name="kilogram">kilogram</string>
+  <string name="centimetre_short">Cm</string>
+  <string name="centimetre">Sentimeter</string>
+  <string name="inch">Inci</string>
+  <string name="weight_unit">Sebuah unit berat.</string>
+  <string name="Select_unit_of_weight">Pilih satuan berat.</string>
+  <string name="length_unit">Satuan panjang.</string>
+  <string name="Select_unit_of_length">Pilih satuan panjang.</string>
+  <string name="tendency">Trend:</string>
+  <string name="Attention">Perhatian.</string>
+  <string name="Data_on_this_date_already_exist">Data pada tanggal tersebut sudah masuk.</string>
+  <string name="Edit">Mengedit</string>
+  <string name="Delete">Menghapus</string>
+  <string name="weight_manager">Berat manager</string>
+  <string name="inch_short">Inci</string>
+  <string name="Week">Minggu</string>
+  <string name="Month">Bulan.</string>
+  <string name="Month3">3 bulan.</string>
+  <string name="Month6">6 Bulan.</string>
+  <string name="Year">Tahun</string>
+  <string name="Optoins">Pengaturan</string>
+  <string name="quit">Keluaran</string>
+  <string name="quit_mesage">Apakah Anda benar-benar ingin berhenti?</string>
+  <string name="quit_feedback">Silakan tinggalkan umpan balik Anda.</string>
+  <string name="quit_feedback_title">Meningkatkan program</string>
+  <string name="feedback">Tinjau</string>
+  <string name="Cancel">Pembatalan</string>
+  <string name="BMI">BMI</string>
+  <string name="BMR">BSM</string>
+  <string name="user_info">Informasi Pengguna</string>
+  <string name="sex">Paul</string>
+  <string name="heigh">Pertumbuhan</string>
+  <string name="male">laki-laki</string>
+  <string name="female">perempuan</string>
+  <string name="animation">Animasi</string>
+  <string name="ChekBoxAnimation">Mulai animasi</string>
+  <string name="age">Usia</string>
+  <string name="NoData">tidak ada data</string>
+  <string name="helpBMI">BMI (Body Mass Index) adalah estimasi dari lemak tubuh berdasarkan tinggi dan berat badan tokoh, dan berlaku untuk pria dan wanita berusia 18 hingga 65 tahun. BMI membantu menentukan memadai, normal, kelebihan berat badan, dan obesitas. Sebuah BMI yang sehat adalah antara 20 - 25. Mark bawah 20 mengindikasikan kurus, di atas 25 mengindikasikan bahwa Anda mungkin kelebihan berat badan. Harap dicatat bahwa ini hanyalah salah satu dari banyak cara yang mungkin untuk menilai berat badan Anda. Jika Anda memiliki pertanyaan terkait dengan berat badan Anda, alamat orang yang akan dapat secara akurat menilai situasi berdasarkan karakteristik individu intensif tubuh Anda. \ N \ n BMI kurang dari 18,5 = underweight * \ n BMI dari 18,5 hingga 24,9 = berat badan normal \ n BMI = 25,0-29,9 berat \ n BMI dari 30,0 dan di atas = obesitas \ n \ n \ n * - ". underweight" ada konflik yang berkaitan dengan indikator Studi menunjukkan bahwa BMI yang rendah merupakan faktor risiko bagi kesehatan. Dalam hal ini, jika Anda tidak memperhitungkan orang akun dengan BMI yang rendah dikaitkan dengan penyakit berat dan kronis, tingkat "underweight" bisa tidak yavlyatsya faktor risiko, asalkan Anda sehat dan dalam kondisi fisik yang baik.</string>
+  <string name="BMIFullString">Indeks massa tubuh (BMI)</string>
+  <string name="BRMFullString">Metabolisme Basal Rate (BMR)</string>
+  <string name="helpBRM">Anda menghabiskan energi terus menerus, terlepas dari tingkat aktivitas Anda, bahkan ketika Anda tidur. Kalkulator ini akan membantu Anda menghitung indeks BMR Anda (Basal Metabolic Rate), jumlah kalori yang Anda akan menghabiskan beberapa saat di tempat tidur sepanjang hari. Jika Anda melihat bahwa tua Anda dapatkan, semakin sulit adalah segala sesuatu yang Anda inginkan dan tetap bugar, Anda harus tahu bahwa dengan usia, BCM berkurang. BSM juga berkurang bila Anda membatasi diri untuk makanan, berharap untuk berat badan PONV, sehingga tubuh menyesuaikan dengan kondisi baru. Sementara selama bertahun-tahun, kemampuan tubuh Anda untuk membakar kalori berkurang, olahraga teratur dapat meningkatkan BMR Anda, memiliki efek positif pada kondisi fisik Anda.</string>
+  <string name="underweight">underweight</string>
+  <string name="normal">berat badan normal</string>
+  <string name="overweight">kelebihan berat badan</string>
+  <string name="obese">kegemukan</string>
+  <string name="monday">Senin</string>
+  <string name="sunday">Minggu</string>
+  <string name="FirstDayOfWeek">Hari pertama dalam seminggu</string>
+  <string name="ProvideFirstDayOfWeek">Masukkan hari pertama minggu</string>
+  <string name="security">Keselamatan</string>
+  <string name="password">Kata sandi</string>
+  <string name="EnterPassword">Masukkan password</string>
+  <string name="passwords_do_not_match">Kata sandi tidak cocok</string>
+  <string name="confirm_password">Ulangi sandi</string>
+  <string name="overshoot">Melampaui</string>
+  <string name="bounce">Melambung</string>
+  <string name="anticipate_overshoot">Mengantisipasi / Overshoot</string>
+  <string name="type_of_animation">Jenis animasi</string>
+  <string name="interpolatorList">Daftar</string>
+  <string name="chest">Dada</string>
+  <string name="hip">Pinggul</string>
+  <string name="data_is_saved">Data disimpan.</string>
+  <string name="save_database">Jauhkan dasar</string>
+  <string name="delete_all">Hapus semua</string>
+  <string name="im_port">Impor</string>
+  <string name="done_writing_sd">Merekam untuk SD selesai</string>
+  <string name="all_data_deleted">Semua data dihapus</string>
+  <string name="delete_all_data">Apakah Anda benar-benar ingin menghapus semua data?</string>
+  <string name="select_import_file">File impor</string>
+  <string name="lines_imported">Catatan diimpor:</string>
+  <string name="target_chest">Ukuran proyeksi payudara</string>
+  <string name="please_provide_target_chest">Masukkan ukuran yang direncanakan payudara</string>
+  <string name="target_hip">Ukuran yang direncanakan dari pinggul</string>
+  <string name="please_provide_target_hip">Silakan masukkan jumlah yang direncanakan dari pinggul</string>
+  <string name="years">tahun</string>
+  <string name="weight_diary_plus">Diary Ditambah berat badan</string>
+    
+  	<string name="lang_titl">Language(bahasa)</string>
+	<string name="lang_defolt">Default(secara default)</string>
+	
+	
+	<string name="MM_DD_YYYY">MM/DD/YYYY</string>
+	<string name="DD_MM_YYYY">DD/MM/YYYY</string>
+	<string name="YYYY_MM_DD">YYYY/MM/DD</string>
+	<string name="date_format">Date format</string>
+	<string name="need_restart">You need to restart app</string>
+	<string name="share">Share</string>
+    
+	<string name="proc_fat">% fat</string>
+	<string name="neck">Neck</string>
+	<string name="helpFAT">Lemak dalam tubuh adalah yang paling akurat mengukur kemajuan dalam diet dan olahraga.
+			\n Tingkat lemak dalam tubuh wanita:
+			\n Esensial lemak 10-12 \u0025
+			\n Atlet 14-20 \u0025
+			\n Kebugaran 21-24 \u0025
+			\n diterima 25-31 \u0025
+			\n Obesitas ≥ 32 \u0025
+			\n
+			\n Tingkat lemak pada pria:
+			\n Esensial lemak 2-4 \u0025
+			\n Atlet 6-13 \u0025
+			\n Kebugaran 14-17 \u0025
+			\n diterima 18-25 \u0025
+			\n Obesitas ≥ 26 \u0025
+
+	</string>
+
+	<string name="FeedBackText">Hello! Kami bekerja untuk Anda! Membantu membuat program yang lebih baik. Jika Anda menyukai aplikasi ini silakan tempat rating atau menulis e-mail tentang segala kekurangan dan kekurangan. Terima kasih. Pengembang.</string>
+	<string name="later">kemudian</string>
+	<string name="no_senks">Tidak, terima kasih</string>
+	<string name="FatFullString">% lemak</string>	
+	
+	
+	<string name="statistics">statistika</string>
+	<string name="Baza_d">database.</string>
+	<string name="Size_baza">Ukuran (catatan):</string>
+	<string name="first_write">rekaman pertama</string>
+	<string name="last_write">catatan terakhir</string>
+	<string name="vsego">total</string>
+	<string name="Largest">paling tinggi</string>
+	<string name="Smolest">terendah</string>
+	<string name="Last">terakhir</string>
+	<string name="days">hari-hari</string>	
+	
+	
+	
+</resources>

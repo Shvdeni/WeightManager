@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="DateFormatEntries">
+    <item>@string/MM_DD_YYYY</item>
+    <item>@string/DD_MM_YYYY</item>
+    <item>@string/YYYY_MM_DD</item>
+</string-array>
+    <string-array name="DateFormatValues">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+</string-array>
+    <string-array name="interpolatorList">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+</string-array>
+    <string-array name="interpolatorListEntris">
+    <item>@string/overshoot</item>
+    <item>@string/bounce</item>
+    <item>@string/anticipate_overshoot</item>
+</string-array>
+    <string-array name="langListEntris">
+    	<item>@string/lang_defolt</item>
+        <item>Arabic(العربية)</item> <!-- Arabic -->
+        <item>Bulgarian(Български)</item> <!-- Bulgarian -->
+        <item>Catalan(Búlgar)</item> <!-- Catalan -->
+        <item>Chinese (Simplified)中文（简体）</item> <!-- Chinese (Simplified) -->
+        <item>Chinese (Traditional)中文（繁體）</item> <!-- Chinese (Traditional) -->
+        <item>Czech(Česká)</item> <!-- Czech -->
+        <item>Danish(Dansk)</item> <!-- Danish -->
+        <item>Dutch(Nederlands)</item> <!-- Dutch -->
+        <item>English</item> <!-- English -->
+        <item>Estonian(Estonian)</item> <!-- Estonian -->
+        <item>Finnish(Suomi)</item> <!-- Finnish -->
+        <item>French(Français)</item> <!-- French -->
+        <item>German(Deutsch)</item> <!-- German -->
+        <item>Greek(Έλληνας)</item> <!-- Greek -->
+        <item>Hebrew(עברית)</item> <!-- Hebrew -->
+        <item>Hungarian(Magyar)</item> <!-- Hungarian -->
+        <item>Indonesian(Indonesia)</item> <!-- Indonesian -->
+        <item>Italian(Italiano)</item> <!-- Italian -->
+        <item>Japanese(日本人)</item> <!-- Japanese -->
+        <item>Korean(한국의)</item> <!-- Korean -->
+        <item>Lithuanian(Lietuvos)</item> <!-- Lithuanian -->
+        <item>Norwegian(Norsk)</item> <!-- Norwegian -->
+        <item>Polish(Polski)</item> <!-- Polish -->
+        <item>Portuguese(Português)</item> <!-- Portuguese -->
+        <item>Romanian(Român)</item> <!-- Romanian -->
+        <item>Slovak(Slovenčina)</item> <!-- Slovak -->
+        <item>Slovenian(Slovenski jezik)</item> <!-- Slovenian -->
+        <item>Spanish(Español)</item> <!-- Spanish -->
+        <item>Swedish(Svenska)</item> <!-- Swedish -->
+        <item>Thai(ภาษาไทย)</item> <!-- Thai -->
+        <item>Turkish(Türk)</item> <!-- Turkish -->
+        <item>Ukrainian(Українська)</item> <!-- Ukrainian -->
+</string-array>
+    <string-array name="langListValues">
+    	<item>defolt</item> <!-- defolt -->
+        <item>ar</item> <!-- Arabic -->
+        <item>bg</item> <!-- Bulgarian -->
+        <item>ca</item> <!-- Catalan -->
+        <item>zh-rCN</item> <!-- Chinese (Simplified) -->
+        <item>zh-rTW</item> <!-- Chinese (Traditional) -->
+        <item>cs</item> <!-- Czech -->
+        <item>da</item> <!-- Danish -->
+        <item>nl</item> <!-- Dutch -->
+        <item>en</item> <!-- English -->
+        <item>et</item> <!-- Estonian -->
+        <item>fi</item> <!-- Finnish -->
+        <item>fr</item> <!-- French -->
+        <item>de</item> <!-- German -->
+        <item>el</item> <!-- Greek -->
+        <item>he</item> <!-- Hebrew -->
+        <item>hu</item> <!-- Hungarian -->
+        <item>id</item> <!-- Indonesian -->
+        <item>it</item> <!-- Italian -->
+        <item>ja</item> <!-- Japanese -->
+        <item>ko</item> <!-- Korean -->
+        <item>lt</item> <!-- Lithuanian -->
+        <item>no</item> <!-- Norwegian -->
+        <item>pl</item> <!-- Polish -->
+        <item>pt</item> <!-- Portuguese -->
+        <item>ro</item> <!-- Romanian -->
+        <item>sk</item> <!-- Slovak -->
+        <item>sl</item> <!-- Slovenian -->
+        <item>es</item> <!-- Spanish -->
+        <item>sv</item> <!-- Swedish -->
+        <item>th</item> <!-- Thai -->
+        <item>tr</item> <!-- Turkish -->
+        <item>uk</item> <!-- Ukrainian -->
+</string-array>
+    <string-array name="lengthUnitEntries">
+    <item>@string/centimetre_short</item>
+    <item>@string/inch_short</item>
+</string-array>
+    <string-array name="lengthUnitValues">
+    <item>1</item>
+    <item>2</item>
+</string-array>
+    <string-array name="sexListEntries">
+    <item>@string/male</item>
+    <item>@string/female</item>
+</string-array>
+    <string-array name="sexListValues">
+    <item>1</item>
+    <item>2</item>
+</string-array>
+    <string-array name="weightUnitEntries">
+    <item>@string/pound_short</item>
+    <item>@string/kilogram_short</item>
+</string-array>
+    <string-array name="weightUnitValues">
+    <item>1</item>
+    <item>2</item>
+</string-array>
+    <string name="Attention">Opmærksomhed.</string>
+    <string name="BMI">BMI</string>
+    <string name="BMIFullString">Body mass index (BMI)</string>
+    <string name="BMR">BSM</string>
+    <string name="BRMFullString">Basal Metabolic Rate (BMR)</string>
+    <string name="Baza_d">database</string>
+    <string name="Cancel">Annullering</string>
+    <string name="ChekBoxAnimation">Start animation</string>
+    <string name="DD_MM_YYYY">DD/MM/YYYY</string>
+    <string name="Data_on_this_date_already_exist">Dataene på denne dato allerede er indtastet.</string>
+    <string name="Delete">Fjern</string>
+    <string name="Edit">Rediger</string>
+    <string name="EnterPassword">Indtast adgangskoden</string>
+    <string name="FatFullString">% fedt</string>
+    <string name="FeedBackText">Hello! Vi arbejder for dig! Hjælp med at gøre programmet bedre. Hvis du kan lide den app venligst sted rating eller skrive en e-mail om alle de mangler og mangler. Tak. Udviklere.</string>
+    <string name="FirstDayOfWeek">Den første dag i ugen</string>
+    <string name="Largest">højeste</string>
+    <string name="Last">sidste</string>
+    <string name="MM_DD_YYYY">MM/DD/YYYY</string>
+    <string name="Month">Måneder.</string>
+    <string name="Month3">3 måneder.</string>
+    <string name="Month6">6 måneder.</string>
+    <string name="NoData">ingen data</string>
+    <string name="Optoins">Indstillinger</string>
+    <string name="ProvideFirstDayOfWeek">Indtast den første dag i ugen</string>
+    <string name="Select_unit_of_length">Vælg en længdeenhed.</string>
+    <string name="Select_unit_of_weight">Vælg en vægtenhed.</string>
+    <string name="Size_baza">Størrelse (records):</string>
+    <string name="Smolest">laveste</string>
+    <string name="Waist_size">Talje</string>
+    <string name="Week">Uge</string>
+    <string name="Weight">Vægt</string>
+    <string name="YYYY_MM_DD">YYYY/MM/DD</string>
+    <string name="Year">År</string>
+    <string msgid="5835639618285370804" name="accept">"Acceptér"</string>
+    <string name="age">Alder</string>
+    <string name="alarm_service_started">Påmindelse</string>
+    <string name="all_data_deleted">Alle data fjernet</string>
+    <string name="animation">Animation</string>
+    <string name="anticipate_overshoot">Forudse / Overshoot</string>
+    <string name="app_name">Dagbog vægt</string>
+    <string name="bounce">Bounce</string>
+    <string name="centimetre">Centimeter</string>
+    <string name="centimetre_short">Cm</string>
+    <string name="chart_no_data">Ingen data til diagrammet</string>
+    <string name="chest">Chest</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Aktivér"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Du skal aktivere Google Play-tjenester, for at <ns1:g id="APP_NAME">%1$s</ns1:g> kan fungere."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Aktivér Google Play-tjenester"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Installer"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Du skal installere Google Play-tjenester, før <ns1:g id="APP_NAME">%1$s</ns1:g> kan køre på din enhed."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Hent Google Play-tjenester"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Fejl i Google Play-tjenester"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> har problemer med Google Play-tjenester. Prøv igen."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> fungerer ikke uden Google Play-tjenester, som ikke understøttes på din enhed."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Opdater"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan ikke køre, medmindre du opdaterer Google Play-tjenester."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Opdater Google Play-tjenester"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan ikke køre uden Google Play-tjenester, som i øjeblikket opdateres."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Du skal bruge en ny version af Google Play-tjenester. Opdateringen gennemføres automatisk om et øjeblik."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Åbn på telefonen"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Log ind"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Log ind med Google"</string>
+    <string name="config_general_target">Plan</string>
+    <string name="confirm_password">Gentag adgangskode</string>
+    <string msgid="6155048007205742679" name="create_calendar_message">"Vil du tillade, at annoncen opretter en kalenderbegivenhed?"</string>
+    <string msgid="7967007864778154790" name="create_calendar_title">"Opret kalenderbegivenhed"</string>
+    <string name="currentTimeTextViewText">Tid</string>
+    <string name="data_is_saved">Data gemmes.</string>
+    <string name="date_format">Date format</string>
+    <string name="days">dage</string>
+    <string msgid="4722375419392727435" name="debug_menu_ad_information">"Annonceoplysninger"</string>
+    <string msgid="1605938743055376690" name="debug_menu_creative_preview">"Eksempel på annoncemateriale"</string>
+    <string msgid="2039274714455389140" name="debug_menu_title">"Vælg en fejlretningstilstand"</string>
+    <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"Fejlfinding"</string>
+    <string msgid="6099173376375995052" name="decline">"Afvis"</string>
+    <string name="delete_all">Fjern alle</string>
+    <string name="delete_all_data">Vil du virkelig ønsker at slette alle data?</string>
+    <string name="done_writing_sd">Optagelse til SD afsluttede</string>
+    <string name="feedback">Gennemgå</string>
+    <string name="female">kvinde</string>
+    <string name="first_write">første record</string>
+    <string name="heigh">Vækst</string>
+    <string name="helpBMI">BMI (Body Mass Index) er skøn over kropsfedt baseret på højde og vægt tal, og gælder for både mænd og kvinder i alderen 18 til 65 år. BMI med til at bestemme utilstrækkelig, normal, overvægtig og fedme. En sund BMI er mellem 20 - 25. Mark under 20 kan indikere undervægtig, over 25 angiver, at du kan være overvægtig. Bemærk venligst at dette kun er en af mange mulige måder at vurdere din vægt. Hvis du har spørgsmål relateret til din vægt, adresse på den person, der vil være i stand til præcist at vurdere situationen på grundlag af intensive individuelle karakteristika af din krop. \ N \ n BMI mindre end 18,5 = undervægt * \ n BMI på 18,5 til 24,9 = normal vægt \ n BMI = 25,0 til 29,9 vægt \ n BMI på 30,0 og derover = fede \ n \ n \ n * - ". undervægt" der er en konflikt i forbindelse med indikatoren Undersøgelser viser, at lav BMI er en risikofaktor for sundheden. I dette tilfælde er, hvis du ikke tager hensyn til mennesker med en lav BMI forbundet med alvorlige og kroniske sygdomme, satsen for "undervægt" kan ikke yavlyatsya risikofaktor, forudsat at du er sund og i god fysisk form.</string>
+    <string name="helpBRM">Du tilbringer energi kontinuerligt, uanset dit niveau af aktivitet, selv når du sover. Denne lommeregner vil hjælpe dig med at beregne din BMR indeks (Basal Metabolic Rate), er antallet af kalorier, som du ville have brugt, mens i sengen hele dagen. Hvis du opdager, at jo ældre man bliver, jo sværere er det alt det, du ønsker, og holde sig i form, skal du vide, at med alderen, er BCM reduceret. BSM også nedsættes, hvis du begrænser dig selv til mad, håber på PONV vægt, således kroppen tilpasser sig de nye forhold. Mens årene, din krops evne til at forbrænde kalorier falder, regelmæssig motion kan øge din BMR, havde en positiv effekt på din fysiske tilstand.</string>
+    <string name="helpFAT">Fedt i kroppen er den mest nøjagtige mål for udviklingen i kost og motion.
+			\n niveau af fedt i kroppen af ​​en kvinde:
+			\n Essential fedt 10-12 \u0025
+			\n Atleter 14-20 \u0025
+			\n Fitness 21-24 \u0025
+			\n Acceptable 25-31 \u0025
+			\n Fede ≥ 32 \u0025
+			\n
+			\n niveau af fedt i den mandlige:
+			\n Essential fedt 2-4 \u0025
+			\n Atleter 6-13 \u0025
+			\n Fitness 14-17 \u0025
+			\n Acceptable 18-25 \u0025
+			\n Fede ≥ 26 \u0025
+	</string>
+    <string name="hip">Hofter</string>
+    <string name="im_port">Import</string>
+    <string name="inch">Inch</string>
+    <string name="inch_short">Inch</string>
+    <string name="interpolatorList">Liste</string>
+    <string name="kilogram">kilogram</string>
+    <string name="kilogram_short">Kg</string>
+    <string name="lang_defolt">Default(som standard)</string>
+    <string name="lang_titl">Language(sprog)</string>
+    <string name="last_write">sidste post</string>
+    <string name="later">senere</string>
+    <string name="length_unit">Enhedslængde.</string>
+    <string name="lines_imported">Records indføres:</string>
+    <string name="male">mand</string>
+    <string name="monday">Mandag</string>
+    <string name="neck">Neck</string>
+    <string name="need_restart">You need to restart app</string>
+    <string name="nextAlarmString">Følgende påmindelse:</string>
+    <string name="noAlarmString">Påmindelse.</string>
+    <string name="no_senks">Nej tak</string>
+    <string name="normal">normal vægt</string>
+    <string name="obese">fedme</string>
+    <string name="overshoot">Overshoot</string>
+    <string name="overweight">overvægt</string>
+    <string name="password">Adgangskode</string>
+    <string name="passwords_do_not_match">Adgangskoderne stemmer ikke overens</string>
+    <string name="please_provide_target_chest">Angiv den planlagte størrelse af brystet</string>
+    <string name="please_provide_target_hip">Angiv den planlagte mængde af hip</string>
+    <string name="please_provide_target_waist_size">Angiv den planlagte mængde af taljen</string>
+    <string name="please_provide_target_weight">Angiv den planlagte vægt</string>
+    <string name="pound">Pund</string>
+    <string name="pound_short">Pund</string>
+    <string name="proc_fat">% fat</string>
+    <string name="quit">Output</string>
+    <string name="quit_feedback">Indtal din feedback.</string>
+    <string name="quit_feedback_title">Forbedre program</string>
+    <string name="quit_mesage">Vil du virkelig ønsker at holde op?</string>
+    <string name="save_database">Hold basen</string>
+    <string name="security">Sikkerhed</string>
+    <string name="select_import_file">Importfilen</string>
+    <string name="sex">Paul</string>
+    <string name="share">Share</string>
+    <string name="statistics">Statistik</string>
+    <string msgid="8020323581538738027" name="store_picture_message">"Vil du tillade, at annoncen gemmer billedet i Galleri?"</string>
+    <string msgid="4180630057627064606" name="store_picture_title">"Gem billede"</string>
+    <string name="summary_average">Gennemsnitlig</string>
+    <string name="sunday">Søndag</string>
+    <string name="target_chest">Den forventede størrelse af brystet</string>
+    <string name="target_hip">Den planlagte størrelse hofterne</string>
+    <string name="target_waist_size">Planlagt livvidde</string>
+    <string name="target_weight">Planlagt vægt</string>
+    <string name="tendency">Trend:</string>
+    <string name="type_of_animation">Type af animation</string>
+    <string name="underweight">undervægtig</string>
+    <string name="user_info">Bruger Information</string>
+    <string name="vsego">Total</string>
+    <string name="weight_diary_plus">Dagbog vægt Plus</string>
+    <string name="weight_manager">Vægt leder</string>
+    <string name="weight_unit">En vægtenhed.</string>
+    <string name="years">år</string>
+</resources>

@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\enterpass.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\layout\\enterpass.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\button_plus.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\layout\\button_plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\chart.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\layout\\chart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\custom_dialog_password.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\layout\\custom_dialog_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\custom_dialog_waistsize.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\layout\\custom_dialog_waistsize.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\button_share.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\layout\\button_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\button_list.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\layout\\button_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\custom_dialog_date.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\layout\\custom_dialog_date.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\custom_dialog_check_password.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\layout\\custom_dialog_check_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\custom_dialog_weight.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\layout\\custom_dialog_weight.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\alarmclock.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\layout\\alarmclock.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\statistics.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\layout\\statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\custom_dialog_feedback.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\layout\\custom_dialog_feedback.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\main.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\help_bmi.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\layout\\help_bmi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\help_fat.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\layout\\help_fat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\list.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\layout\\list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\button_chart.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\layout\\button_chart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\button_ok.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\layout\\button_ok.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\button_minus.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\layout\\button_minus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\help_brm.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\layout\\help_brm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\button_alarm.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\layout\\button_alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\linearlayout_list_item.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\layout\\linearlayout_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\custom_dialog_check_exists.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\layout\\custom_dialog_check_exists.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\button_add.xml",
+        "source": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\layout\\button_add.xml"
+    }
+]

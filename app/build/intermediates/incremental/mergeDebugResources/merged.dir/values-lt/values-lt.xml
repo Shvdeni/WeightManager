@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="DateFormatEntries">
+    <item>@string/MM_DD_YYYY</item>
+    <item>@string/DD_MM_YYYY</item>
+    <item>@string/YYYY_MM_DD</item>
+</string-array>
+    <string-array name="DateFormatValues">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+</string-array>
+    <string-array name="interpolatorList">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+</string-array>
+    <string-array name="interpolatorListEntris">
+    <item>@string/overshoot</item>
+    <item>@string/bounce</item>
+    <item>@string/anticipate_overshoot</item>
+</string-array>
+    <string-array name="langListEntris">
+    	<item>@string/lang_defolt</item>
+        <item>Arabic(العربية)</item> <!-- Arabic -->
+        <item>Bulgarian(Български)</item> <!-- Bulgarian -->
+        <item>Catalan(Búlgar)</item> <!-- Catalan -->
+        <item>Chinese (Simplified)中文（简体）</item> <!-- Chinese (Simplified) -->
+        <item>Chinese (Traditional)中文（繁體）</item> <!-- Chinese (Traditional) -->
+        <item>Czech(Česká)</item> <!-- Czech -->
+        <item>Danish(Dansk)</item> <!-- Danish -->
+        <item>Dutch(Nederlands)</item> <!-- Dutch -->
+        <item>English</item> <!-- English -->
+        <item>Estonian(Estonian)</item> <!-- Estonian -->
+        <item>Finnish(Suomi)</item> <!-- Finnish -->
+        <item>French(Français)</item> <!-- French -->
+        <item>German(Deutsch)</item> <!-- German -->
+        <item>Greek(Έλληνας)</item> <!-- Greek -->
+        <item>Hebrew(עברית)</item> <!-- Hebrew -->
+        <item>Hungarian(Magyar)</item> <!-- Hungarian -->
+        <item>Indonesian(Indonesia)</item> <!-- Indonesian -->
+        <item>Italian(Italiano)</item> <!-- Italian -->
+        <item>Japanese(日本人)</item> <!-- Japanese -->
+        <item>Korean(한국의)</item> <!-- Korean -->
+        <item>Lithuanian(Lietuvos)</item> <!-- Lithuanian -->
+        <item>Norwegian(Norsk)</item> <!-- Norwegian -->
+        <item>Polish(Polski)</item> <!-- Polish -->
+        <item>Portuguese(Português)</item> <!-- Portuguese -->
+        <item>Romanian(Român)</item> <!-- Romanian -->
+        <item>Slovak(Slovenčina)</item> <!-- Slovak -->
+        <item>Slovenian(Slovenski jezik)</item> <!-- Slovenian -->
+        <item>Spanish(Español)</item> <!-- Spanish -->
+        <item>Swedish(Svenska)</item> <!-- Swedish -->
+        <item>Thai(ภาษาไทย)</item> <!-- Thai -->
+        <item>Turkish(Türk)</item> <!-- Turkish -->
+        <item>Ukrainian(Українська)</item> <!-- Ukrainian -->
+</string-array>
+    <string-array name="langListValues">
+    	<item>defolt</item> <!-- defolt -->
+        <item>ar</item> <!-- Arabic -->
+        <item>bg</item> <!-- Bulgarian -->
+        <item>ca</item> <!-- Catalan -->
+        <item>zh-rCN</item> <!-- Chinese (Simplified) -->
+        <item>zh-rTW</item> <!-- Chinese (Traditional) -->
+        <item>cs</item> <!-- Czech -->
+        <item>da</item> <!-- Danish -->
+        <item>nl</item> <!-- Dutch -->
+        <item>en</item> <!-- English -->
+        <item>et</item> <!-- Estonian -->
+        <item>fi</item> <!-- Finnish -->
+        <item>fr</item> <!-- French -->
+        <item>de</item> <!-- German -->
+        <item>el</item> <!-- Greek -->
+        <item>he</item> <!-- Hebrew -->
+        <item>hu</item> <!-- Hungarian -->
+        <item>id</item> <!-- Indonesian -->
+        <item>it</item> <!-- Italian -->
+        <item>ja</item> <!-- Japanese -->
+        <item>ko</item> <!-- Korean -->
+        <item>lt</item> <!-- Lithuanian -->
+        <item>no</item> <!-- Norwegian -->
+        <item>pl</item> <!-- Polish -->
+        <item>pt</item> <!-- Portuguese -->
+        <item>ro</item> <!-- Romanian -->
+        <item>sk</item> <!-- Slovak -->
+        <item>sl</item> <!-- Slovenian -->
+        <item>es</item> <!-- Spanish -->
+        <item>sv</item> <!-- Swedish -->
+        <item>th</item> <!-- Thai -->
+        <item>tr</item> <!-- Turkish -->
+        <item>uk</item> <!-- Ukrainian -->
+</string-array>
+    <string-array name="lengthUnitEntries">
+    <item>@string/centimetre_short</item>
+    <item>@string/inch_short</item>
+</string-array>
+    <string-array name="lengthUnitValues">
+    <item>1</item>
+    <item>2</item>
+</string-array>
+    <string-array name="sexListEntries">
+    <item>@string/male</item>
+    <item>@string/female</item>
+</string-array>
+    <string-array name="sexListValues">
+    <item>1</item>
+    <item>2</item>
+</string-array>
+    <string-array name="weightUnitEntries">
+    <item>@string/pound_short</item>
+    <item>@string/kilogram_short</item>
+</string-array>
+    <string-array name="weightUnitValues">
+    <item>1</item>
+    <item>2</item>
+</string-array>
+    <string name="Attention">Dėmesio.</string>
+    <string name="BMI">KMI</string>
+    <string name="BMIFullString">Kūno masės indeksas (KMI)</string>
+    <string name="BMR">BSM</string>
+    <string name="BRMFullString">Bazinio medžiagų apykaitos norma (BMR)</string>
+    <string name="Baza_d">duomenų bazė.</string>
+    <string name="Cancel">Atšaukimas</string>
+    <string name="ChekBoxAnimation">Pradėti animacija</string>
+    <string name="DD_MM_YYYY">DD/MM/YYYY</string>
+    <string name="Data_on_this_date_already_exist">Duomenys tą dieną jau įrašytas.</string>
+    <string name="Delete">Pašalinti</string>
+    <string name="Edit">Redaguoti</string>
+    <string name="EnterPassword">Įveskite slaptažodį</string>
+    <string name="FatFullString">% riebalų</string>
+    <string name="FeedBackText">Sveiki! Mes dirbame Jums! Pagalba padaryti programa geriau. Jei jums patinka app, prašome vietą reitingą arba rašyti elektroniniu paštu apie visus trūkumus, ir trūkumų. Ačiū. Kūrėjai.</string>
+    <string name="FirstDayOfWeek">Pirmoji savaitės diena</string>
+    <string name="Largest">aukščiausia</string>
+    <string name="Last">paskutinis</string>
+    <string name="MM_DD_YYYY">MM/DD/YYYY</string>
+    <string name="Month">Mėnesių.</string>
+    <string name="Month3">3 mėn.</string>
+    <string name="Month6">6 mėnesių.</string>
+    <string name="NoData">nėra duomenų,</string>
+    <string name="Optoins">Nustatymai</string>
+    <string name="ProvideFirstDayOfWeek">Įveskite pirmą savaitės dieną</string>
+    <string name="Select_unit_of_length">Pasirinkite ilgio vienetas.</string>
+    <string name="Select_unit_of_weight">Pasirinkite svorio vienetas.</string>
+    <string name="Size_baza">Dydis (įrašai):</string>
+    <string name="Smolest">Mažiausios kainos</string>
+    <string name="Waist_size">Liemuo</string>
+    <string name="Week">Savaitė</string>
+    <string name="Weight">Svoris</string>
+    <string name="YYYY_MM_DD">YYYY/MM/DD</string>
+    <string name="Year">Metai</string>
+    <string msgid="5835639618285370804" name="accept">"Priimti"</string>
+    <string name="age">Amžius</string>
+    <string name="alarm_service_started">Priminimas</string>
+    <string name="all_data_deleted">Pašalinti visi duomenys</string>
+    <string name="animation">Multiplikacija</string>
+    <string name="anticipate_overshoot">Užbėgti už akių / viršijimo</string>
+    <string name="app_name">Dienoraštis svoris</string>
+    <string name="bounce">Atšokti</string>
+    <string name="centimetre">Centimetras</string>
+    <string name="centimetre_short">Cm</string>
+    <string name="chart_no_data">Duomenų diagramos</string>
+    <string name="chest">Dėžė</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Įgalinti"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"„<ns1:g id="APP_NAME">%1$s</ns1:g>“ neveiks, jei neįgalinsite „Google Play“ paslaugų."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Įgalinkite „Google Play“ paslaugas"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Įdiegti"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Programa „<ns1:g id="APP_NAME">%1$s</ns1:g>“ nebus paleidžiama be „Google Play“ paslaugų, kurių nėra įrenginyje."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Gaukite „Google Play“ paslaugas"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"„Google Play“ paslaugų klaida"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Naudojant programą „<ns1:g id="APP_NAME">%1$s</ns1:g>“ kilo problemų dėl „Google Play“ paslaugų. Bandykite dar kartą."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Programa „<ns1:g id="APP_NAME">%1$s</ns1:g>“ nebus paleidžiama be „Google Play“ paslaugų, kurių jūsų įrenginys nepalaiko."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Atnaujinti"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"„<ns1:g id="APP_NAME">%1$s</ns1:g>“ nebus paleidžiama, jei neatnaujinsite „Google Play“ paslaugų."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Atnaujinkite „Google Play“ paslaugas"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"„<ns1:g id="APP_NAME">%1$s</ns1:g>“ nebus paleidžiama be „Google Play“ paslaugų, kurios šiuo metu atnaujinamos."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Reikia naujos versijos „Google Play“ paslaugų. Jos netrukus bus atnaujintos."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Atidaryti telefone"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Prisijungti"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Prisijungti naudojant „Google“"</string>
+    <string name="config_general_target">Planas</string>
+    <string name="confirm_password">Pakartokite slaptažodį</string>
+    <string msgid="6155048007205742679" name="create_calendar_message">"Leisti skelbimui sukurti kalendoriaus įvykį?"</string>
+    <string msgid="7967007864778154790" name="create_calendar_title">"Kalendoriaus įvykio kūrimas"</string>
+    <string name="currentTimeTextViewText">Laikas</string>
+    <string name="data_is_saved">Duomenys yra saugomi.</string>
+    <string name="date_format">Date format</string>
+    <string name="days">dienų</string>
+    <string msgid="4722375419392727435" name="debug_menu_ad_information">"Skelbimo informacija"</string>
+    <string msgid="1605938743055376690" name="debug_menu_creative_preview">"Skelbimo failo peržiūra"</string>
+    <string msgid="2039274714455389140" name="debug_menu_title">"Derinimo režimo pasirinkimas"</string>
+    <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"Trikčių šalinimas"</string>
+    <string msgid="6099173376375995052" name="decline">"Atmesti"</string>
+    <string name="delete_all">Pašalinti viską</string>
+    <string name="delete_all_data">Ar tikrai norite ištrinti visus duomenis?</string>
+    <string name="done_writing_sd">Įrašymas į SD baigtas</string>
+    <string name="feedback">Peržiūrėti</string>
+    <string name="female">patelė</string>
+    <string name="first_write">pirmas įrašas</string>
+    <string name="heigh">Augimas</string>
+    <string name="helpBMI">KMI (kūno masės indeksas) yra kūno riebalų Ūgis ir svoris skaičiai įvertinimas, ir taikoma nuo 18 iki 65 metų tiek vyrams, tiek moterims. KMI padeda nustatyti nepakankamai, normalus, antsvorio ir nutukimo. Sveikas KMI yra tarp 20 - 25. Pažymėti žemiau 20 gali reikšti, mažo svorio, kaip 25 rodo, kad jums gali būti antsvorio. Atkreipkite dėmesį, kad tai yra tik vienas iš daugelio galimų būdų įvertinti savo svorį. Jei turite kokių nors klausimų, susijusių su jūsų svorio, adresas asmens, kuris galės tiksliai įvertinti situaciją, paremtą intensyvios individualių charakteristikų jūsų kūno. \ N \ n KMI mažiau nei 18,5 = nusilpęs * \ n KMI 18,5-24,9 = normalus svorio \ n KMI = 25,0-29,9 Svoris \ n KMI 30,0 ir daugiau = nutukę \ n \ n \ n * - ". mažo svorio" yra konfliktas, susijęs su indikatoriaus Tyrimai rodo, kad mažo KMI yra sveikatos rizikos veiksnys. Šiuo atveju, jei jūs neturite atsižvelgti į žmonių su žemu KMI yra susijęs su sunkių ir lėtinių ligų, "mažo svorio" norma negali yavlyatsya rizikos faktorius, su sąlyga, kad jūs esate sveikas ir geros fizinės formos.</string>
+    <string name="helpBRM">Jūs išleisti energiją nuolat, nepriklausomai nuo savo veiklos lygiu, net kai tu miegi. Ši skaičiuoklė padės jums apskaičiuoti jūsų BMR indeksas (bazinio medžiagų apykaitos norma), kalorijų kiekį, kad jums reikės išleisti o lovoje visą dieną. Jei pastebėsite, kad vyresnio amžiaus gausite, tuo sunkiau jis yra viskas, kad norite ir palaikyti formą, jūs turite žinoti, kad su amžiumi, BMT sumažintas. BSM taip pat sumažėja, kai apriboti save į maistą, tikisi PONV svorio, todėl organizmas prisitaiko prie naujų sąlygų. Nors per metus jūsų organizmo gebėjimą deginti kalorijas mažėja, reguliari mankšta gali padidinti jūsų BMR, turėjo teigiamą poveikį jūsų fizinę būklę.</string>
+    <string name="helpFAT">Riebalai organizme yra labiausiai tiksliai įvertinti pažangą dieta ir mankšta.
+			\n riebalų kiekį, kai moters organizme:
+			\n Eteriniai riebalų 10-12 \u0025
+			\n Sportininkai 14-20 \u0025
+			\n Sveikatingumo 21-24 \u0025
+			\n Priimtinas 25-31 \u0025
+			\n Nutukę ≥ 32 \u0025
+			\n
+			\n riebalų kiekį: Vyriška
+			\n Eteriniai riebalų 2-4 \u0025
+			\n Sportininkai 6-13 \u0025
+			\n Sveikatingumo 14-17 \u0025
+			\n Priimtinas 18-25 \u0025
+			\n Nutukę ≥ 26 \u0025
+
+	</string>
+    <string name="hip">Erškėtuogė</string>
+    <string name="im_port">Importas</string>
+    <string name="inch">Colis</string>
+    <string name="inch_short">Colis</string>
+    <string name="interpolatorList">Sąrašas</string>
+    <string name="kilogram">kilogramas</string>
+    <string name="kilogram_short">Kg</string>
+    <string name="lang_defolt">Default(pagal nutylėjimą)</string>
+    <string name="lang_titl">Language(kalba)</string>
+    <string name="last_write">Paskutinis įrašas</string>
+    <string name="later">vėliau</string>
+    <string name="length_unit">Vienetinio ilgio.</string>
+    <string name="lines_imported">Įrašai importuojami:</string>
+    <string name="male">vyrų</string>
+    <string name="monday">Pirmadienis</string>
+    <string name="neck">Neck</string>
+    <string name="need_restart">You need to restart app</string>
+    <string name="nextAlarmString">Taip priminimas:</string>
+    <string name="noAlarmString">Priminimas.</string>
+    <string name="no_senks">Ne, ačiū</string>
+    <string name="normal">normalus svoris</string>
+    <string name="obese">nutukimas</string>
+    <string name="overshoot">Viršyti</string>
+    <string name="overweight">antsvoris</string>
+    <string name="password">Slaptažodis</string>
+    <string name="passwords_do_not_match">Slaptažodžiai nesutampa</string>
+    <string name="please_provide_target_chest">Prašome įvesti planuojamas dydžio krūtų</string>
+    <string name="please_provide_target_hip">Įveskite planuotą sumą klubo</string>
+    <string name="please_provide_target_waist_size">Prašome įvesti planuotą sumą juosmens</string>
+    <string name="please_provide_target_weight">Prašome įvesti planuojamas svoris</string>
+    <string name="pound">Svaras</string>
+    <string name="pound_short">Svaras</string>
+    <string name="proc_fat">% fat</string>
+    <string name="quit">Produkcija</string>
+    <string name="quit_feedback">Prašome palikti savo atsiliepimus.</string>
+    <string name="quit_feedback_title">Pagerinti programos</string>
+    <string name="quit_mesage">Ar tikrai norite išeiti?</string>
+    <string name="save_database">Laikyti bazę</string>
+    <string name="security">Saugumas</string>
+    <string name="select_import_file">Importo failas</string>
+    <string name="sex">Paulius</string>
+    <string name="share">Share</string>
+    <string name="statistics">statistika</string>
+    <string msgid="8020323581538738027" name="store_picture_message">"Leisti skelbimui išsaugoti vaizdą nuotraukų galerijoje?"</string>
+    <string msgid="4180630057627064606" name="store_picture_title">"Vaizdo išsaugojimas"</string>
+    <string name="summary_average">Vidutinis</string>
+    <string name="sunday">Sekmadienis</string>
+    <string name="target_chest">Numatoma krūties dydis</string>
+    <string name="target_hip">Planuojamas klubų dydis</string>
+    <string name="target_waist_size">Planuojama juosmens apimtis</string>
+    <string name="target_weight">Planuojamas svoris</string>
+    <string name="tendency">Tendencija:</string>
+    <string name="type_of_animation">Animacija tipas</string>
+    <string name="underweight">mažo svorio</string>
+    <string name="user_info">Vartotojo informacija</string>
+    <string name="vsego">visas</string>
+    <string name="weight_diary_plus">Dienoraštis svorio Plius</string>
+    <string name="weight_manager">Svoris vadybininkas</string>
+    <string name="weight_unit">Svorio vienetas.</string>
+    <string name="years">metų</string>
+</resources>

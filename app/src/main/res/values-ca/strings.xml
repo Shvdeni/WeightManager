@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">Diari de pes</string>
+  <string name="chart_no_data">No hi ha dades per al gràfic</string>
+  <string name="summary_average">Mitjana</string>
+  <string name="config_general_target">Pla</string>
+  <string name="currentTimeTextViewText">Temps</string>
+  <string name="nextAlarmString">L\'avís següent:</string>
+  <string name="noAlarmString">Recordatori.</string>
+  <string name="alarm_service_started">Recordatori</string>
+  <string name="target_weight">Planificació de pes</string>
+  <string name="target_waist_size">Mida de la cintura de Planificació</string>
+  <string name="please_provide_target_weight">Si us plau, introduïu el pes previst</string>
+  <string name="please_provide_target_waist_size">Introduïu la quantitat planificada de cintura</string>
+  <string name="Weight">Pes</string>
+  <string name="Waist_size">Cintura</string>
+  <string name="pound_short">Lliura</string>
+  <string name="pound">Lliura</string>
+  <string name="kilogram_short">Kg</string>
+  <string name="kilogram">quilogram</string>
+  <string name="centimetre_short">Cm</string>
+  <string name="centimetre">Centímetre</string>
+  <string name="inch">Polzada</string>
+  <string name="weight_unit">Una unitat de pes.</string>
+  <string name="Select_unit_of_weight">Seleccioneu una unitat de pes.</string>
+  <string name="length_unit">Unitat de longitud.</string>
+  <string name="Select_unit_of_length">Seleccioneu una unitat de longitud.</string>
+  <string name="tendency">Tendència:</string>
+  <string name="Attention">Atenció.</string>
+  <string name="Data_on_this_date_already_exist">Les dades d\'aquesta data ja ha introduït.</string>
+  <string name="Edit">Edita</string>
+  <string name="Delete">Treure</string>
+  <string name="weight_manager">Gestor de Pes</string>
+  <string name="inch_short">Polzada</string>
+  <string name="Week">Setmana</string>
+  <string name="Month">Mesos.</string>
+  <string name="Month3">3 mesos.</string>
+  <string name="Month6">6 Mesos.</string>
+  <string name="Year">Any</string>
+  <string name="Optoins">Configuració</string>
+  <string name="quit">Sortida</string>
+  <string name="quit_mesage">Estàs segur que vols sortir?</string>
+  <string name="quit_feedback">Si us plau, deixi els seus comentaris.</string>
+  <string name="quit_feedback_title">Millorar el programa</string>
+  <string name="feedback">Reviseu</string>
+  <string name="Cancel">Cancel • lació</string>
+  <string name="BMI">IMC</string>
+  <string name="BMR">BSM</string>
+  <string name="user_info">Informació de l\'usuari</string>
+  <string name="sex">Paul</string>
+  <string name="heigh">Creixement</string>
+  <string name="male">masculí</string>
+  <string name="female">femení</string>
+  <string name="animation">Animació</string>
+  <string name="ChekBoxAnimation">Iniciar l\'animació</string>
+  <string name="age">Edat</string>
+  <string name="NoData">cap dada</string>
+  <string name="helpBMI">IMC (Índex de Massa Corporal) és l\'estimació del greix corporal basada en l\'alçada i pes de les xifres, i s\'aplica tant a homes i dones de 18 a 65 anys. BMI ajuda a determinar insuficient, normal, sobrepès i obesitat. Un IMC saludable és entre 20 - 25. Marc sota de 20 pot indicar sota pes, superior a 25 indica que vostè pot tenir sobrepès. Tingueu en compte que això és només una de les moltes formes possibles d\'avaluar el seu pes. Si té alguna pregunta sobre el seu pes, la direcció de la persona que serà capaç d\'avaluar amb precisió la situació sobre la base de les característiques individuals intensives del seu cos. \ N \ n IMC inferior a 18,5 = baix pes * \ n IMC de 18,5-24,9 = pes normal \ n IMC = 25,0-29,9 pes IMC \ n de 30,0 o més = obès \ n \ n \ n * - ". cartera" hi ha un conflicte relacionat amb l\'indicador Els estudis mostren que un IMC baix és un factor de risc per a la salut. En aquest cas, si no es té en compte a les persones amb un IMC baix està associat amb malalties greus i cròniques, la taxa de "baix pes" pot no yavlyatsya factor de risc, sempre que vostè està sa i en bona forma física.</string>
+  <string name="BMIFullString">Índex de massa corporal (IMC)</string>
+  <string name="BRMFullString">Taxa Metabòlica Basal (BMR)</string>
+  <string name="helpBRM">Vostè passa l\'energia de forma contínua, independentment del seu nivell d\'activitat, fins i tot quan dorm. Aquesta calculadora l\'ajudarà a calcular el seu índex de BMR (taxa metabòlica basal), el nombre de calories que vostè hauria passat, mentre que al llit tot el dia. Si vostè nota que el vell et fas, més difícil és tot el que vostè desitja i mantenir-se en forma, ha de saber que amb l\'edat, el BCM es redueix. BSM també es redueix quan vostè es limita als aliments, amb l\'esperança de NVPO pes, de manera que el cos s\'adapta a les noves condicions. Si bé en els últims anys, la capacitat del cos per cremar calories disminueix, l\'exercici regular pot augmentar la seva BMR, va tenir un efecte positiu en la seva condició física.</string>
+  <string name="underweight">baix pes</string>
+  <string name="normal">pes normal</string>
+  <string name="overweight">l\'excés de pes</string>
+  <string name="obese">obesitat</string>
+  <string name="monday">Dilluns</string>
+  <string name="sunday">Diumenge</string>
+  <string name="FirstDayOfWeek">El primer dia de la setmana</string>
+  <string name="ProvideFirstDayOfWeek">Introduir el primer dia de la setmana</string>
+  <string name="security">Seguretat</string>
+  <string name="password">Contrasenya</string>
+  <string name="EnterPassword">Introduïu la contrasenya</string>
+  <string name="passwords_do_not_match">Les contrasenyes no coincideixen</string>
+  <string name="confirm_password">Repetir contrasenya</string>
+  <string name="overshoot">Excedir</string>
+  <string name="bounce">Rebotar</string>
+  <string name="anticipate_overshoot">Anticipar / Overshoot</string>
+  <string name="type_of_animation">Tipus d\'animació</string>
+  <string name="interpolatorList">Llista</string>
+  <string name="chest">Pit</string>
+  <string name="hip">Malucs</string>
+  <string name="data_is_saved">Les dades es guarden.</string>
+  <string name="save_database">Mantenir la base</string>
+  <string name="delete_all">Traieu tots els</string>
+  <string name="im_port">Importacions</string>
+  <string name="done_writing_sd">Enregistrament en SD acabat</string>
+  <string name="all_data_deleted">Totes les dades eliminat</string>
+  <string name="delete_all_data">Estàs segur de voler esborrar totes les dades?</string>
+  <string name="select_import_file">L\'arxiu d\'importació</string>
+  <string name="lines_imported">Registres importats:</string>
+  <string name="target_chest">La mida previst de la mama</string>
+  <string name="please_provide_target_chest">Si us plau introduïu la mida previst de la mama</string>
+  <string name="target_hip">La mida previst dels malucs</string>
+  <string name="please_provide_target_hip">Introduïu la quantitat planificada de maluc</string>
+  <string name="years">anys</string>
+  <string name="weight_diary_plus">Diary pes Plus</string>
+  
+  	<string name="lang_titl">Language(idioma)</string>
+	<string name="lang_defolt">Default(per defecte)</string>
+
+	<string name="MM_DD_YYYY">MM/DD/YYYY</string>
+	<string name="DD_MM_YYYY">DD/MM/YYYY</string>
+	<string name="YYYY_MM_DD">YYYY/MM/DD</string>
+	<string name="date_format">Date format</string>
+	<string name="need_restart">You need to restart app</string>
+	<string name="share">Share</string>    
+
+	<string name="proc_fat">% fat</string>
+	<string name="neck">Neck</string>
+	<string name="helpFAT">Fat in the body is the most accurate measure of progress in diet and exercise.
+				\n	The level of fat in the body of a woman:
+				\n  Essential fat 10-12\u0025
+				\n  Athletes      14-20\u0025
+				\n  Fitness       21-24\u0025
+				\n  Acceptable    25-31\u0025 
+				\n  Obese         ≥ 32\u0025 
+				\n
+				\n  The level of fat in the male:
+				\n  Essential fat 2-4\u0025
+				\n  Athletes       6-13\u0025
+				\n  Fitness        14-17\u0025
+				\n  Acceptable     18-25\u0025
+				\n  Obese          ≥ 26\u0025
+
+	</string>
+
+	<string name="FeedBackText">Hello! We work for you! Help make the program better. If you like the app please place rating or write an e-mail about all the shortcomings and deficiencies. Thank you. Developers.</string>
+	<string name="later">Later</string>
+	<string name="no_senks">No, thanks</string>
+	<string name="FatFullString">% fat</string>
+	
+	<string name="statistics">Statistics</string>
+	<string name="Baza_d">Database.</string>
+	<string name="Size_baza">Size (records):</string>
+	<string name="first_write">First record</string>
+	<string name="last_write">Last record</string>
+	<string name="vsego">Total</string>
+	<string name="Largest">Highest</string>
+	<string name="Smolest">Lowest</string>
+	<string name="Last">Last</string>
+	<string name="days">days</string>	
+	
+	
+</resources>

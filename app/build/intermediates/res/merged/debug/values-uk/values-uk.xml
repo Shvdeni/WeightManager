@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="DateFormatEntries">
+    <item>@string/MM_DD_YYYY</item>
+    <item>@string/DD_MM_YYYY</item>
+    <item>@string/YYYY_MM_DD</item>
+</string-array>
+    <string-array name="DateFormatValues">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+</string-array>
+    <string-array name="interpolatorList">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+</string-array>
+    <string-array name="interpolatorListEntris">
+    <item>@string/overshoot</item>
+    <item>@string/bounce</item>
+    <item>@string/anticipate_overshoot</item>
+</string-array>
+    <string-array name="langListEntris">
+    	<item>@string/lang_defolt</item>
+        <item>Arabic(العربية)</item> <!-- Arabic -->
+        <item>Bulgarian(Български)</item> <!-- Bulgarian -->
+        <item>Catalan(Búlgar)</item> <!-- Catalan -->
+        <item>Chinese (Simplified)中文（简体）</item> <!-- Chinese (Simplified) -->
+        <item>Chinese (Traditional)中文（繁體）</item> <!-- Chinese (Traditional) -->
+        <item>Czech(Česká)</item> <!-- Czech -->
+        <item>Danish(Dansk)</item> <!-- Danish -->
+        <item>Dutch(Nederlands)</item> <!-- Dutch -->
+        <item>English</item> <!-- English -->
+        <item>Estonian(Estonian)</item> <!-- Estonian -->
+        <item>Finnish(Suomi)</item> <!-- Finnish -->
+        <item>French(Français)</item> <!-- French -->
+        <item>German(Deutsch)</item> <!-- German -->
+        <item>Greek(Έλληνας)</item> <!-- Greek -->
+        <item>Hebrew(עברית)</item> <!-- Hebrew -->
+        <item>Hungarian(Magyar)</item> <!-- Hungarian -->
+        <item>Indonesian(Indonesia)</item> <!-- Indonesian -->
+        <item>Italian(Italiano)</item> <!-- Italian -->
+        <item>Japanese(日本人)</item> <!-- Japanese -->
+        <item>Korean(한국의)</item> <!-- Korean -->
+        <item>Lithuanian(Lietuvos)</item> <!-- Lithuanian -->
+        <item>Norwegian(Norsk)</item> <!-- Norwegian -->
+        <item>Polish(Polski)</item> <!-- Polish -->
+        <item>Portuguese(Português)</item> <!-- Portuguese -->
+        <item>Romanian(Român)</item> <!-- Romanian -->
+        <item>Slovak(Slovenčina)</item> <!-- Slovak -->
+        <item>Slovenian(Slovenski jezik)</item> <!-- Slovenian -->
+        <item>Spanish(Español)</item> <!-- Spanish -->
+        <item>Swedish(Svenska)</item> <!-- Swedish -->
+        <item>Thai(ภาษาไทย)</item> <!-- Thai -->
+        <item>Turkish(Türk)</item> <!-- Turkish -->
+        <item>Ukrainian(Українська)</item> <!-- Ukrainian -->
+</string-array>
+    <string-array name="langListValues">
+    	<item>defolt</item> <!-- defolt -->
+        <item>ar</item> <!-- Arabic -->
+        <item>bg</item> <!-- Bulgarian -->
+        <item>ca</item> <!-- Catalan -->
+        <item>zh-rCN</item> <!-- Chinese (Simplified) -->
+        <item>zh-rTW</item> <!-- Chinese (Traditional) -->
+        <item>cs</item> <!-- Czech -->
+        <item>da</item> <!-- Danish -->
+        <item>nl</item> <!-- Dutch -->
+        <item>en</item> <!-- English -->
+        <item>et</item> <!-- Estonian -->
+        <item>fi</item> <!-- Finnish -->
+        <item>fr</item> <!-- French -->
+        <item>de</item> <!-- German -->
+        <item>el</item> <!-- Greek -->
+        <item>he</item> <!-- Hebrew -->
+        <item>hu</item> <!-- Hungarian -->
+        <item>id</item> <!-- Indonesian -->
+        <item>it</item> <!-- Italian -->
+        <item>ja</item> <!-- Japanese -->
+        <item>ko</item> <!-- Korean -->
+        <item>lt</item> <!-- Lithuanian -->
+        <item>no</item> <!-- Norwegian -->
+        <item>pl</item> <!-- Polish -->
+        <item>pt</item> <!-- Portuguese -->
+        <item>ro</item> <!-- Romanian -->
+        <item>sk</item> <!-- Slovak -->
+        <item>sl</item> <!-- Slovenian -->
+        <item>es</item> <!-- Spanish -->
+        <item>sv</item> <!-- Swedish -->
+        <item>th</item> <!-- Thai -->
+        <item>tr</item> <!-- Turkish -->
+        <item>uk</item> <!-- Ukrainian -->
+</string-array>
+    <string-array name="lengthUnitEntries">
+    <item>@string/centimetre_short</item>
+    <item>@string/inch_short</item>
+</string-array>
+    <string-array name="lengthUnitValues">
+    <item>1</item>
+    <item>2</item>
+</string-array>
+    <string-array name="sexListEntries">
+    <item>@string/male</item>
+    <item>@string/female</item>
+</string-array>
+    <string-array name="sexListValues">
+    <item>1</item>
+    <item>2</item>
+</string-array>
+    <string-array name="weightUnitEntries">
+    <item>@string/pound_short</item>
+    <item>@string/kilogram_short</item>
+</string-array>
+    <string-array name="weightUnitValues">
+    <item>1</item>
+    <item>2</item>
+</string-array>
+    <string name="Attention">Увага.</string>
+    <string name="BMI">ІМТ</string>
+    <string name="BMIFullString">Індекс маси тіла (ІМТ)</string>
+    <string name="BMR">БСМ</string>
+    <string name="BRMFullString">Базова швидкість метаболізму (БСМ)</string>
+    <string name="Baza_d">база даних.</string>
+    <string name="Cancel">Скасування</string>
+    <string name="ChekBoxAnimation">Включити анімацію</string>
+    <string name="DD_MM_YYYY">ДД/ММ/ГГГГ</string>
+    <string name="Data_on_this_date_already_exist">Дані на цю дату вже введені.</string>
+    <string name="Delete">Видалити</string>
+    <string name="Edit">Редагувати</string>
+    <string name="EnterPassword">Введіть пароль</string>
+    <string name="FatFullString">% жира</string>
+    <string name="FeedBackText">Здравствуйте! Мы работаем для Вас! Помогите сделать программу лучше. Если вам нравиться приложение поставьте пожалуйста оценку, либо напишите на мыло о всех недоработках. Спасибо. Разработчики.</string>
+    <string name="FirstDayOfWeek">Перший день тижня</string>
+    <string name="Largest">найвищий</string>
+    <string name="Last">Останній</string>
+    <string name="MM_DD_YYYY">ММ/ДД/ГГГГ</string>
+    <string name="Month">Міс.</string>
+    <string name="Month3">3 Мес.</string>
+    <string name="Month6">6 Мес.</string>
+    <string name="NoData">немає даних</string>
+    <string name="Optoins">Налаштування</string>
+    <string name="ProvideFirstDayOfWeek">Введіть перший день тижня</string>
+    <string name="Select_unit_of_length">Виберіть одиницю довжини.</string>
+    <string name="Select_unit_of_weight">Вибрати одиницю ваги.</string>
+    <string name="Size_baza">Розмір (записів):</string>
+    <string name="Smolest">найнижчі</string>
+    <string name="Waist_size">Талія</string>
+    <string name="Week">Тиждень</string>
+    <string name="Weight">Вага</string>
+    <string name="YYYY_MM_DD">ГГГГ/ММ/ДД</string>
+    <string name="Year">Рік</string>
+    <string msgid="5835639618285370804" name="accept">"Прийняти"</string>
+    <string name="age">Вік</string>
+    <string name="alarm_service_started">Нагадування</string>
+    <string name="all_data_deleted">Всі дані видалені</string>
+    <string name="animation">Анімація</string>
+    <string name="anticipate_overshoot">Anticipate / Overshoot</string>
+    <string name="app_name">Щоденник ваги</string>
+    <string name="bounce">Bounce</string>
+    <string name="centimetre">Сантиметр</string>
+    <string name="centimetre_short">См</string>
+    <string name="chart_no_data">Немає даних для графіка</string>
+    <string name="chest">Груди</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Увімкнути"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Додаток <ns1:g id="APP_NAME">%1$s</ns1:g> не працюватиме, якщо не ввімкнути сервіси Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Увімкнути сервіси Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Установити"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Додаток <ns1:g id="APP_NAME">%1$s</ns1:g> не працюватиме без сервісів Google Play, яких немає на вашому пристрої."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Установити сервіси Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Помилка сервісів Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"У додатку <ns1:g id="APP_NAME">%1$s</ns1:g> виникла проблема із сервісами Google Play. Повторіть спробу."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Додаток <ns1:g id="APP_NAME">%1$s</ns1:g> не працюватиме без сервісів Google Play, які не підтримуються на вашому пристрої."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Оновити"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Додаток <ns1:g id="APP_NAME">%1$s</ns1:g> не працюватиме, якщо не оновити сервіси Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Оновіть сервіси Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Додаток <ns1:g id="APP_NAME">%1$s</ns1:g> не працюватиме без сервісів Google Play, які зараз оновлюються."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Потрібна нова версія сервісів Google Play. Вони невдовзі оновляться."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Відкрити на телефоні"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Увійти"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Увійти в облік. запис Google"</string>
+    <string name="config_general_target">План</string>
+    <string name="confirm_password">повторіть пароль</string>
+    <string msgid="6155048007205742679" name="create_calendar_message">"Дозволити оголошенню створити подію календаря?"</string>
+    <string msgid="7967007864778154790" name="create_calendar_title">"Створити подію календаря"</string>
+    <string name="currentTimeTextViewText">Час</string>
+    <string name="data_is_saved">Дані збережені.</string>
+    <string name="date_format">Формат даты</string>
+    <string name="days">днів</string>
+    <string msgid="4722375419392727435" name="debug_menu_ad_information">"Інформація про оголошення"</string>
+    <string msgid="1605938743055376690" name="debug_menu_creative_preview">"Попередній перегляд файлу оголошення"</string>
+    <string msgid="2039274714455389140" name="debug_menu_title">"Вибрати режим налагодження"</string>
+    <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"Вирішення проблем"</string>
+    <string msgid="6099173376375995052" name="decline">"Відхилити"</string>
+    <string name="delete_all">Видалити всі</string>
+    <string name="delete_all_data">Ви дійсно хочете видалити всі дані???</string>
+    <string name="done_writing_sd">Запис на SD завершена</string>
+    <string name="feedback">Відгук</string>
+    <string name="female">жіночий</string>
+    <string name="first_write">перший запис</string>
+    <string name="heigh">Зростання</string>
+    <string name="helpBMI">ІМТ (індекс маси тіла) це оцінка тілесного жиру, заснована на показниках росту та ваги, і поширюється на чоловіків і жінок від 18 до 65 років. ІМТ допоможе визначити недостатній, нормальний, надмірна вага і ожиріння. Здоровий показник ІМТ знаходиться в межах 20 - 25. Відмітка нижче 20 може свідчити про недостатній вазі, вище 25 вказує, що можливо у вас зайва вага. Звертаємо вашу увагу на те, що це лише один з багатьох можливих способів оцінити ваш вагу. Якщо у вас виникли питання, пов\'язані з вашим вагою, адресуйте їх фахівцеві, який зможе точно оцінити ситуацію, грунтуючись на індівідульних особливостях вашого організму. \ N \ n ІМТ менше 18,5 = недостатня вага * \ n ІМТ від 18,5 до 24,9 = нормальна вага \ n ІМТ 25,0 до 29,9 = зайву вагу \ n ІМТ 30,0 і вище = ожиріння \ n \ n \ n * - існує протиріччя, пов\'язане з індикатором «недостатню вагу». Дослідження показують, що низький ІМТ є чинником ризику для здоров\'я. При цьому, якщо не брати до уваги людей з низьким ІМТ, пов\'язаним з важкими і хронічними захворюваннями, показник «недостатня вага» може і не являтся фактором ризику за умови, що ви здорові і знаходитеся в хорошій фізичній формі.</string>
+    <string name="helpBRM">Ви витрачаєте енергію постійно, незалежно від ступеня вашої активності, навіть коли ви спите. Даний калькулятор допоможе вам розрахувати ваш індекс БСМ (Базова швидкість метаболізму); кількість калорій, яке ви б витратили, перебуваючи в ліжку цілий день. Якщо ви помічаєте, що чим старше ви стаєте, тим складніше є все, що хочеться і залишатися у формі, необхідно знати, що з віком БСМ скорочується. Також БСМ скорочується, коли ви обмежуєте себе в їжі, сподіваючись на Потро ваги, тим самим організм підлаштовується під нові умови. У той час як з роками здатність вашого організму спалювати калорії знижується, регулярні заняття спортом можуть підвищити ваш БСМ, надавши позитивний вплив на ваш фізичний стан.</string>
+    <string name="helpFAT">Массовая доля жира в организме является наиболее точным показателем прогресса при диете и занятии спортом.
+				\n	Уровень жира в организме женщины:
+				\n  Существенный жир 10-12\u0025
+				\n  Спортсмены       14-20\u0025
+				\n  Средний          21-24\u0025
+				\n  Приемлемый       25-31\u0025 
+				\n  Тучный           ≥ 32\u0025 
+				\n
+				\n  Уровень жира в организме мужчины:
+				\n  Существенный жир 2-4\u0025
+				\n  Спортсмены       6-13\u0025
+				\n  Средний          14-17\u0025
+				\n  Приемлемый       18-25\u0025
+				\n  Тучный           ≥ 26\u0025
+				</string>
+    <string name="hip">Стегна</string>
+    <string name="im_port">Імпорт</string>
+    <string name="inch">Дюйм</string>
+    <string name="inch_short">Дюйм</string>
+    <string name="interpolatorList">Список</string>
+    <string name="kilogram">кілограм</string>
+    <string name="kilogram_short">Кг</string>
+    <string name="lang_defolt">Default(за замовчуванням)</string>
+    <string name="lang_titl">Language(мова)</string>
+    <string name="last_write">Останній запис</string>
+    <string name="later">Позже</string>
+    <string name="length_unit">Одиниця довжини.</string>
+    <string name="lines_imported">Записів імпортовано:</string>
+    <string name="male">чоловічий</string>
+    <string name="monday">Понеділок</string>
+    <string name="neck">Шея</string>
+    <string name="need_restart">Необходимо перегрузить приложение</string>
+    <string name="nextAlarmString">Наступне нагадування:</string>
+    <string name="noAlarmString">Нагадування.</string>
+    <string name="no_senks">Нет, спасибо</string>
+    <string name="normal">нормальна вага</string>
+    <string name="obese">ожиріння</string>
+    <string name="overshoot">Overshoot</string>
+    <string name="overweight">зайва вага</string>
+    <string name="password">Пароль</string>
+    <string name="passwords_do_not_match">Паролі не збігаються</string>
+    <string name="please_provide_target_chest">Будь ласка введіть планований розмір грудей</string>
+    <string name="please_provide_target_hip">Будь ласка введіть планований розмір стегон</string>
+    <string name="please_provide_target_waist_size">Будь ласка введіть планований розмір талії</string>
+    <string name="please_provide_target_weight">Будь ласка введіть планований вага</string>
+    <string name="pound">Фунт</string>
+    <string name="pound_short">Фунт</string>
+    <string name="proc_fat">% жира</string>
+    <string name="quit">Вихід</string>
+    <string name="quit_feedback">Будь ласка залишіть Ваш відгук.</string>
+    <string name="quit_feedback_title">Для поліпшення додатка</string>
+    <string name="quit_mesage">Ви дійсно хочете вийти?</string>
+    <string name="save_database">Зберегти базу</string>
+    <string name="security">Безпека</string>
+    <string name="select_import_file">Імпортований файл</string>
+    <string name="sex">Пол</string>
+    <string name="share">Сообщить</string>
+    <string name="statistics">Статистика</string>
+    <string msgid="8020323581538738027" name="store_picture_message">"Дозволити оголошенню зберегти зображення в галереї?"</string>
+    <string msgid="4180630057627064606" name="store_picture_title">"Зберегти зображення"</string>
+    <string name="summary_average">Середнє</string>
+    <string name="sunday">Неділя</string>
+    <string name="target_chest">Планований розмір грудей</string>
+    <string name="target_hip">Планований розмір стегон</string>
+    <string name="target_waist_size">Планований розмір талії</string>
+    <string name="target_weight">Планований вага</string>
+    <string name="tendency">Тенденція:</string>
+    <string name="type_of_animation">Тип анімації</string>
+    <string name="underweight">недостатня вага</string>
+    <string name="user_info">Інформація користувача</string>
+    <string name="vsego">Загальний</string>
+    <string name="weight_diary_plus">Щоденник ваги Plus</string>
+    <string name="weight_manager">Weight manager</string>
+    <string name="weight_unit">Одиниця ваги.</string>
+    <string name="years">років</string>
+</resources>

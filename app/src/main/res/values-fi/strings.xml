@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">Päiväkirja paino</string>
+  <string name="chart_no_data">Ei tietoja kaavion</string>
+  <string name="summary_average">Keskimäärin</string>
+  <string name="config_general_target">Suunnitelma</string>
+  <string name="currentTimeTextViewText">Aika</string>
+  <string name="nextAlarmString">Seuraavat muistutus:</string>
+  <string name="noAlarmString">Muistutus.</string>
+  <string name="alarm_service_started">Muistutus</string>
+  <string name="target_weight">Suunnitellut paino</string>
+  <string name="target_waist_size">Suunnitellut vyötärönympärys</string>
+  <string name="please_provide_target_weight">Syötä suunnitellun paino</string>
+  <string name="please_provide_target_waist_size">Anna suunnitellun määrän vyötärön</string>
+  <string name="Weight">Paino</string>
+  <string name="Waist_size">Vyötärö</string>
+  <string name="pound_short">Punta</string>
+  <string name="pound">Punta</string>
+  <string name="kilogram_short">Kg</string>
+  <string name="kilogram">kilogramma</string>
+  <string name="centimetre_short">Cm</string>
+  <string name="centimetre">Senttimetri</string>
+  <string name="inch">Tuuma</string>
+  <string name="weight_unit">Painoyksikköä.</string>
+  <string name="Select_unit_of_weight">Valitse painoyksikköä.</string>
+  <string name="length_unit">Yksikön pituus.</string>
+  <string name="Select_unit_of_length">Valitse yksikkö pituuden.</string>
+  <string name="tendency">Trend:</string>
+  <string name="Attention">Huomio.</string>
+  <string name="Data_on_this_date_already_exist">Tiedot kyseisenä päivänä jo tullut.</string>
+  <string name="Edit">Muokata</string>
+  <string name="Delete">Poistaa</string>
+  <string name="weight_manager">Paino johtaja</string>
+  <string name="inch_short">Tuuma</string>
+  <string name="Week">Viikko</string>
+  <string name="Month">Kuukautta.</string>
+  <string name="Month3">3 kuukautta.</string>
+  <string name="Month6">6 kuukautta.</string>
+  <string name="Year">Vuosi</string>
+  <string name="Optoins">Asetukset</string>
+  <string name="quit">Ulostulo</string>
+  <string name="quit_mesage">Haluatko todella lopettaa?</string>
+  <string name="quit_feedback">Ole hyvä ja jätä palautetta.</string>
+  <string name="quit_feedback_title">Paranna ohjelma</string>
+  <string name="feedback">Arvostelu</string>
+  <string name="Cancel">Peruutus</string>
+  <string name="BMI">BMI</string>
+  <string name="BMR">BSM</string>
+  <string name="user_info">Käyttäjän tiedot</string>
+  <string name="sex">Paavali</string>
+  <string name="heigh">Kasvu</string>
+  <string name="male">mies</string>
+  <string name="female">nainen</string>
+  <string name="animation">Animaatio</string>
+  <string name="ChekBoxAnimation">Aloita animaatio</string>
+  <string name="age">Ikä</string>
+  <string name="NoData">tietoja ei ole</string>
+  <string name="helpBMI">BMI (Body Mass Index) on arvio rasvaa perustuu pituuden ja painon lukuja, ja se koskee sekä miehiä että naisia vuotiaiden 18-65 vuotta. BMI auttaa määrittämään riittämätön, normaali, ylipaino ja lihavuus. Terve BMI on välillä 20-25. Mark alle 20 voi osoittaa alipainoinen, yli 25 osoittaa, että saatat olla ylipainoinen. Huomaa, että tämä on vain yksi monista mahdollisista tavoista arvioida painon. Jos sinulla on kysyttävää oman painon, osoite henkilö pystyy tarkasti arvioimaan tilannetta perustuu intensiiviseen yksilölliset ominaisuudet kehosta. \ N \ n BMI alle 18,5 = alipaino * \ n BMI 18,5-24,9 = normaali paino \ n BMI = 25,0-29,9 paino \ n BMI 30,0 ja yli = lihavia \ n \ n \ n * - on ristiriita liittyy indikaattorin "alipainoinen". Tutkimukset osoittavat, että alhainen BMI on riskitekijä terveydelle. Tässä tapauksessa, jos ei oteta huomioon ihmisten alhainen BMI liittyy vakavia ja kroonisia sairauksia, määrä "alipainoinen" ei voi yavlyatsya riskitekijä, jos olet terve ja hyvässä fyysisessä kunnossa.</string>
+  <string name="BMIFullString">Painoindeksi (BMI)</string>
+  <string name="BRMFullString">Basal aineenvaihdunta kiihtyy (BMR)</string>
+  <string name="helpBRM">Vietät energiaa jatkuvasti, vaikka olisit toiminnan, vaikka nukut. Tämän laskimen avulla voit laskea BMR indeksi (Basal aineenvaihdunta kiihtyy), määrä kaloreita, että olisit viettänyt taas sängyssä koko päivän. Jos huomaat, että vanhemmat saat, sitä vaikeampi on kaiken, mitä haluat ja pysyä kunnossa, sinun täytyy tietää, että iän, BCM vähenee. BSM alensi myös kun rajoittaa itse ruokaa, toivoen PONV painoa, jolloin keho sopeutuu uusiin olosuhteisiin. Vaikka vuosien varrella, kehon kykyä polttaa kaloreita laskee, säännöllinen liikunta voi lisätä BMR oli positiivinen vaikutus kunnon.</string>
+  <string name="underweight">alipainoinen</string>
+  <string name="normal">normaali paino</string>
+  <string name="overweight">ylipaino</string>
+  <string name="obese">liikalihavuus</string>
+  <string name="monday">Maanantai</string>
+  <string name="sunday">Sunnuntai</string>
+  <string name="FirstDayOfWeek">Ensimmäisenä päivänä viikossa</string>
+  <string name="ProvideFirstDayOfWeek">Kirjoita ensimmäinen päivä viikon</string>
+  <string name="security">Turvallisuus</string>
+  <string name="password">Salasana</string>
+  <string name="EnterPassword">Syötä salasana</string>
+  <string name="passwords_do_not_match">Salasanat eivät täsmää</string>
+  <string name="confirm_password">Toista salasana</string>
+  <string name="overshoot">Ylitys</string>
+  <string name="bounce">Pomppia</string>
+  <string name="anticipate_overshoot">Ennakoi / Ylitys</string>
+  <string name="type_of_animation">Tyyppi animaatio</string>
+  <string name="interpolatorList">Lista</string>
+  <string name="chest">Rinta</string>
+  <string name="hip">Lonkat</string>
+  <string name="data_is_saved">Tiedot tallennetaan.</string>
+  <string name="save_database">Pidä pohja</string>
+  <string name="delete_all">Poista kaikki</string>
+  <string name="im_port">Tuonti</string>
+  <string name="done_writing_sd">Tallennus SD päätökseen</string>
+  <string name="all_data_deleted">Kaikki tiedot poistetaan</string>
+  <string name="delete_all_data">Haluatko todella poistaa kaikki tiedot?</string>
+  <string name="select_import_file">Tuo tiedosto</string>
+  <string name="lines_imported">Records tuotu:</string>
+  <string name="target_chest">Ennustetaan koko rinnan</string>
+  <string name="please_provide_target_chest">Anna suunniteltu koko rinnan</string>
+  <string name="target_hip">Suunniteltu koko lantion</string>
+  <string name="please_provide_target_hip">Anna suunnitellun määrän hip</string>
+  <string name="years">vuotta</string>
+  <string name="weight_diary_plus">Päiväkirja paino Plus</string>
+    
+  	<string name="lang_titl">Language(kieli)</string>
+	<string name="lang_defolt">Default(oletuksena)</string>
+	
+	<string name="MM_DD_YYYY">MM/DD/YYYY</string>
+	<string name="DD_MM_YYYY">DD/MM/YYYY</string>
+	<string name="YYYY_MM_DD">YYYY/MM/DD</string>
+	<string name="date_format">Date format</string>
+	<string name="need_restart">You need to restart app</string>
+	<string name="share">Share</string>
+
+	<string name="proc_fat">% fat</string>
+	<string name="neck">Neck</string>
+	<string name="helpFAT">Rasvaa kehossa on tarkin mittari edistymistä ruokavalio ja liikunta.
+			\n rasvan määrää kehossa nainen:
+			\n Essential rasvaa 10-12 \u0025
+			\n Urheilijat 14-20 \u0025
+			\n Fitness 21-24 \u0025
+			\n Hyväksyttävä 25-31 \u0025
+			\n Lihavat ≥ 32 \u0025
+			\n
+			\n tason rasvaa mies:
+			\n Essential fat 2-4 \u0025
+			\n Urheilijat 6-13 \u0025
+			\n Fitness 14-17 \u0025
+			\n Hyväksyttävä 18-25 \u0025
+			\n Lihavat ≥ 26 \u0025
+
+	</string>
+
+	<string name="FeedBackText">Hei! Teemme sinulle! Auta tekemään ohjelmaa paremmin. Jos pidät app paikka arvostelut tai kirjoita e-mail kaikista puutteista ja puutteita. Kiitos. Kehittäjille.</string>
+	<string name="later">myöhemmin</string>
+	<string name="no_senks">Kiitos ei</string>
+	<string name="FatFullString">% rasvaa</string>	
+	
+	<string name="statistics">tilasto</string>
+	<string name="Baza_d">tietokanta</string>
+	<string name="Size_baza">Koko (Records):</string>
+	<string name="first_write">ensimmäinen levy</string>
+	<string name="last_write">Viimeisin ennätys</string>
+	<string name="vsego">kokonais-</string>
+	<string name="Largest">Korkein</string>
+	<string name="Smolest">alin</string>
+	<string name="Last">viime</string>
+	<string name="days">päivää</string>	
+	
+	
+	
+</resources>

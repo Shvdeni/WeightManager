@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">Dagboek gewicht</string>
+  <string name="chart_no_data">Er zijn geen gegevens voor de grafiek</string>
+  <string name="summary_average">Gemiddelde</string>
+  <string name="config_general_target">Plan</string>
+  <string name="currentTimeTextViewText">Tijd</string>
+  <string name="nextAlarmString">De volgende herinnering:</string>
+  <string name="noAlarmString">Herinnering.</string>
+  <string name="alarm_service_started">Herinnering</string>
+  <string name="target_weight">Geplande gewicht</string>
+  <string name="target_waist_size">Geplande tailleomvang</string>
+  <string name="please_provide_target_weight">Voer de geplande gewicht</string>
+  <string name="please_provide_target_waist_size">Voer de geplande hoeveelheid taille</string>
+  <string name="Weight">Gewicht</string>
+  <string name="Waist_size">Taille</string>
+  <string name="pound_short">Pond</string>
+  <string name="pound">Pond</string>
+  <string name="kilogram_short">Kg</string>
+  <string name="kilogram">kilogram</string>
+  <string name="centimetre_short">Cm</string>
+  <string name="centimetre">Centimeter</string>
+  <string name="inch">Inch</string>
+  <string name="weight_unit">Een eenheid van gewicht.</string>
+  <string name="Select_unit_of_weight">Selecteer een eenheid van gewicht.</string>
+  <string name="length_unit">Eenheidslengte.</string>
+  <string name="Select_unit_of_length">Selecteer een eenheid van lengte.</string>
+  <string name="tendency">Trend:</string>
+  <string name="Attention">Aandacht.</string>
+  <string name="Data_on_this_date_already_exist">De gegevens op die datum reeds ingevoerd.</string>
+  <string name="Edit">Redigeren</string>
+  <string name="Delete">Verwijderen</string>
+  <string name="weight_manager">Gewicht manager</string>
+  <string name="inch_short">Inch</string>
+  <string name="Week">Week</string>
+  <string name="Month">Maanden.</string>
+  <string name="Month3">3 maanden.</string>
+  <string name="Month6">6 maanden.</string>
+  <string name="Year">Jaar</string>
+  <string name="Optoins">Instellingen</string>
+  <string name="quit">Uitgang</string>
+  <string name="quit_mesage">Wil je echt wilt afsluiten?</string>
+  <string name="quit_feedback">Laat uw feedback.</string>
+  <string name="quit_feedback_title">Verbeter programma</string>
+  <string name="feedback">Beoordelen</string>
+  <string name="Cancel">Annulering</string>
+  <string name="BMI">BMI</string>
+  <string name="BMR">BSM</string>
+  <string name="user_info">Gebruikersinformatie</string>
+  <string name="sex">Paul</string>
+  <string name="heigh">Groei</string>
+  <string name="male">mannelijk</string>
+  <string name="female">vrouwelijk</string>
+  <string name="animation">Animatie</string>
+  <string name="ChekBoxAnimation">Start animatie</string>
+  <string name="age">Leeftijd</string>
+  <string name="NoData">geen data</string>
+  <string name="helpBMI">BMI (Body Mass Index) is de schatting van lichaamsvet op basis van lengte en gewicht figuren, en geldt voor zowel mannen als vrouwen in de leeftijd 18 tot 65 jaar. BMI helpt te bepalen onvoldoende, normaal, overgewicht en obesitas. Een gezonde BMI ligt tussen de 20 - 25. Mark onder de 20 kan duiden op ondergewicht, boven de 25 geeft aan dat je misschien overgewicht. Houd er rekening mee dat dit slechts een van de vele mogelijke manieren om uw gewicht te beoordelen. Als u vragen heeft met betrekking tot uw gewicht, adres van de persoon die in staat zijn om nauwkeurig te beoordelen van de situatie op basis van intensieve individuele kenmerken van uw lichaam. \ N \ n BMI minder dan 18,5 = ondergewicht * \ n BMI van 18,5 tot 24,9 = normaal gewicht \ n BMI = 25,0 tot 29,9 gewicht \ n BMI van 30,0 en hoger = obesitas \ n \ n \ n * - ". ondergewicht" is er een conflict met betrekking tot de indicator Studies tonen aan dat lage BMI is een risicofactor voor de gezondheid. In dit geval wordt als je geen rekening houden met mensen met een lage BMI geassocieerd met ernstige en chronische ziekten, het tarief van "ondergewicht" kan niet yavlyatsya risicofactor, op voorwaarde dat je gezond bent en een goede lichamelijke conditie.</string>
+  <string name="BMIFullString">Body mass index (BMI)</string>
+  <string name="BRMFullString">Basal Metabolic Rate (BMR)</string>
+  <string name="helpBRM">U besteedt energie continu, ongeacht uw niveau van activiteit, zelfs als je slaapt. Deze calculator helpt u berekenen uw BMR index (Basal Metabolic Rate), het aantal calorieën dat je zou in bed hebben de hele dag. Als u merkt dat de ouder je wordt, hoe moeilijker het is alles wat je wilt en in vorm te blijven, moet u weten dat met de leeftijd, de BCM wordt verminderd. BSM verminderde ook als je jezelf beperken tot voedingsmiddelen, in de hoop voor PONV gewicht, waardoor het lichaam zich aanpast aan de nieuwe omstandigheden. Terwijl de jaren heen, je lichaam in staat is om calorieën te verbranden vermindert, regelmatige lichaamsbeweging kan uw BMR te verhogen, had een positief effect op je fysieke conditie.</string>
+  <string name="underweight">ondergewicht</string>
+  <string name="normal">normaal gewicht</string>
+  <string name="overweight">overgewicht</string>
+  <string name="obese">zwaarlijvigheid</string>
+  <string name="monday">Maandag</string>
+  <string name="sunday">Zondag</string>
+  <string name="FirstDayOfWeek">De eerste dag van de week</string>
+  <string name="ProvideFirstDayOfWeek">Voer de eerste dag van de week</string>
+  <string name="security">Veiligheid</string>
+  <string name="password">Wachtwoord</string>
+  <string name="EnterPassword">Voer het wachtwoord in</string>
+  <string name="passwords_do_not_match">Wachtwoorden komen niet overeen</string>
+  <string name="confirm_password">Herhaal wachtwoord</string>
+  <string name="overshoot">Voorbijschieten</string>
+  <string name="bounce">Stuiteren</string>
+  <string name="anticipate_overshoot">Anticipeer / Overshoot</string>
+  <string name="type_of_animation">Aard van de animatie</string>
+  <string name="interpolatorList">Lijst</string>
+  <string name="chest">Borst</string>
+  <string name="hip">Heupen</string>
+  <string name="data_is_saved">De gegevens worden opgeslagen.</string>
+  <string name="save_database">Houd de basis</string>
+  <string name="delete_all">Verwijder alles</string>
+  <string name="im_port">Invoer</string>
+  <string name="done_writing_sd">Opnemen op SD voltooid</string>
+  <string name="all_data_deleted">Alle gegevens verwijderd</string>
+  <string name="delete_all_data">Wil je echt alle gegevens wilt verwijderen?</string>
+  <string name="select_import_file">Het importbestand</string>
+  <string name="lines_imported">Records geïmporteerd:</string>
+  <string name="target_chest">De verwachte grootte van de borst</string>
+  <string name="please_provide_target_chest">Voer de geplande grootte van de borst</string>
+  <string name="target_hip">De geplande omvang van de heupen</string>
+  <string name="please_provide_target_hip">Voer de geplande hoeveelheid heup</string>
+  <string name="years">jaar</string>
+  <string name="weight_diary_plus">Dagboek gewicht Plus</string>
+  
+  	<string name="lang_titl">Language(taal)</string>
+	<string name="lang_defolt">Default(bij verstek)</string>
+	
+	
+	<string name="MM_DD_YYYY">MM/DD/YYYY</string>
+	<string name="DD_MM_YYYY">DD/MM/YYYY</string>
+	<string name="YYYY_MM_DD">YYYY/MM/DD</string>
+<string name="date_format"> Date format </string>
+<string name="need_restart"> Je moet app herstarten </string>
+<string name="share"> delen </string>
+
+<string name="proc_fat">% vet </string>
+<string name="neck"> Hals </string>
+<string name="helpFAT"> vet in het lichaam is het meest nauwkeurige maatstaf voor vooruitgang op dieet en lichaamsbeweging.
+			\n Het niveau van vet in het lichaam van een vrouw:
+			\n Essentiële vetten 10-12 \u0025
+			\n Atleten 14-20 \u0025
+			\n Fitness 21-24 \u0025
+			\n Acceptabel 25-31 \u0025
+			\n Obese ≥ 32 \u0025
+			\n
+			\n het vetgehalte in de mannelijke:
+			\n Essentiële vetten 2-4 \u0025
+			\n Atleten 6-13 \u0025
+			\n Fitness 14-17 \u0025
+			\n Acceptabel 18-25 \u0025
+			\n Obese ≥ 26 \u0025
+
+</string>
+<string name="FeedBackText"> Hallo! Wij werken voor u! Helpen om het programma beter. Als je van de app kunt u plaats cijfer of schrijf een e-mail over alle tekortkomingen en gebreken. Dank u. Ontwikkelaars. </string>
+<string name="later"> Volgende </string>
+<string name="no_senks"> Nee, dank </string>
+<string name="FatFullString">% vet </string>
+
+
+	<string name="statistics">statistiek</string>
+	<string name="Baza_d">Database.</string>
+	<string name="Size_baza">Grootte (records):</string>
+	<string name="first_write">eerste record</string>
+	<string name="last_write">Laatste record</string>
+	<string name="vsego">totaal</string>
+	<string name="Largest">hoogst</string>
+	<string name="Smolest">laagste</string>
+	<string name="Last">laatste</string>
+	<string name="days">dagen</string>
+
+	
+</resources>

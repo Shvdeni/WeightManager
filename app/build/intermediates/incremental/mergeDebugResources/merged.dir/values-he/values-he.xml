@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="DateFormatEntries">
+    <item>@string/MM_DD_YYYY</item>
+    <item>@string/DD_MM_YYYY</item>
+    <item>@string/YYYY_MM_DD</item>
+</string-array>
+    <string-array name="DateFormatValues">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+</string-array>
+    <string-array name="interpolatorList">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+</string-array>
+    <string-array name="interpolatorListEntris">
+    <item>@string/overshoot</item>
+    <item>@string/bounce</item>
+    <item>@string/anticipate_overshoot</item>
+</string-array>
+    <string-array name="langListEntris">
+    	<item>@string/lang_defolt</item>
+        <item>Arabic(العربية)</item> <!-- Arabic -->
+        <item>Bulgarian(Български)</item> <!-- Bulgarian -->
+        <item>Catalan(Búlgar)</item> <!-- Catalan -->
+        <item>Chinese (Simplified)中文（简体）</item> <!-- Chinese (Simplified) -->
+        <item>Chinese (Traditional)中文（繁體）</item> <!-- Chinese (Traditional) -->
+        <item>Czech(Česká)</item> <!-- Czech -->
+        <item>Danish(Dansk)</item> <!-- Danish -->
+        <item>Dutch(Nederlands)</item> <!-- Dutch -->
+        <item>English</item> <!-- English -->
+        <item>Estonian(Estonian)</item> <!-- Estonian -->
+        <item>Finnish(Suomi)</item> <!-- Finnish -->
+        <item>French(Français)</item> <!-- French -->
+        <item>German(Deutsch)</item> <!-- German -->
+        <item>Greek(Έλληνας)</item> <!-- Greek -->
+        <item>Hebrew(עברית)</item> <!-- Hebrew -->
+        <item>Hungarian(Magyar)</item> <!-- Hungarian -->
+        <item>Indonesian(Indonesia)</item> <!-- Indonesian -->
+        <item>Italian(Italiano)</item> <!-- Italian -->
+        <item>Japanese(日本人)</item> <!-- Japanese -->
+        <item>Korean(한국의)</item> <!-- Korean -->
+        <item>Lithuanian(Lietuvos)</item> <!-- Lithuanian -->
+        <item>Norwegian(Norsk)</item> <!-- Norwegian -->
+        <item>Polish(Polski)</item> <!-- Polish -->
+        <item>Portuguese(Português)</item> <!-- Portuguese -->
+        <item>Romanian(Român)</item> <!-- Romanian -->
+        <item>Slovak(Slovenčina)</item> <!-- Slovak -->
+        <item>Slovenian(Slovenski jezik)</item> <!-- Slovenian -->
+        <item>Spanish(Español)</item> <!-- Spanish -->
+        <item>Swedish(Svenska)</item> <!-- Swedish -->
+        <item>Thai(ภาษาไทย)</item> <!-- Thai -->
+        <item>Turkish(Türk)</item> <!-- Turkish -->
+        <item>Ukrainian(Українська)</item> <!-- Ukrainian -->
+</string-array>
+    <string-array name="langListValues">
+    	<item>defolt</item> <!-- defolt -->
+        <item>ar</item> <!-- Arabic -->
+        <item>bg</item> <!-- Bulgarian -->
+        <item>ca</item> <!-- Catalan -->
+        <item>zh-rCN</item> <!-- Chinese (Simplified) -->
+        <item>zh-rTW</item> <!-- Chinese (Traditional) -->
+        <item>cs</item> <!-- Czech -->
+        <item>da</item> <!-- Danish -->
+        <item>nl</item> <!-- Dutch -->
+        <item>en</item> <!-- English -->
+        <item>et</item> <!-- Estonian -->
+        <item>fi</item> <!-- Finnish -->
+        <item>fr</item> <!-- French -->
+        <item>de</item> <!-- German -->
+        <item>el</item> <!-- Greek -->
+        <item>he</item> <!-- Hebrew -->
+        <item>hu</item> <!-- Hungarian -->
+        <item>id</item> <!-- Indonesian -->
+        <item>it</item> <!-- Italian -->
+        <item>ja</item> <!-- Japanese -->
+        <item>ko</item> <!-- Korean -->
+        <item>lt</item> <!-- Lithuanian -->
+        <item>no</item> <!-- Norwegian -->
+        <item>pl</item> <!-- Polish -->
+        <item>pt</item> <!-- Portuguese -->
+        <item>ro</item> <!-- Romanian -->
+        <item>sk</item> <!-- Slovak -->
+        <item>sl</item> <!-- Slovenian -->
+        <item>es</item> <!-- Spanish -->
+        <item>sv</item> <!-- Swedish -->
+        <item>th</item> <!-- Thai -->
+        <item>tr</item> <!-- Turkish -->
+        <item>uk</item> <!-- Ukrainian -->
+</string-array>
+    <string-array name="lengthUnitEntries">
+    <item>@string/centimetre_short</item>
+    <item>@string/inch_short</item>
+</string-array>
+    <string-array name="lengthUnitValues">
+    <item>1</item>
+    <item>2</item>
+</string-array>
+    <string-array name="sexListEntries">
+    <item>@string/male</item>
+    <item>@string/female</item>
+</string-array>
+    <string-array name="sexListValues">
+    <item>1</item>
+    <item>2</item>
+</string-array>
+    <string-array name="weightUnitEntries">
+    <item>@string/pound_short</item>
+    <item>@string/kilogram_short</item>
+</string-array>
+    <string-array name="weightUnitValues">
+    <item>1</item>
+    <item>2</item>
+</string-array>
+    <string name="Attention">תשומת לב.</string>
+    <string name="BMI">BMI</string>
+    <string name="BMIFullString">מדד מסת גוף (BMI)</string>
+    <string name="BMR">BSM</string>
+    <string name="BRMFullString">קצב חילוף חומרים בסיסי (BMR)</string>
+    <string name="Baza_d">מסד הנתונים.</string>
+    <string name="Cancel">ביטול</string>
+    <string name="ChekBoxAnimation">התחל אנימציה</string>
+    <string name="DD_MM_YYYY">DD/MM/YYYY</string>
+    <string name="Data_on_this_date_already_exist">הנתונים על תאריך זה כבר נכנסו.</string>
+    <string name="Delete">להסיר</string>
+    <string name="Edit">לערוך</string>
+    <string name="EnterPassword">הזן את הסיסמה</string>
+    <string name="FatFullString">% fat</string>
+    <string name="FeedBackText">Hello! We work for you! Help make the program better. If you like the app please place rating or write an e-mail about all the shortcomings and deficiencies. Thank you. Developers.</string>
+    <string name="FirstDayOfWeek">היום הראשון בשבוע</string>
+    <string name="Largest">הגבוה ביותר</string>
+    <string name="Last">אחרון</string>
+    <string name="MM_DD_YYYY">MM/DD/YYYY</string>
+    <string name="Month">חודשים.</string>
+    <string name="Month3">3 חודשים.</string>
+    <string name="Month6">6 חודשים.</string>
+    <string name="NoData">אין נתונים</string>
+    <string name="Optoins">הגדרות</string>
+    <string name="ProvideFirstDayOfWeek">הזן את היום הראשון בשבוע</string>
+    <string name="Select_unit_of_length">בחר יחידת האורך.</string>
+    <string name="Select_unit_of_weight">בחר יחידת המשקל.</string>
+    <string name="Size_baza">גודל (רשומות):</string>
+    <string name="Smolest">הנמוך ביותר</string>
+    <string name="Waist_size">מותנים</string>
+    <string name="Week">שבוע</string>
+    <string name="Weight">משקל</string>
+    <string name="YYYY_MM_DD">YYYY/MM/DD</string>
+    <string name="Year">שנה</string>
+    <string name="age">גיל</string>
+    <string name="alarm_service_started">תזכורת</string>
+    <string name="all_data_deleted">כל הנתונים יוסרו</string>
+    <string name="animation">הנפשה</string>
+    <string name="anticipate_overshoot">/ להחטיא צופים</string>
+    <string name="app_name">משקל יומן</string>
+    <string name="bounce">לנתר</string>
+    <string name="centimetre">סנטימטר</string>
+    <string name="centimetre_short">סנטימטר</string>
+    <string name="chart_no_data">אין נתונים עבור התרשים</string>
+    <string name="chest">חזה</string>
+    <string name="config_general_target">תכנית</string>
+    <string name="confirm_password">חזור על סיסמא</string>
+    <string name="currentTimeTextViewText">זמן</string>
+    <string name="data_is_saved">נתונים נשמרים.</string>
+    <string name="date_format">Date format</string>
+    <string name="days">ימים</string>
+    <string name="delete_all">הסר את כל</string>
+    <string name="delete_all_data">האם אתה באמת רוצה למחוק את כל הנתונים?</string>
+    <string name="done_writing_sd">ההקלטה ל SD השלימה</string>
+    <string name="feedback">סקירה</string>
+    <string name="female">נקבה</string>
+    <string name="first_write">רשומה ראשונה</string>
+    <string name="heigh">צמיחה</string>
+    <string name="helpBMI">BMI (אינדקס מסת גוף) הוא ההערכה של כמות שומן בגוף על בסיס גובה ומשקל דמויות, והוא חל על גברים ונשים בגילי 18 עד 65 שנים. BMI מסייע לקבוע, סובל מעודף משקל והשמנת יתר לקוי, נורמלית. BMI בריא הוא בין 20 - 25. מארק מתחת ל -20 עשוי להצביע על תת משקל, מעל 25 מצביע על כך שייתכן שסובלים מעודף משקל. שים לב שזו רק אחת מדרכים אפשריות רבות להערכת המשקל שלך. אם יש לך שאלות שקשורות למשקל שלך, הכתובת של אדם שיוכל במדויק כדי להעריך את המצב על סמך מאפיינים אישיים אינטנסיביים של הגוף שלך. \ N \ n-BMI פחות מ 18.5 = תת משקל * \ n BMI של 18.5-24.9 = משקל תקין \ n BMI = 25.0-29.9 משקל \ n-BMI של 30.0 ומעלה = שמן \ N \ n \ n * - ". תת המשקל" יש קונפליקט הקשור למחוון מחקרים מראים כי BMI הנמוך מהווה גורם סיכון לבריאות. במקרה זה, אם אתה לא לוקח בחשבון שאנשים עם BMI נמוך קשור במחלות קשות וכרוניות, השיעור של "תת משקל" לא יכול גורם סיכון yavlyatsya, בתנאי שאתה בריא ובכושר גופני טוב.</string>
+    <string name="helpBRM">אתה מוציא אנרגיה ברציפות, ללא קשר לרמת הפעילות שלך, גם כשאתה ישן. מחשבון זה יעזור לך לחשב את המדד שלך BMR (קצב חילוף חומרים בסיסיים), את מספר הקלוריות שהיית מבלה בזמן במיטה כל היום. אם אתה שם לב שככל שאתה מתבגר, כך קשה יותר הוא מה שאתה רוצה ולהישאר בכושר, עליך לדעת שעם גיל, BCM מצטמצם. BSM גם הפחית כשאתה מגביל את עצמך לאוכל, בתקווה למשקל PONV, ובכך הגוף מסתגל לתנאים החדשים. אמנם במשך השנים, היכולת של הגוף לשרוף קלוריות פוחתת, פעילות גופנית סדירה יכולה להגדיל BMR שלך, היה לו השפעה חיובית על המצב הפיזי שלך.</string>
+    <string name="helpFAT">Fat in the body is the most accurate measure of progress in diet and exercise.
+				\n	The level of fat in the body of a woman:
+				\n  Essential fat 10-12\u0025
+				\n  Athletes      14-20\u0025
+				\n  Fitness       21-24\u0025
+				\n  Acceptable    25-31\u0025 
+				\n  Obese         ≥ 32\u0025 
+				\n
+				\n  The level of fat in the male:
+				\n  Essential fat 2-4\u0025
+				\n  Athletes       6-13\u0025
+				\n  Fitness        14-17\u0025
+				\n  Acceptable     18-25\u0025
+				\n  Obese          ≥ 26\u0025
+
+	</string>
+    <string name="hip">מתנים</string>
+    <string name="im_port">יבוא</string>
+    <string name="inch">אינטש</string>
+    <string name="inch_short">אינטש</string>
+    <string name="interpolatorList">רשימה</string>
+    <string name="kilogram">ק"ג</string>
+    <string name="kilogram_short">ק"ג</string>
+    <string name="lang_defolt">Default(כברירת מחדל)</string>
+    <string name="lang_titl">Language(שפה)</string>
+    <string name="last_write">הרשומה אחרונה</string>
+    <string name="later">Later</string>
+    <string name="length_unit">יחידת אורך.</string>
+    <string name="lines_imported">רשומות מיובאות:</string>
+    <string name="male">זכר</string>
+    <string name="monday">יום שני</string>
+    <string name="neck">Neck</string>
+    <string name="need_restart">You need to restart app</string>
+    <string name="nextAlarmString">התזכורת הבאה:</string>
+    <string name="noAlarmString">תזכורת.</string>
+    <string name="no_senks">No, thanks</string>
+    <string name="normal">משקל תקין</string>
+    <string name="obese">השמנה</string>
+    <string name="overshoot">להחטיא את המטרה</string>
+    <string name="overweight">משקל עודף</string>
+    <string name="password">סיסמא</string>
+    <string name="passwords_do_not_match">סיסמא לא מתאימה</string>
+    <string name="please_provide_target_chest">אנא הכנס את הגודל המתוכנן של השד</string>
+    <string name="please_provide_target_hip">הזן את הסכום המתוכנן של ירך</string>
+    <string name="please_provide_target_waist_size">הזן את הסכום המתוכנן של מותנים</string>
+    <string name="please_provide_target_weight">אנא הכנס את המשקל המתוכנן</string>
+    <string name="pound">לירה</string>
+    <string name="pound_short">לירה</string>
+    <string name="proc_fat">% fat</string>
+    <string name="quit">פלט</string>
+    <string name="quit_feedback">נא להשאיר את המשוב שלך.</string>
+    <string name="quit_feedback_title">שפר את התכנית</string>
+    <string name="quit_mesage">האם אתה באמת רוצה לפרוש?</string>
+    <string name="save_database">לשמור על הבסיס</string>
+    <string name="security">בטיחות</string>
+    <string name="select_import_file">קובץ היבוא</string>
+    <string name="sex">פול</string>
+    <string name="share">Share</string>
+    <string name="statistics">סטטיסטיקה</string>
+    <string name="summary_average">הממוצע</string>
+    <string name="sunday">יום ראשון</string>
+    <string name="target_chest">הגודל צפוי של השד</string>
+    <string name="target_hip">הגודל מתוכנן של הירכיים</string>
+    <string name="target_waist_size">היקף מותנים מתוכנן</string>
+    <string name="target_weight">משקל מתוכנן</string>
+    <string name="tendency">מגמה:</string>
+    <string name="type_of_animation">סוג של אנימציה</string>
+    <string name="underweight">תת משקל</string>
+    <string name="user_info">מידע למשתמש</string>
+    <string name="vsego">סך הכל</string>
+    <string name="weight_diary_plus">יומן פלוס משקל</string>
+    <string name="weight_manager">מנהל משקל</string>
+    <string name="weight_unit">יחידת המשקל.</string>
+    <string name="years">שנים</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+<dimen name="textSizeLarge">15dp</dimen>
+<dimen name="datePickerHeight">100dp</dimen>
+
+<dimen name="BMIHeight">50dp</dimen>
+<dimen name="BMITextSize1">15dp</dimen>
+<dimen name="BMITextSize2">10dp</dimen>
+
+
+<dimen name="BottomButtHeight">50dp</dimen>
+
+<dimen name="BottomIncDecSize">65dp</dimen>
+<dimen name="BottomIncDecTextSize1">12dp</dimen>
+<dimen name="InputTextViewTextSize">35sp</dimen>
+
+<dimen name="InputTextViewWidth">100dp</dimen>
+
+<dimen name="WheelText">12dp</dimen>
+
+
+</resources>

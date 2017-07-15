@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">Tagebuch Gewicht</string>
+  <string name="chart_no_data">Keine Daten für das Diagramm</string>
+  <string name="summary_average">Durchschnitt</string>
+  <string name="config_general_target">Plan</string>
+  <string name="currentTimeTextViewText">Zeit</string>
+  <string name="nextAlarmString">Die folgende Erinnerung:</string>
+  <string name="noAlarmString">Reminder.</string>
+  <string name="alarm_service_started">Erinnerung</string>
+  <string name="target_weight">Geplante Gewicht</string>
+  <string name="target_waist_size">Geplante Taillenumfang</string>
+  <string name="please_provide_target_weight">Bitte geben Sie die geplanten Gewicht</string>
+  <string name="please_provide_target_waist_size">Bitte geben Sie die geplante Höhe der Taille</string>
+  <string name="Weight">Gewicht</string>
+  <string name="Waist_size">Taille</string>
+  <string name="pound_short">Pfund</string>
+  <string name="pound">Pfund</string>
+  <string name="kilogram_short">Kg</string>
+  <string name="kilogram">Kilogramm</string>
+  <string name="centimetre_short">Cm</string>
+  <string name="centimetre">Zentimeter</string>
+  <string name="inch">Zoll</string>
+  <string name="weight_unit">Ein Gewichtseinheit.</string>
+  <string name="Select_unit_of_weight">Wählen Sie eine Einheit von Gewicht.</string>
+  <string name="length_unit">Längeneinheit.</string>
+  <string name="Select_unit_of_length">Wählen Sie eine Einheit der Länge.</string>
+  <string name="tendency">Trend:</string>
+  <string name="Attention">Aufmerksamkeit.</string>
+  <string name="Data_on_this_date_already_exist">Die Daten zu diesem Zeitpunkt bereits eingetragen.</string>
+  <string name="Edit">Bearbeiten</string>
+  <string name="Delete">Entfernen</string>
+  <string name="weight_manager">Gewicht-Manager</string>
+  <string name="inch_short">Zoll</string>
+  <string name="Week">Woche</string>
+  <string name="Month">Monate.</string>
+  <string name="Month3">3 Monate.</string>
+  <string name="Month6">6 Monate.</string>
+  <string name="Year">Jahr</string>
+  <string name="Optoins">Einstellungen</string>
+  <string name="quit">Ausgang</string>
+  <string name="quit_mesage">Wollen Sie wirklich beenden?</string>
+  <string name="quit_feedback">Bitte hinterlassen Sie Ihre Rückmeldung.</string>
+  <string name="quit_feedback_title">Verbessern Programm</string>
+  <string name="feedback">Bewerten</string>
+  <string name="Cancel">Stornierung</string>
+  <string name="BMI">BMI</string>
+  <string name="BMR">BSM</string>
+  <string name="user_info">User Information</string>
+  <string name="sex">Geschlecht</string>
+  <string name="heigh">Wachstum</string>
+  <string name="male">männlich</string>
+  <string name="female">weiblich</string>
+  <string name="animation">Animation</string>
+  <string name="ChekBoxAnimation">Animation starten</string>
+  <string name="age">Alter</string>
+  <string name="NoData">keine Daten</string>
+  <string name="helpBMI">BMI (Body Mass Index) ist die Schätzung von Körperfett auf Körpergröße und Gewicht Zahlen basiert, und gilt sowohl für Männer und Frauen im Alter von 18 bis 65 Jahren. BMI hilft bei der Bestimmung unzureichend, normal, übergewichtig, und Übergewicht. Ein gesunder BMI liegt zwischen 20 - 25. Mark unter 20 kann darauf hindeuten, Untergewicht, über 25 bedeutet, dass Sie übergewichtig. Bitte beachten Sie, dass dies nur eine von vielen Möglichkeiten, um Ihr Gewicht zu beurteilen. Wenn Sie irgendwelche Fragen in Bezug auf Ihr Gewicht, Adresse der Person, die in der Lage sein, genau zu beurteilen die Situation auf intensive individuelle Merkmale des Körpers basieren wird. \ N \ n BMI von weniger als 18,5 = Untergewicht * \ n BMI von 18,5 bis 24,9 = Normalgewicht \ n BMI = 25,0 bis 29,9 Gewichts \ n BMI von 30,0 und darüber = fettleibig \ n \ n \ n * - ". underweight" ein Konflikt im Zusammenhang mit dem Indikator Studien zeigen, dass niedrige BMI ein Risikofaktor für die Gesundheit ist. In diesem Fall wird, wenn Sie nicht in Betracht Menschen nehmen mit einem niedrigen BMI mit schweren und chronischen Erkrankungen, die Rate der "untergewichtig" nicht yavlyatsya Risikofaktor, vorgesehen sein, dass Sie gesund und in guter körperlicher Verfassung sind verbunden.</string>
+  <string name="BMIFullString">Body-Mass-Index (BMI)</string>
+  <string name="BRMFullString">Basal Metabolic Rate (BMR)</string>
+  <string name="helpBRM">Sie verbringen Energie kontinuierlich, unabhängig von Ihrem Niveau der Tätigkeit, auch wenn Sie schlafen. Dieser Rechner wird Ihnen helfen, berechnen Sie Ihre BMR Index (Basal Metabolic Rate), die Anzahl der Kalorien, die Sie im Bett verbracht haben den ganzen Tag. Wenn Sie, dass je älter man wird bemerken, desto schwieriger ist es alles, was Sie wollen und in Form zu bleiben ist, müssen Sie wissen, dass mit dem Alter, das BCM reduziert wird. BSM auch reduziert, wenn man sich beschränken auf Nahrung, in der Hoffnung auf PONV Gewicht, damit der Körper an die neuen Bedingungen anpasst. Während im Laufe der Jahre, die Fähigkeit Ihres Körpers, um Kalorien zu verbrennen abnimmt, regelmäßige Bewegung Ihren BMR erhöhen können, hatte einen positiven Effekt auf Ihre körperliche Verfassung.</string>
+  <string name="underweight">Untergewicht</string>
+  <string name="normal">Normalgewicht</string>
+  <string name="overweight">Übergewicht</string>
+  <string name="obese">Fettleibigkeit</string>
+  <string name="monday">Montag</string>
+  <string name="sunday">Sonntag</string>
+  <string name="FirstDayOfWeek">Der erste Tag der Woche</string>
+  <string name="ProvideFirstDayOfWeek">Geben Sie den ersten Tag der Woche</string>
+  <string name="security">Sicherheit</string>
+  <string name="password">Kennwort</string>
+  <string name="EnterPassword">Geben Sie das Passwort</string>
+  <string name="passwords_do_not_match">Passwörter stimmen nicht überein</string>
+  <string name="confirm_password">Passwort wiederholen</string>
+  <string name="overshoot">Overshoot</string>
+  <string name="bounce">Hüpfen</string>
+  <string name="anticipate_overshoot">Antizipieren / Überschwingen</string>
+  <string name="type_of_animation">Art der Animation</string>
+  <string name="interpolatorList">Liste</string>
+  <string name="chest">Brust</string>
+  <string name="hip">Hips</string>
+  <string name="data_is_saved">Die Daten werden gespeichert.</string>
+  <string name="save_database">Halten Sie die Basis</string>
+  <string name="delete_all">Entfernen Sie alle</string>
+  <string name="im_port">Imports</string>
+  <string name="done_writing_sd">Aufzeichnung auf SD abgeschlossen</string>
+  <string name="all_data_deleted">Alle Daten entfernt</string>
+  <string name="delete_all_data">Wollen Sie wirklich alle Daten löschen?</string>
+  <string name="select_import_file">Die Import-Datei</string>
+  <string name="lines_imported">Datensätze importiert:</string>
+  <string name="target_chest">Das projizierte Größe der Brust</string>
+  <string name="please_provide_target_chest">Bitte geben Sie die geplante Größe der Brust</string>
+  <string name="target_hip">Die geplante Größe der Hüfte</string>
+  <string name="please_provide_target_hip">Bitte geben Sie die geplante Höhe der Hüfte</string>
+  <string name="years">Jahr</string>
+  <string name="weight_diary_plus">Tagebuch Gewicht Plus</string>
+  
+  	<string name="lang_titl">Language(Sprache)</string>
+	<string name="lang_defolt">Default(standardmäßig)</string>
+	
+
+	<string name="MM_DD_YYYY">MM/DD/YYYY</string>
+	<string name="DD_MM_YYYY">DD/MM/YYYY</string>
+	<string name="YYYY_MM_DD">YYYY/MM/DD</string>
+	<string name="date_format">Datumsformat</string>
+	<string name="need_restart">Sie müssen App starten</string>
+	<string name="share">berichten</string>	
+	
+	
+<string name ="proc_fat">% Fett </string>
+<string name ="neck"> Neck </string>
+
+
+<string name="helpFAT"> Fettgehalt im Körper ist die genaue Messung des Fortschritts in Ernährung und Bewegung.
+\ N der Menge an Fett in den Körper einer Frau:
+\ N unentbehrliches Fett 10-12 \ u0025
+\ N Athleten 14-20 \ u0025
+\ N Medium 21-24 \ u0025
+\ N Acceptable 25-31 \ u0025
+\ N Übergewichtige ≥ 32 \ u0025
+\ N
+\ N der Menge an Fett in den Körper eines Mannes:
+\ N Wesentliche Fett 2-4 \ u0025
+\ N Athleten 6-13 \ u0025
+\ N Medium 14-17 \ u0025
+\ N Acceptable 18-25 \ u0025
+\ N Übergewichtige ≥ 26 \ u0025
+</string>
+
+
+<string name="FeedBackText"> Willkommen! Wir arbeiten für Sie! Helfen Sie, damit das Programm besser. Wenn Sie die App setzen Sie bitte die Schätzung, oder schreiben Sie an die Seife aller Mängel. Vielen Dank. Entwickler. </string>
+
+<string name="later"> Später </string>
+<string name="no_senks"> Nein danke </string>
+
+<string name="FatFullString">% Fett </string>	
+	
+
+
+	<string name="statistics">Statistik</string>
+	<string name="Baza_d">Database.</string>
+	<string name="Size_baza">Größe (Datensätze):</string>
+	<string name="first_write">Erster Datensatz</string>
+	<string name="last_write">Letzter Eintrag</string>
+	<string name="vsego">insgesamt</string>
+	<string name="Largest">höchste</string>
+	<string name="Smolest">unterste</string>
+	<string name="Last">Letzte</string>
+	<string name="days">Tage</string>
+
+
+
+	
+</resources>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">Щоденник ваги</string>
+  <string name="chart_no_data">Немає даних для графіка</string>
+  <string name="summary_average">Середнє</string>
+  <string name="config_general_target">План</string>
+  <string name="currentTimeTextViewText">Час</string>
+  <string name="nextAlarmString">Наступне нагадування:</string>
+  <string name="noAlarmString">Нагадування.</string>
+  <string name="alarm_service_started">Нагадування</string>
+  <string name="target_weight">Планований вага</string>
+  <string name="target_waist_size">Планований розмір талії</string>
+  <string name="please_provide_target_weight">Будь ласка введіть планований вага</string>
+  <string name="please_provide_target_waist_size">Будь ласка введіть планований розмір талії</string>
+  <string name="Weight">Вага</string>
+  <string name="Waist_size">Талія</string>
+  <string name="pound_short">Фунт</string>
+  <string name="pound">Фунт</string>
+  <string name="kilogram_short">Кг</string>
+  <string name="kilogram">кілограм</string>
+  <string name="centimetre_short">См</string>
+  <string name="centimetre">Сантиметр</string>
+  <string name="inch">Дюйм</string>
+  <string name="weight_unit">Одиниця ваги.</string>
+  <string name="Select_unit_of_weight">Вибрати одиницю ваги.</string>
+  <string name="length_unit">Одиниця довжини.</string>
+  <string name="Select_unit_of_length">Виберіть одиницю довжини.</string>
+  <string name="tendency">Тенденція:</string>
+  <string name="Attention">Увага.</string>
+  <string name="Data_on_this_date_already_exist">Дані на цю дату вже введені.</string>
+  <string name="Edit">Редагувати</string>
+  <string name="Delete">Видалити</string>
+  <string name="weight_manager">Weight manager</string>
+  <string name="inch_short">Дюйм</string>
+  <string name="Week">Тиждень</string>
+  <string name="Month">Міс.</string>
+  <string name="Month3">3 Мес.</string>
+  <string name="Month6">6 Мес.</string>
+  <string name="Year">Рік</string>
+  <string name="Optoins">Налаштування</string>
+  <string name="quit">Вихід</string>
+  <string name="quit_mesage">Ви дійсно хочете вийти?</string>
+  <string name="quit_feedback">Будь ласка залишіть Ваш відгук.</string>
+  <string name="quit_feedback_title">Для поліпшення додатка</string>
+  <string name="feedback">Відгук</string>
+  <string name="Cancel">Скасування</string>
+  <string name="BMI">ІМТ</string>
+  <string name="BMR">БСМ</string>
+  <string name="user_info">Інформація користувача</string>
+  <string name="sex">Пол</string>
+  <string name="heigh">Зростання</string>
+  <string name="male">чоловічий</string>
+  <string name="female">жіночий</string>
+  <string name="animation">Анімація</string>
+  <string name="ChekBoxAnimation">Включити анімацію</string>
+  <string name="age">Вік</string>
+  <string name="NoData">немає даних</string>
+  <string name="helpBMI">ІМТ (індекс маси тіла) це оцінка тілесного жиру, заснована на показниках росту та ваги, і поширюється на чоловіків і жінок від 18 до 65 років. ІМТ допоможе визначити недостатній, нормальний, надмірна вага і ожиріння. Здоровий показник ІМТ знаходиться в межах 20 - 25. Відмітка нижче 20 може свідчити про недостатній вазі, вище 25 вказує, що можливо у вас зайва вага. Звертаємо вашу увагу на те, що це лише один з багатьох можливих способів оцінити ваш вагу. Якщо у вас виникли питання, пов\'язані з вашим вагою, адресуйте їх фахівцеві, який зможе точно оцінити ситуацію, грунтуючись на індівідульних особливостях вашого організму. \ N \ n ІМТ менше 18,5 = недостатня вага * \ n ІМТ від 18,5 до 24,9 = нормальна вага \ n ІМТ 25,0 до 29,9 = зайву вагу \ n ІМТ 30,0 і вище = ожиріння \ n \ n \ n * - існує протиріччя, пов\'язане з індикатором «недостатню вагу». Дослідження показують, що низький ІМТ є чинником ризику для здоров\'я. При цьому, якщо не брати до уваги людей з низьким ІМТ, пов\'язаним з важкими і хронічними захворюваннями, показник «недостатня вага» може і не являтся фактором ризику за умови, що ви здорові і знаходитеся в хорошій фізичній формі.</string>
+  <string name="BMIFullString">Індекс маси тіла (ІМТ)</string>
+  <string name="BRMFullString">Базова швидкість метаболізму (БСМ)</string>
+  <string name="helpBRM">Ви витрачаєте енергію постійно, незалежно від ступеня вашої активності, навіть коли ви спите. Даний калькулятор допоможе вам розрахувати ваш індекс БСМ (Базова швидкість метаболізму); кількість калорій, яке ви б витратили, перебуваючи в ліжку цілий день. Якщо ви помічаєте, що чим старше ви стаєте, тим складніше є все, що хочеться і залишатися у формі, необхідно знати, що з віком БСМ скорочується. Також БСМ скорочується, коли ви обмежуєте себе в їжі, сподіваючись на Потро ваги, тим самим організм підлаштовується під нові умови. У той час як з роками здатність вашого організму спалювати калорії знижується, регулярні заняття спортом можуть підвищити ваш БСМ, надавши позитивний вплив на ваш фізичний стан.</string>
+  <string name="underweight">недостатня вага</string>
+  <string name="normal">нормальна вага</string>
+  <string name="overweight">зайва вага</string>
+  <string name="obese">ожиріння</string>
+  <string name="monday">Понеділок</string>
+  <string name="sunday">Неділя</string>
+  <string name="FirstDayOfWeek">Перший день тижня</string>
+  <string name="ProvideFirstDayOfWeek">Введіть перший день тижня</string>
+  <string name="security">Безпека</string>
+  <string name="password">Пароль</string>
+  <string name="EnterPassword">Введіть пароль</string>
+  <string name="passwords_do_not_match">Паролі не збігаються</string>
+  <string name="confirm_password">повторіть пароль</string>
+  <string name="overshoot">Overshoot</string>
+  <string name="bounce">Bounce</string>
+  <string name="anticipate_overshoot">Anticipate / Overshoot</string>
+  <string name="type_of_animation">Тип анімації</string>
+  <string name="interpolatorList">Список</string>
+  <string name="chest">Груди</string>
+  <string name="hip">Стегна</string>
+  <string name="data_is_saved">Дані збережені.</string>
+  <string name="save_database">Зберегти базу</string>
+  <string name="delete_all">Видалити всі</string>
+  <string name="im_port">Імпорт</string>
+  <string name="done_writing_sd">Запис на SD завершена</string>
+  <string name="all_data_deleted">Всі дані видалені</string>
+  <string name="delete_all_data">Ви дійсно хочете видалити всі дані???</string>
+  <string name="select_import_file">Імпортований файл</string>
+  <string name="lines_imported">Записів імпортовано:</string>
+  <string name="target_chest">Планований розмір грудей</string>
+  <string name="please_provide_target_chest">Будь ласка введіть планований розмір грудей</string>
+  <string name="target_hip">Планований розмір стегон</string>
+  <string name="please_provide_target_hip">Будь ласка введіть планований розмір стегон</string>
+  <string name="years">років</string>
+  <string name="weight_diary_plus">Щоденник ваги Plus</string>
+  
+  	<string name="lang_titl">Language(мова)</string>
+	<string name="lang_defolt">Default(за замовчуванням)</string>
+	
+	
+	<string name="date_format">Формат даты</string>
+	<string name="MM_DD_YYYY">ММ/ДД/ГГГГ</string>
+	<string name="DD_MM_YYYY">ДД/ММ/ГГГГ</string>
+	<string name="YYYY_MM_DD">ГГГГ/ММ/ДД</string>
+	<string name="need_restart">Необходимо перегрузить приложение</string>
+	<string name="share">Сообщить</string>
+	
+	
+	<string name="proc_fat">% жира</string>
+	<string name="neck">Шея</string>
+	
+
+		<string name="helpFAT">Массовая доля жира в организме является наиболее точным показателем прогресса при диете и занятии спортом.
+				\n	Уровень жира в организме женщины:
+				\n  Существенный жир 10-12\u0025
+				\n  Спортсмены       14-20\u0025
+				\n  Средний          21-24\u0025
+				\n  Приемлемый       25-31\u0025 
+				\n  Тучный           ≥ 32\u0025 
+				\n
+				\n  Уровень жира в организме мужчины:
+				\n  Существенный жир 2-4\u0025
+				\n  Спортсмены       6-13\u0025
+				\n  Средний          14-17\u0025
+				\n  Приемлемый       18-25\u0025
+				\n  Тучный           ≥ 26\u0025
+				</string>
+
+
+	<string name="FeedBackText">Здравствуйте! Мы работаем для Вас! Помогите сделать программу лучше. Если вам нравиться приложение поставьте пожалуйста оценку, либо напишите на мыло о всех недоработках. Спасибо. Разработчики.</string>
+	
+	<string name="later">Позже</string>
+	<string name="no_senks">Нет, спасибо</string>
+	
+	<string name="FatFullString">% жира</string>
+	
+	
+	<string name="statistics">Статистика</string>
+	<string name="Baza_d">база даних.</string>
+	<string name="Size_baza">Розмір (записів):</string>
+	<string name="first_write">перший запис</string>
+	<string name="last_write">Останній запис</string>
+	<string name="vsego">Загальний</string>
+	<string name="Largest">найвищий</string>
+	<string name="Smolest">найнижчі</string>
+	<string name="Last">Останній</string>
+	<string name="days">днів</string>		
+	
+	
+	
+	
+</resources>

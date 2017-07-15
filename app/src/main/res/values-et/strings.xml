@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">Diary kaal</string>
+  <string name="chart_no_data">Ei andmete diagrammi</string>
+  <string name="summary_average">Keskmine</string>
+  <string name="config_general_target">Kava</string>
+  <string name="currentTimeTextViewText">Aeg</string>
+  <string name="nextAlarmString">Järgmised meeldetuletus:</string>
+  <string name="noAlarmString">Meeldetuletus.</string>
+  <string name="alarm_service_started">Meeldetuletus</string>
+  <string name="target_weight">Planeeritud kaal</string>
+  <string name="target_waist_size">Planeeritud vööümbermõõt</string>
+  <string name="please_provide_target_weight">Palun sisesta kavandatud kaal</string>
+  <string name="please_provide_target_waist_size">Palun sisesta kavandatud summa talje</string>
+  <string name="Weight">Kaal</string>
+  <string name="Waist_size">Talje</string>
+  <string name="pound_short">Nael</string>
+  <string name="pound">Nael</string>
+  <string name="kilogram_short">Kg</string>
+  <string name="kilogram">kilogramm</string>
+  <string name="centimetre_short">Cm</string>
+  <string name="centimetre">Sentimeeter</string>
+  <string name="inch">Toll</string>
+  <string name="weight_unit">Kaaluühik.</string>
+  <string name="Select_unit_of_weight">Vali kaaluühik.</string>
+  <string name="length_unit">Ühikupikkuse.</string>
+  <string name="Select_unit_of_length">Valige üksus, mille pikkus.</string>
+  <string name="tendency">Trend:</string>
+  <string name="Attention">Tähelepanu.</string>
+  <string name="Data_on_this_date_already_exist">Andmed sellel kuupäeval juba sisestatud.</string>
+  <string name="Edit">Redigeerima</string>
+  <string name="Delete">Eemaldama</string>
+  <string name="weight_manager">Kaal juht</string>
+  <string name="inch_short">Toll</string>
+  <string name="Week">Nädal</string>
+  <string name="Month">Kuud.</string>
+  <string name="Month3">3 kuud.</string>
+  <string name="Month6">6 kuud.</string>
+  <string name="Year">Aasta</string>
+  <string name="Optoins">Seaded</string>
+  <string name="quit">Väljund</string>
+  <string name="quit_mesage">Kas te tõesti soovite väljuda?</string>
+  <string name="quit_feedback">Palun jätke oma tagasiside.</string>
+  <string name="quit_feedback_title">Parandada programmi</string>
+  <string name="feedback">Vaadata</string>
+  <string name="Cancel">Tühistamine</string>
+  <string name="BMI">KMI</string>
+  <string name="BMR">BSM</string>
+  <string name="user_info">Kasutaja info</string>
+  <string name="sex">Paul</string>
+  <string name="heigh">Kasv</string>
+  <string name="male">mees</string>
+  <string name="female">naine</string>
+  <string name="animation">Animafilm</string>
+  <string name="ChekBoxAnimation">Alusta animatsioon</string>
+  <string name="age">Vanus</string>
+  <string name="NoData">andmed puuduvad</string>
+  <string name="helpBMI">KMI (kehamassiindeks) on hinnangul keharasva põhineb pikkuse ja kaalu näitajad, ning kehtib nii meeste kui ka naiste vanuses 18 kuni 65 aastat. KMI aitab määrata ebapiisav, normaalne, ülekaalulisuse ja rasvumise vastu. Tervislik KMI on vahemikus 20 - 25. Mark alla 20 võib viidata alakaaluline, üle 25 näitab, et võite olla ülekaaluline. Pange tähele, et see on vaid üks paljudest võimalikest, kuidas hinnata oma kehakaalu. Kui teil on küsimusi, mis on seotud teie kaal, aadress isik, kes saab täpselt hinnata olukorda põhjalike individuaalsete omadustega keha. \ N \ n KMI alla 18,5 = alakaaluline * \ n KMI 18,5-24,9 = normaalne kaal \ n KMI = 25,0-29,9 massi \ n KMI on 30,0 ja rohkem = rasvunud \ n \ n \ n * - on konflikt seotud näitaja "alakaaluline." Uuringud näitavad, et madala KMI on riskifaktor tervisele. Sel juhul, kui te ei võta arvesse inimeste madal KMI on seotud raske ja krooniliste haiguste, määra "alakaaluline" ei yavlyatsya riskitegur, kui olete terve ja heas füüsilises vormis.</string>
+  <string name="BMIFullString">Kehamassi indeks (KMI)</string>
+  <string name="BRMFullString">Basal ainevahetuse kiirust (BMR)</string>
+  <string name="helpBRM">Sa kulutada energiat pidevalt, sõltumata oma tegevuse tase, isegi kui sa magada. See kalkulaator aitab teil arvutada oma BMR indeks (Basal ainevahetust), hulk kaloreid, et sa oleks kulutanud samas voodis terve päeva. Kui märkate, et mida vanemaks sa saad, seda raskem on kõike, mida sa tahad ja jääda kuju, peate teadma, et koos vanusega, BCM väheneb. BSM ka väheneda, kui te piirata ennast toiduga, lootes PONV kaal, seega keha kohaneb uute tingimustega. Kuigi aastate jooksul oma keha võimet põletada kaloreid väheneb, regulaarne füüsiline koormus võivad suurendada oma BMR, oli positiivne mõju oma füüsilist seisundit.</string>
+  <string name="underweight">alakaal</string>
+  <string name="normal">normaalkaalus</string>
+  <string name="overweight">ülekaal</string>
+  <string name="obese">ülekaalulisus</string>
+  <string name="monday">Esmaspäev</string>
+  <string name="sunday">Pühapäev</string>
+  <string name="FirstDayOfWeek">Esimesel päeval nädalas</string>
+  <string name="ProvideFirstDayOfWeek">Sisesta esimesel päeval nädalas</string>
+  <string name="security">Ohutus</string>
+  <string name="password">Parool</string>
+  <string name="EnterPassword">Sisestage parool</string>
+  <string name="passwords_do_not_match">Paroolid ei ühti</string>
+  <string name="confirm_password">Korda salasõna</string>
+  <string name="overshoot">Ületamine</string>
+  <string name="bounce">Põrge</string>
+  <string name="anticipate_overshoot">Ennetada / ületarbimise</string>
+  <string name="type_of_animation">Tüüp animatsioon</string>
+  <string name="interpolatorList">Nimekiri</string>
+  <string name="chest">Rind</string>
+  <string name="hip">Puusad</string>
+  <string name="data_is_saved">Andmed salvestatakse.</string>
+  <string name="save_database">Hoia baasi</string>
+  <string name="delete_all">Eemalda kõik</string>
+  <string name="im_port">Import</string>
+  <string name="done_writing_sd">Salvestamine SD lõpule</string>
+  <string name="all_data_deleted">Kõik andmed on kustutatud</string>
+  <string name="delete_all_data">Kas te tõesti soovite kustutada kõik andmed?</string>
+  <string name="select_import_file">Impordi faili</string>
+  <string name="lines_imported">Records imporditud:</string>
+  <string name="target_chest">Prognooside suurus rindade</string>
+  <string name="please_provide_target_chest">Palun sisesta planeeritud suurus rindade</string>
+  <string name="target_hip">Kavandatud suuruse puusad</string>
+  <string name="please_provide_target_hip">Palun sisesta kavandatud summa puusa</string>
+  <string name="years">aastat</string>
+  <string name="weight_diary_plus">Diary kaal Plus</string>
+  
+  	<string name="lang_titl">Language(keel)</string>
+	<string name="lang_defolt">Default(vaikimisi)</string>
+	
+	
+	<string name="MM_DD_YYYY">MM/DD/YYYY</string>
+	<string name="DD_MM_YYYY">DD/MM/YYYY</string>
+	<string name="YYYY_MM_DD">YYYY/MM/DD</string>
+	<string name="date_format">Date format</string>
+	<string name="need_restart">You need to restart app</string>
+	<string name="share">Share</string>
+    
+	<string name="proc_fat">% fat</string>
+	<string name="neck">Neck</string>
+	<string name="helpFAT">Fat kehas on kõige täpsem kajastab arengut dieedi ja kehaliste harjutustega.
+			\n rasvasisaldus kehas naine:
+			\n Essential rasva 10-12 \u0025
+			\n sportlaste 14-20 \u0025
+			\n Fitness 21-24 \u0025
+			\n aktsepteeritav 25-31 \u0025
+			\n Rasvunud ≥ 32 \u0025
+			\n
+			\n rasvasisaldust mees:
+			\n Essential rasva 2-4 \u0025
+			\n sportlased 6-13 \u0025
+			\n Fitness 14-17 \u0025
+			\n aktsepteeritav 18-25 \u0025
+			\n Rasvunud ≥ 26 \u0025
+
+	</string>
+
+	<string name="FeedBackText">Tere! Teeme teie jaoks! Aita teha programm paremini. Kui teile meeldib app palun koht reiting või kirjutage e-posti kõik puudusele. Aitäh. Developers.</string>
+	<string name="later">pärast</string>
+	<string name="no_senks">Tänan, ei</string>
+	<string name="FatFullString">% rasva</string>	
+	
+	<string name="statistics">statistika</string>
+	<string name="Baza_d">andmebaas.</string>
+	<string name="Size_baza">Suurus (andmed):</string>
+	<string name="first_write">esimene kirje</string>
+	<string name="last_write">Viimane rekord</string>
+	<string name="vsego">kogusumma</string>
+	<string name="Largest">Kõrgeim</string>
+	<string name="Smolest">Madalaim</string>
+	<string name="Last">viimane</string>
+	<string name="days">päeva</string>	
+	
+	
+</resources>

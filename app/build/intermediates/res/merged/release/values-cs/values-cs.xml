@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="DateFormatEntries">
+    <item>@string/MM_DD_YYYY</item>
+    <item>@string/DD_MM_YYYY</item>
+    <item>@string/YYYY_MM_DD</item>
+</string-array>
+    <string-array name="DateFormatValues">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+</string-array>
+    <string-array name="interpolatorList">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+</string-array>
+    <string-array name="interpolatorListEntris">
+    <item>@string/overshoot</item>
+    <item>@string/bounce</item>
+    <item>@string/anticipate_overshoot</item>
+</string-array>
+    <string-array name="langListEntris">
+    	<item>@string/lang_defolt</item>
+        <item>Arabic(العربية)</item> <!-- Arabic -->
+        <item>Bulgarian(Български)</item> <!-- Bulgarian -->
+        <item>Catalan(Búlgar)</item> <!-- Catalan -->
+        <item>Chinese (Simplified)中文（简体）</item> <!-- Chinese (Simplified) -->
+        <item>Chinese (Traditional)中文（繁體）</item> <!-- Chinese (Traditional) -->
+        <item>Czech(Česká)</item> <!-- Czech -->
+        <item>Danish(Dansk)</item> <!-- Danish -->
+        <item>Dutch(Nederlands)</item> <!-- Dutch -->
+        <item>English</item> <!-- English -->
+        <item>Estonian(Estonian)</item> <!-- Estonian -->
+        <item>Finnish(Suomi)</item> <!-- Finnish -->
+        <item>French(Français)</item> <!-- French -->
+        <item>German(Deutsch)</item> <!-- German -->
+        <item>Greek(Έλληνας)</item> <!-- Greek -->
+        <item>Hebrew(עברית)</item> <!-- Hebrew -->
+        <item>Hungarian(Magyar)</item> <!-- Hungarian -->
+        <item>Indonesian(Indonesia)</item> <!-- Indonesian -->
+        <item>Italian(Italiano)</item> <!-- Italian -->
+        <item>Japanese(日本人)</item> <!-- Japanese -->
+        <item>Korean(한국의)</item> <!-- Korean -->
+        <item>Lithuanian(Lietuvos)</item> <!-- Lithuanian -->
+        <item>Norwegian(Norsk)</item> <!-- Norwegian -->
+        <item>Polish(Polski)</item> <!-- Polish -->
+        <item>Portuguese(Português)</item> <!-- Portuguese -->
+        <item>Romanian(Român)</item> <!-- Romanian -->
+        <item>Slovak(Slovenčina)</item> <!-- Slovak -->
+        <item>Slovenian(Slovenski jezik)</item> <!-- Slovenian -->
+        <item>Spanish(Español)</item> <!-- Spanish -->
+        <item>Swedish(Svenska)</item> <!-- Swedish -->
+        <item>Thai(ภาษาไทย)</item> <!-- Thai -->
+        <item>Turkish(Türk)</item> <!-- Turkish -->
+        <item>Ukrainian(Українська)</item> <!-- Ukrainian -->
+</string-array>
+    <string-array name="langListValues">
+    	<item>defolt</item> <!-- defolt -->
+        <item>ar</item> <!-- Arabic -->
+        <item>bg</item> <!-- Bulgarian -->
+        <item>ca</item> <!-- Catalan -->
+        <item>zh-rCN</item> <!-- Chinese (Simplified) -->
+        <item>zh-rTW</item> <!-- Chinese (Traditional) -->
+        <item>cs</item> <!-- Czech -->
+        <item>da</item> <!-- Danish -->
+        <item>nl</item> <!-- Dutch -->
+        <item>en</item> <!-- English -->
+        <item>et</item> <!-- Estonian -->
+        <item>fi</item> <!-- Finnish -->
+        <item>fr</item> <!-- French -->
+        <item>de</item> <!-- German -->
+        <item>el</item> <!-- Greek -->
+        <item>he</item> <!-- Hebrew -->
+        <item>hu</item> <!-- Hungarian -->
+        <item>id</item> <!-- Indonesian -->
+        <item>it</item> <!-- Italian -->
+        <item>ja</item> <!-- Japanese -->
+        <item>ko</item> <!-- Korean -->
+        <item>lt</item> <!-- Lithuanian -->
+        <item>no</item> <!-- Norwegian -->
+        <item>pl</item> <!-- Polish -->
+        <item>pt</item> <!-- Portuguese -->
+        <item>ro</item> <!-- Romanian -->
+        <item>sk</item> <!-- Slovak -->
+        <item>sl</item> <!-- Slovenian -->
+        <item>es</item> <!-- Spanish -->
+        <item>sv</item> <!-- Swedish -->
+        <item>th</item> <!-- Thai -->
+        <item>tr</item> <!-- Turkish -->
+        <item>uk</item> <!-- Ukrainian -->
+</string-array>
+    <string-array name="lengthUnitEntries">
+    <item>@string/centimetre_short</item>
+    <item>@string/inch_short</item>
+</string-array>
+    <string-array name="lengthUnitValues">
+    <item>1</item>
+    <item>2</item>
+</string-array>
+    <string-array name="sexListEntries">
+    <item>@string/male</item>
+    <item>@string/female</item>
+</string-array>
+    <string-array name="sexListValues">
+    <item>1</item>
+    <item>2</item>
+</string-array>
+    <string-array name="weightUnitEntries">
+    <item>@string/pound_short</item>
+    <item>@string/kilogram_short</item>
+</string-array>
+    <string-array name="weightUnitValues">
+    <item>1</item>
+    <item>2</item>
+</string-array>
+    <string name="Attention">Pozor.</string>
+    <string name="BMI">BMI</string>
+    <string name="BMIFullString">Body mass index (BMI)</string>
+    <string name="BMR">BSM</string>
+    <string name="BRMFullString">Bazální metabolismus (BMR)</string>
+    <string name="Baza_d">databáze</string>
+    <string name="Cancel">Zrušení</string>
+    <string name="ChekBoxAnimation">Datum animaci</string>
+    <string name="DD_MM_YYYY">DD/MM/YYYY</string>
+    <string name="Data_on_this_date_already_exist">Údaje o tomto datu již vstoupila.</string>
+    <string name="Delete">Odstranit</string>
+    <string name="Edit">Upravit</string>
+    <string name="EnterPassword">Zadejte heslo</string>
+    <string name="FatFullString">% tuku</string>
+    <string name="FeedBackText">Dobrý den! Pracujeme pro vás! Napomoci tomu, aby program lépe. Pokud se vám líbí aplikace, prosím místo hodnocení nebo napište e-mail o všech nedostatků a závad. Děkuju. Vývojáři.</string>
+    <string name="FirstDayOfWeek">První den v týdnu</string>
+    <string name="Largest">nejvyšší</string>
+    <string name="Last">poslední</string>
+    <string name="MM_DD_YYYY">MM/DD/YYYY</string>
+    <string name="Month">Měsíců.</string>
+    <string name="Month3">3 měsíce.</string>
+    <string name="Month6">6 měsíců.</string>
+    <string name="NoData">žádné údaje</string>
+    <string name="Optoins">Nastavení</string>
+    <string name="ProvideFirstDayOfWeek">Zadejte první den v týdnu</string>
+    <string name="Select_unit_of_length">Vyberte si jednotku délky.</string>
+    <string name="Select_unit_of_weight">Vyberte si jednotku hmotnosti.</string>
+    <string name="Size_baza">Velikost (záznamy):</string>
+    <string name="Smolest">Nejnižší</string>
+    <string name="Waist_size">Pás</string>
+    <string name="Week">Týden</string>
+    <string name="Weight">Hmotnost</string>
+    <string name="YYYY_MM_DD">YYYY/MM/DD</string>
+    <string name="Year">Rok</string>
+    <string msgid="5835639618285370804" name="accept">"Přijmout"</string>
+    <string name="age">Věk</string>
+    <string name="alarm_service_started">Připomínka</string>
+    <string name="all_data_deleted">Všechny údaje odstraněny</string>
+    <string name="animation">Animace</string>
+    <string name="anticipate_overshoot">Předvídat / překmit</string>
+    <string name="app_name">Deník hmotnost</string>
+    <string name="bounce">Odskočit</string>
+    <string name="centimetre">Centimetr</string>
+    <string name="centimetre_short">Cm</string>
+    <string name="chart_no_data">Žádné údaje pro graf</string>
+    <string name="chest">Hruď</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Povolit"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Ke spuštění aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> je třeba aktivovat služby Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Aktivace služeb Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Instalovat"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Ke spuštění aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> jsou potřeba služby Google Play, které v zařízení nemáte."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Instalace služeb Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Chyba služeb Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> má potíže se službami Google Play. Zkuste to prosím znovu."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Ke spuštění aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> jsou potřeba služby Google Play, které v tomto zařízení nejsou podporovány."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Aktualizovat"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Ke spuštění aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> je třeba aktualizovat služby Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Aktualizace služeb Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Ke spuštění aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> jsou potřeba služby Google Play, které jsou právě aktualizovány."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Je vyžadována nová verze služeb Google Play. Nová verze se brzy sama nainstaluje."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Otevřít v telefonu"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Přihlásit se"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Přihlásit se k účtu Google"</string>
+    <string name="config_general_target">Plán</string>
+    <string name="confirm_password">Opakujte heslo</string>
+    <string msgid="6155048007205742679" name="create_calendar_message">"Povolit reklamě, aby vytvořila událost kalendáře?"</string>
+    <string msgid="7967007864778154790" name="create_calendar_title">"Vytvoření události kalendáře"</string>
+    <string name="currentTimeTextViewText">Čas</string>
+    <string name="data_is_saved">Data jsou uložena.</string>
+    <string name="date_format">Date format</string>
+    <string name="days">dny</string>
+    <string msgid="4722375419392727435" name="debug_menu_ad_information">"Informace o reklamě"</string>
+    <string msgid="1605938743055376690" name="debug_menu_creative_preview">"Náhled kreativy"</string>
+    <string msgid="2039274714455389140" name="debug_menu_title">"Vybrat režim ladění"</string>
+    <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"Odstraňování problémů"</string>
+    <string msgid="6099173376375995052" name="decline">"Odmítnout"</string>
+    <string name="delete_all">Odstraňte všechny</string>
+    <string name="delete_all_data">Opravdu chcete smazat všechna data?</string>
+    <string name="done_writing_sd">Nahrávání na SD dokončen</string>
+    <string name="feedback">Recenze</string>
+    <string name="female">žena</string>
+    <string name="first_write">První nahrávka, kterou</string>
+    <string name="heigh">Růst</string>
+    <string name="helpBMI">BMI (Body Mass Index) je odhad tělesného tuku na základě výšky a hmotnosti postavy, a platí pro muže i ženy ve věku 18 až 65 let. BMI pomáhá určit nedostatečné, normální, s nadváhou, a obezity. Zdravé BMI je mezi 20 - 25. Mark pod 20 může znamenat underweight, nad 25 znamená, že můžete mít nadváhu. Vezměte prosím na vědomí, že toto je jen jeden z mnoha možných způsobů, jak posoudit svou váhu. Máte-li jakékoli otázky týkající se vaší tělesné hmotnosti, adresa osoby, která bude schopna přesně posoudit situaci na základě intenzivních individuálních vlastnostech vašeho těla. \ N \ n BMI nižší než 18,5 = podváha * \ n BMI 18,5 - 24,9 = normální hmotnosti \ n BMI = 25,0 - 29,9 hmotnostních \ n BMI 30,0 a výše = obézní \ n \ n \ n * - ". podvážením" je konflikt souvisí s ukazatelem Studie ukazují, že nízká BMI je rizikovým faktorem pro zdraví. V tomto případě, je-li vám to nebere v úvahu osoby s nízkým BMI spojeny s vážnými a chronickými chorobami, míra "underweight" nemůže yavlyatsya rizikový faktor, za předpokladu, že jste zdravý a v dobré fyzické kondici.</string>
+    <string name="helpBRM">Strávíte energii nepřetržitě, bez ohledu na úroveň aktivity, i když spíte. Tato kalkulačka vám pomůže vypočítat BMR index (bazální metabolismus), počet kalorií, které byste strávili v posteli celý den. Pokud zjistíte, že jste starší, tím těžší to je vše, co chcete, a zůstat ve formě, musíte vědět, že s věkem se snižuje BCM. BSM také snížit, když se omezovat na potraviny, doufal, že na hmotnosti PONV, tak tělo se přizpůsobí novým podmínkám. Zatímco v průběhu let, vaše tělo schopnost spalovat kalorie klesá, pravidelné cvičení může zvýšit svůj BMR, mělo pozitivní vliv na vaší fyzické kondici.</string>
+    <string name="helpFAT">Tuk v těle je nejpřesnější ukazatel pokroku v oblasti diety a cvičení.
+			\n úroveň tuku v těle ženy:
+			\n Základní tuk 10-12 \u0025
+			\n Sportovci 14-20 \u0025
+			\n Fitness 21-24 \u0025
+			\n Přijatelné 25-31 \u0025
+			\n Obézní ≥ 32 \u0025
+			\n
+			\n obsah tuku v muži:
+			\n Esenciální tuk 2-4 \u0025
+			\n Sportovci 6-13 \u0025
+			\n Fitness 14-17 \u0025
+			\n Přijatelné 18-25 \u0025
+			\n Obézní ≥ 26 \u0025
+
+	</string>
+    <string name="hip">Boky</string>
+    <string name="im_port">Dovoz</string>
+    <string name="inch">Palec</string>
+    <string name="inch_short">Palec</string>
+    <string name="interpolatorList">Seznam</string>
+    <string name="kilogram">kilogram</string>
+    <string name="kilogram_short">Kg</string>
+    <string name="lang_defolt">Default(Ve výchozím nastavení)</string>
+    <string name="lang_titl">Language(jazyk)</string>
+    <string name="last_write">poslední záznam</string>
+    <string name="later">později</string>
+    <string name="length_unit">Jednotku délky.</string>
+    <string name="lines_imported">Záznamy dovezené:</string>
+    <string name="male">samec</string>
+    <string name="monday">Pondělí</string>
+    <string name="neck">krk</string>
+    <string name="need_restart">You need to restart app</string>
+    <string name="nextAlarmString">Následující připomínka:</string>
+    <string name="noAlarmString">Připomenutí.</string>
+    <string name="no_senks">Ne, díky</string>
+    <string name="normal">normální hmotnost</string>
+    <string name="obese">obezita</string>
+    <string name="overshoot">Přestřelit</string>
+    <string name="overweight">nadváhy</string>
+    <string name="password">Heslo</string>
+    <string name="passwords_do_not_match">Hesla se neshodují</string>
+    <string name="please_provide_target_chest">Zadejte prosím plánované velikosti prsu</string>
+    <string name="please_provide_target_hip">Prosím, zadejte plánované množství kyčle</string>
+    <string name="please_provide_target_waist_size">Prosím, zadejte plánované množství pasu</string>
+    <string name="please_provide_target_weight">Zadejte prosím plánované hmotnosti</string>
+    <string name="pound">Libra</string>
+    <string name="pound_short">Libra</string>
+    <string name="proc_fat">% tuku</string>
+    <string name="quit">Výkon</string>
+    <string name="quit_feedback">Prosím, nechte svůj názor.</string>
+    <string name="quit_feedback_title">Zlepšit programu</string>
+    <string name="quit_mesage">Opravdu chcete skončit?</string>
+    <string name="save_database">Udržujte základnu</string>
+    <string name="security">Bezpečnost</string>
+    <string name="select_import_file">Import souborů</string>
+    <string name="sex">Paul</string>
+    <string name="share">podíl</string>
+    <string name="statistics">statistika</string>
+    <string msgid="8020323581538738027" name="store_picture_message">"Povolit reklamě uložení obrázku do galerie fotek?"</string>
+    <string msgid="4180630057627064606" name="store_picture_title">"Uložit obrázek"</string>
+    <string name="summary_average">Průměr</string>
+    <string name="sunday">Neděle</string>
+    <string name="target_chest">Předpokládá velikost prsu</string>
+    <string name="target_hip">Plánovaná velikost boků</string>
+    <string name="target_waist_size">Plánované pasu velikost</string>
+    <string name="target_weight">Plánované hmotnost</string>
+    <string name="tendency">Trend:</string>
+    <string name="type_of_animation">Typ animace</string>
+    <string name="underweight">underweight</string>
+    <string name="user_info">Informace o uživateli</string>
+    <string name="vsego">celkový</string>
+    <string name="weight_diary_plus">Deník hmotnost Plus</string>
+    <string name="weight_manager">Hmotnost Správce</string>
+    <string name="weight_unit">Jednotka hmotnosti.</string>
+    <string name="years">let</string>
+</resources>

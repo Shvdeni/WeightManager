@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="DateFormatEntries">
+    <item>@string/MM_DD_YYYY</item>
+    <item>@string/DD_MM_YYYY</item>
+    <item>@string/YYYY_MM_DD</item>
+</string-array>
+    <string-array name="DateFormatValues">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+</string-array>
+    <string-array name="interpolatorList">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+</string-array>
+    <string-array name="interpolatorListEntris">
+    <item>@string/overshoot</item>
+    <item>@string/bounce</item>
+    <item>@string/anticipate_overshoot</item>
+</string-array>
+    <string-array name="langListEntris">
+    	<item>@string/lang_defolt</item>
+        <item>Arabic(العربية)</item> <!-- Arabic -->
+        <item>Bulgarian(Български)</item> <!-- Bulgarian -->
+        <item>Catalan(Búlgar)</item> <!-- Catalan -->
+        <item>Chinese (Simplified)中文（简体）</item> <!-- Chinese (Simplified) -->
+        <item>Chinese (Traditional)中文（繁體）</item> <!-- Chinese (Traditional) -->
+        <item>Czech(Česká)</item> <!-- Czech -->
+        <item>Danish(Dansk)</item> <!-- Danish -->
+        <item>Dutch(Nederlands)</item> <!-- Dutch -->
+        <item>English</item> <!-- English -->
+        <item>Estonian(Estonian)</item> <!-- Estonian -->
+        <item>Finnish(Suomi)</item> <!-- Finnish -->
+        <item>French(Français)</item> <!-- French -->
+        <item>German(Deutsch)</item> <!-- German -->
+        <item>Greek(Έλληνας)</item> <!-- Greek -->
+        <item>Hebrew(עברית)</item> <!-- Hebrew -->
+        <item>Hungarian(Magyar)</item> <!-- Hungarian -->
+        <item>Indonesian(Indonesia)</item> <!-- Indonesian -->
+        <item>Italian(Italiano)</item> <!-- Italian -->
+        <item>Japanese(日本人)</item> <!-- Japanese -->
+        <item>Korean(한국의)</item> <!-- Korean -->
+        <item>Lithuanian(Lietuvos)</item> <!-- Lithuanian -->
+        <item>Norwegian(Norsk)</item> <!-- Norwegian -->
+        <item>Polish(Polski)</item> <!-- Polish -->
+        <item>Portuguese(Português)</item> <!-- Portuguese -->
+        <item>Romanian(Român)</item> <!-- Romanian -->
+        <item>Slovak(Slovenčina)</item> <!-- Slovak -->
+        <item>Slovenian(Slovenski jezik)</item> <!-- Slovenian -->
+        <item>Spanish(Español)</item> <!-- Spanish -->
+        <item>Swedish(Svenska)</item> <!-- Swedish -->
+        <item>Thai(ภาษาไทย)</item> <!-- Thai -->
+        <item>Turkish(Türk)</item> <!-- Turkish -->
+        <item>Ukrainian(Українська)</item> <!-- Ukrainian -->
+</string-array>
+    <string-array name="langListValues">
+    	<item>defolt</item> <!-- defolt -->
+        <item>ar</item> <!-- Arabic -->
+        <item>bg</item> <!-- Bulgarian -->
+        <item>ca</item> <!-- Catalan -->
+        <item>zh-rCN</item> <!-- Chinese (Simplified) -->
+        <item>zh-rTW</item> <!-- Chinese (Traditional) -->
+        <item>cs</item> <!-- Czech -->
+        <item>da</item> <!-- Danish -->
+        <item>nl</item> <!-- Dutch -->
+        <item>en</item> <!-- English -->
+        <item>et</item> <!-- Estonian -->
+        <item>fi</item> <!-- Finnish -->
+        <item>fr</item> <!-- French -->
+        <item>de</item> <!-- German -->
+        <item>el</item> <!-- Greek -->
+        <item>he</item> <!-- Hebrew -->
+        <item>hu</item> <!-- Hungarian -->
+        <item>id</item> <!-- Indonesian -->
+        <item>it</item> <!-- Italian -->
+        <item>ja</item> <!-- Japanese -->
+        <item>ko</item> <!-- Korean -->
+        <item>lt</item> <!-- Lithuanian -->
+        <item>no</item> <!-- Norwegian -->
+        <item>pl</item> <!-- Polish -->
+        <item>pt</item> <!-- Portuguese -->
+        <item>ro</item> <!-- Romanian -->
+        <item>sk</item> <!-- Slovak -->
+        <item>sl</item> <!-- Slovenian -->
+        <item>es</item> <!-- Spanish -->
+        <item>sv</item> <!-- Swedish -->
+        <item>th</item> <!-- Thai -->
+        <item>tr</item> <!-- Turkish -->
+        <item>uk</item> <!-- Ukrainian -->
+</string-array>
+    <string-array name="lengthUnitEntries">
+    <item>@string/centimetre_short</item>
+    <item>@string/inch_short</item>
+</string-array>
+    <string-array name="lengthUnitValues">
+    <item>1</item>
+    <item>2</item>
+</string-array>
+    <string-array name="sexListEntries">
+    <item>@string/male</item>
+    <item>@string/female</item>
+</string-array>
+    <string-array name="sexListValues">
+    <item>1</item>
+    <item>2</item>
+</string-array>
+    <string-array name="weightUnitEntries">
+    <item>@string/pound_short</item>
+    <item>@string/kilogram_short</item>
+</string-array>
+    <string-array name="weightUnitValues">
+    <item>1</item>
+    <item>2</item>
+</string-array>
+    <string name="Attention">Dikkat.</string>
+    <string name="BMI">BMI</string>
+    <string name="BMIFullString">Vücut kitle indeksi (VKİ)</string>
+    <string name="BMR">BSM</string>
+    <string name="BRMFullString">Bazal Metabolizma Hızı (BMH)</string>
+    <string name="Baza_d">Database.</string>
+    <string name="Cancel">Iptal</string>
+    <string name="ChekBoxAnimation">Animasyon başlayın</string>
+    <string name="DD_MM_YYYY">DD/MM/YYYY</string>
+    <string name="Data_on_this_date_already_exist">O tarihte veriler önceden girilmiş.</string>
+    <string name="Delete">Çıkarmak</string>
+    <string name="Edit">Düzenle</string>
+    <string name="EnterPassword">Şifrenizi girin</string>
+    <string name="FatFullString">% fat</string>
+    <string name="FeedBackText">Hello! We work for you! Help make the program better. If you like the app please place rating or write an e-mail about all the shortcomings and deficiencies. Thank you. Developers.</string>
+    <string name="FirstDayOfWeek">Haftanın ilk günü</string>
+    <string name="Largest">Highest</string>
+    <string name="Last">Last</string>
+    <string name="MM_DD_YYYY">MM/DD/YYYY</string>
+    <string name="Month">Ay.</string>
+    <string name="Month3">3 ay.</string>
+    <string name="Month6">6 Ay.</string>
+    <string name="NoData">veri yok</string>
+    <string name="Optoins">Ayarlar</string>
+    <string name="ProvideFirstDayOfWeek">Haftanın ilk gününü girin</string>
+    <string name="Select_unit_of_length">Uzunluk birimi seçin.</string>
+    <string name="Select_unit_of_weight">Ağırlık birimi seçin.</string>
+    <string name="Size_baza">Size (records):</string>
+    <string name="Smolest">Lowest</string>
+    <string name="Waist_size">Bel</string>
+    <string name="Week">Hafta</string>
+    <string name="Weight">Ağırlık</string>
+    <string name="YYYY_MM_DD">YYYY/MM/DD</string>
+    <string name="Year">Yıl</string>
+    <string msgid="5835639618285370804" name="accept">"Kabul et"</string>
+    <string name="age">Yaş</string>
+    <string name="alarm_service_started">Hatırlatma</string>
+    <string name="all_data_deleted">Tüm veriler kaldırıldı</string>
+    <string name="animation">Animasyon</string>
+    <string name="anticipate_overshoot">Bekliyor / Overshoot</string>
+    <string name="app_name">Günlüğü ağırlığı</string>
+    <string name="bounce">Sıçrama</string>
+    <string name="centimetre">Santimetre</string>
+    <string name="centimetre_short">Cm</string>
+    <string name="chart_no_data">Grafik için veri yok</string>
+    <string name="chest">Göğüs</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Etkinleştir"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Google Play hizmetlerini etkinleştirmezseniz <ns1:g id="APP_NAME">%1$s</ns1:g> çalışmaz."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play hizmetlerini etkinleştirin"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Yükle"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>, şu anda cihazınızda bulunmayan Google Play hizmetleri olmadan çalışmaz."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play hizmetlerini edinin"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play Hizmetleri hatası"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g>, Google Play hizmetleriyle ilgili sorun yaşıyor. Lütfen tekrar deneyin."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>, Google Play hizmetleri olmadan çalışmaz ve bu hizmetler cihazınız tarafından desteklenmiyor."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Güncelle"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Google Play hizmetlerini güncellemezseniz <ns1:g id="APP_NAME">%1$s</ns1:g> çalışmayacak."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play hizmetlerini güncelleyin"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>, şu anda güncellenmekte olan Google Play hizmetleri olmadan çalışmaz."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Google Play hizmetlerinin yeni sürümü gerekiyor. Kendisini kısa süre içinde güncelleyecektir."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Telefonda aç"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Oturum aç"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Google\'da oturum aç"</string>
+    <string name="config_general_target">Plan</string>
+    <string name="confirm_password">Şifreni tekrarla</string>
+    <string msgid="6155048007205742679" name="create_calendar_message">"Reklamın, takvim etkinliği oluşturmasına izin verilsin mi?"</string>
+    <string msgid="7967007864778154790" name="create_calendar_title">"Takvim etkinliği oluştur"</string>
+    <string name="currentTimeTextViewText">Zaman</string>
+    <string name="data_is_saved">Veriler kaydedilir.</string>
+    <string name="date_format">Date format</string>
+    <string name="days">days</string>
+    <string msgid="4722375419392727435" name="debug_menu_ad_information">"Reklam Bilgileri"</string>
+    <string msgid="1605938743055376690" name="debug_menu_creative_preview">"Creative Preview"</string>
+    <string msgid="2039274714455389140" name="debug_menu_title">"Hata Ayıklama Modu Seç"</string>
+    <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"Sorun Giderme"</string>
+    <string msgid="6099173376375995052" name="decline">"Reddet"</string>
+    <string name="delete_all">Tümünü kaldır</string>
+    <string name="delete_all_data">Eğer gerçekten tüm verileri silmek istediğinize emin misiniz?</string>
+    <string name="done_writing_sd">SD Kaydetme tamamlandı</string>
+    <string name="feedback">Gözden</string>
+    <string name="female">kadın</string>
+    <string name="first_write">First record</string>
+    <string name="heigh">Büyüme</string>
+    <string name="helpBMI">BMI (Vücut Kitle İndeksi) boy ve kilo rakamlarına göre vücut yağ tahmin ve 18 ila 65 yaş arası erkekler hem de kadınlar için geçerlidir. VKİ yetersiz, normal, şişman ve obezite belirlemenize yardımcı olur. 25 - Sağlıklı bir BMI 20 arasındadır. 20 Aşağıda Mark 25 Yukarıda, kilolu gösterebilir Eğer kilolu olabilir gösterir. Bu sadece sizin kilo değerlendirmek için birçok olası yollarından biri olduğunu unutmayın. Eğer kilo, doğru vücudunuzun yoğun bireysel özelliklerine göre durumu değerlendirmek mümkün olacak kişinin adresi ile ilgili herhangi bir sorunuz varsa. \ N \ n BMI az 18.5 = kilolu * Yukarıdaki \ n 30.0 arasında 18,5-24,9 = normal kilolu \ n BKİ = 25,0-29,9 kilo \ n BMI BMI ve = obez \ n \ n \ n * - ". kilolu" göstergesi ile ilgili bir çakışma bulunmaktadır Çalışmalar düşük VKİ sağlığı için bir risk faktörü olduğunu göstermektedir. Bu durumda, düşük BMI hesap insanların içine almazsan "kilolu" oranı sağlıklı ve iyi bir fiziksel şekli olduğunu değil yavlyatsya risk faktörü, sağlanan olabilir şiddetli ve kronik hastalıklar ile ilişkilidir.</string>
+    <string name="helpBRM">Eğer uyku bile Sen ne olursa olsun, aktivite düzeyi ne, sürekli enerji harcarlar. Bu hesap sizin BMH indeksi (Bazal Metabolizma Hızı), bütün gün yatakta iken harcanan olurdu kalori sayısını hesaplamak yardımcı olacaktır. Eğer Yaşlandıkça fark ederseniz, o kadar zorlaşır istediğiniz ve formda kalmak her şeyi, sen yaş, BCM azalır olduğunu bilmeniz gerekir. Eğer gıda kendinizi sınırlamak zaman BSM da böylece vücudun yeni şartlara uyum, POBK kilo için umut, azaltılmış. Yılda, kalori yakmak için vücudun yeteneğini azaltır, düzenli egzersiz sizin BMH artırabilir iken, fiziksel durum üzerinde olumlu bir etkisi vardı.</string>
+    <string name="helpFAT">Fat in the body is the most accurate measure of progress in diet and exercise.
+				\n	The level of fat in the body of a woman:
+				\n  Essential fat 10-12\u0025
+				\n  Athletes      14-20\u0025
+				\n  Fitness       21-24\u0025
+				\n  Acceptable    25-31\u0025 
+				\n  Obese         ≥ 32\u0025 
+				\n
+				\n  The level of fat in the male:
+				\n  Essential fat 2-4\u0025
+				\n  Athletes       6-13\u0025
+				\n  Fitness        14-17\u0025
+				\n  Acceptable     18-25\u0025
+				\n  Obese          ≥ 26\u0025
+
+	</string>
+    <string name="hip">Kalça</string>
+    <string name="im_port">Ithalat</string>
+    <string name="inch">Inç</string>
+    <string name="inch_short">Inç</string>
+    <string name="interpolatorList">Liste</string>
+    <string name="kilogram">kilogram</string>
+    <string name="kilogram_short">Kg</string>
+    <string name="lang_defolt">Default(varsayılan)</string>
+    <string name="lang_titl">Language(dil)</string>
+    <string name="last_write">Last record</string>
+    <string name="later">Later</string>
+    <string name="length_unit">Birim uzunluk.</string>
+    <string name="lines_imported">Kayıt ithal:</string>
+    <string name="male">erkek</string>
+    <string name="monday">Pazartesi</string>
+    <string name="neck">Neck</string>
+    <string name="need_restart">You need to restart app</string>
+    <string name="nextAlarmString">Aşağıdaki hatırlatma:</string>
+    <string name="noAlarmString">Hatırlatma.</string>
+    <string name="no_senks">No, thanks</string>
+    <string name="normal">normal kilolu</string>
+    <string name="obese">şişmanlık</string>
+    <string name="overshoot">Hedefi aşırmak</string>
+    <string name="overweight">fazla ağırlık</string>
+    <string name="password">Şifre</string>
+    <string name="passwords_do_not_match">Şifreler eşleşmiyor</string>
+    <string name="please_provide_target_chest">Meme planlanan boyutunu giriniz</string>
+    <string name="please_provide_target_hip">Kalça planlanan miktarı giriniz</string>
+    <string name="please_provide_target_waist_size">Bel planlanan miktarı giriniz</string>
+    <string name="please_provide_target_weight">Planlanan ağırlığı giriniz</string>
+    <string name="pound">Pound</string>
+    <string name="pound_short">Pound</string>
+    <string name="proc_fat">% fat</string>
+    <string name="quit">Çıktı</string>
+    <string name="quit_feedback">Geribildirim bırakın.</string>
+    <string name="quit_feedback_title">Programı geliştirin</string>
+    <string name="quit_mesage">Eğer gerçekten çıkmak istiyor musunuz?</string>
+    <string name="save_database">Taban tutun</string>
+    <string name="security">Güvenlik</string>
+    <string name="select_import_file">Ithalat dosya</string>
+    <string name="sex">Paul</string>
+    <string name="share">Share</string>
+    <string name="statistics">Statistics</string>
+    <string msgid="8020323581538738027" name="store_picture_message">"Reklamın, Resim galerisine resim kaydetmesine izin verilsin mi?"</string>
+    <string msgid="4180630057627064606" name="store_picture_title">"Resmi kaydet"</string>
+    <string name="summary_average">Ortalama</string>
+    <string name="sunday">Pazar</string>
+    <string name="target_chest">Meme tahmin boyutu</string>
+    <string name="target_hip">Kalça planlanan boyutu</string>
+    <string name="target_waist_size">Planlanan bel boyutu</string>
+    <string name="target_weight">Planlanan ağırlığı</string>
+    <string name="tendency">Trend:</string>
+    <string name="type_of_animation">Animasyon tipi</string>
+    <string name="underweight">normalden hafif</string>
+    <string name="user_info">Kullanıcı Bilgileri</string>
+    <string name="vsego">Total</string>
+    <string name="weight_diary_plus">Günlüğü Artı ağırlığı</string>
+    <string name="weight_manager">Ağırlık yöneticisi</string>
+    <string name="weight_unit">Ağırlık birimi.</string>
+    <string name="years">yaş</string>
+</resources>

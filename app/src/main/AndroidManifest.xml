@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="weight.manager"
+    android:versionCode="51"
+    android:versionName="2.1.5" >
+
+    <uses-sdk android:minSdkVersion="9" android:targetSdkVersion="23"/>
+
+	<uses-permission android:name="android.permission.WAKE_LOCK"></uses-permission>
+	<uses-permission android:name="android.permission.VIBRATE"/>
+	<uses-permission android:name="android.permission.INTERNET"/>
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+	
+	<supports-screens
+	android:smallScreens="true"
+	android:normalScreens="true"
+	android:largeScreens="true"
+	android:anyDensity="true" android:xlargeScreens="true"/>
+    
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name" >
+        <activity
+            android:name=".WeightManagerActivity"
+            android:label="@string/app_name" android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:clearTaskOnLaunch="true" android:launchMode="singleTask">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".listActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".chartActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".AlarmclockActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".ShowSettingsActivity" android:theme="@android:style/Theme.NoTitleBar"/>
+        <activity android:name=".HelpBMIActivity" android:theme="@android:style/Theme.NoTitleBar"/>
+        <activity android:name=".HelpBRMActivity" android:theme="@android:style/Theme.NoTitleBar"/>
+        <activity android:name=".HelpFatActivity" android:theme="@android:style/Theme.NoTitleBar"/>
+        <activity android:name=".statistics" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar"></activity>
+        
+		<receiver android:name=".BReceiver" android:enabled="true"></receiver>
+		
+		
+		
+	    <activity android:name="com.google.ads.AdActivity"
+              android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"/>
+        
+    </application>
+
+</manifest>

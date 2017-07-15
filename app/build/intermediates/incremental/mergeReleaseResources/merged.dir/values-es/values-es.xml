@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="DateFormatEntries">
+    <item>@string/MM_DD_YYYY</item>
+    <item>@string/DD_MM_YYYY</item>
+    <item>@string/YYYY_MM_DD</item>
+</string-array>
+    <string-array name="DateFormatValues">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+</string-array>
+    <string-array name="interpolatorList">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+</string-array>
+    <string-array name="interpolatorListEntris">
+    <item>@string/overshoot</item>
+    <item>@string/bounce</item>
+    <item>@string/anticipate_overshoot</item>
+</string-array>
+    <string-array name="langListEntris">
+    	<item>@string/lang_defolt</item>
+        <item>Arabic(العربية)</item> <!-- Arabic -->
+        <item>Bulgarian(Български)</item> <!-- Bulgarian -->
+        <item>Catalan(Búlgar)</item> <!-- Catalan -->
+        <item>Chinese (Simplified)中文（简体）</item> <!-- Chinese (Simplified) -->
+        <item>Chinese (Traditional)中文（繁體）</item> <!-- Chinese (Traditional) -->
+        <item>Czech(Česká)</item> <!-- Czech -->
+        <item>Danish(Dansk)</item> <!-- Danish -->
+        <item>Dutch(Nederlands)</item> <!-- Dutch -->
+        <item>English</item> <!-- English -->
+        <item>Estonian(Estonian)</item> <!-- Estonian -->
+        <item>Finnish(Suomi)</item> <!-- Finnish -->
+        <item>French(Français)</item> <!-- French -->
+        <item>German(Deutsch)</item> <!-- German -->
+        <item>Greek(Έλληνας)</item> <!-- Greek -->
+        <item>Hebrew(עברית)</item> <!-- Hebrew -->
+        <item>Hungarian(Magyar)</item> <!-- Hungarian -->
+        <item>Indonesian(Indonesia)</item> <!-- Indonesian -->
+        <item>Italian(Italiano)</item> <!-- Italian -->
+        <item>Japanese(日本人)</item> <!-- Japanese -->
+        <item>Korean(한국의)</item> <!-- Korean -->
+        <item>Lithuanian(Lietuvos)</item> <!-- Lithuanian -->
+        <item>Norwegian(Norsk)</item> <!-- Norwegian -->
+        <item>Polish(Polski)</item> <!-- Polish -->
+        <item>Portuguese(Português)</item> <!-- Portuguese -->
+        <item>Romanian(Român)</item> <!-- Romanian -->
+        <item>Slovak(Slovenčina)</item> <!-- Slovak -->
+        <item>Slovenian(Slovenski jezik)</item> <!-- Slovenian -->
+        <item>Spanish(Español)</item> <!-- Spanish -->
+        <item>Swedish(Svenska)</item> <!-- Swedish -->
+        <item>Thai(ภาษาไทย)</item> <!-- Thai -->
+        <item>Turkish(Türk)</item> <!-- Turkish -->
+        <item>Ukrainian(Українська)</item> <!-- Ukrainian -->
+</string-array>
+    <string-array name="langListValues">
+    	<item>defolt</item> <!-- defolt -->
+        <item>ar</item> <!-- Arabic -->
+        <item>bg</item> <!-- Bulgarian -->
+        <item>ca</item> <!-- Catalan -->
+        <item>zh-rCN</item> <!-- Chinese (Simplified) -->
+        <item>zh-rTW</item> <!-- Chinese (Traditional) -->
+        <item>cs</item> <!-- Czech -->
+        <item>da</item> <!-- Danish -->
+        <item>nl</item> <!-- Dutch -->
+        <item>en</item> <!-- English -->
+        <item>et</item> <!-- Estonian -->
+        <item>fi</item> <!-- Finnish -->
+        <item>fr</item> <!-- French -->
+        <item>de</item> <!-- German -->
+        <item>el</item> <!-- Greek -->
+        <item>he</item> <!-- Hebrew -->
+        <item>hu</item> <!-- Hungarian -->
+        <item>id</item> <!-- Indonesian -->
+        <item>it</item> <!-- Italian -->
+        <item>ja</item> <!-- Japanese -->
+        <item>ko</item> <!-- Korean -->
+        <item>lt</item> <!-- Lithuanian -->
+        <item>no</item> <!-- Norwegian -->
+        <item>pl</item> <!-- Polish -->
+        <item>pt</item> <!-- Portuguese -->
+        <item>ro</item> <!-- Romanian -->
+        <item>sk</item> <!-- Slovak -->
+        <item>sl</item> <!-- Slovenian -->
+        <item>es</item> <!-- Spanish -->
+        <item>sv</item> <!-- Swedish -->
+        <item>th</item> <!-- Thai -->
+        <item>tr</item> <!-- Turkish -->
+        <item>uk</item> <!-- Ukrainian -->
+</string-array>
+    <string-array name="lengthUnitEntries">
+    <item>@string/centimetre_short</item>
+    <item>@string/inch_short</item>
+</string-array>
+    <string-array name="lengthUnitValues">
+    <item>1</item>
+    <item>2</item>
+</string-array>
+    <string-array name="sexListEntries">
+    <item>@string/male</item>
+    <item>@string/female</item>
+</string-array>
+    <string-array name="sexListValues">
+    <item>1</item>
+    <item>2</item>
+</string-array>
+    <string-array name="weightUnitEntries">
+    <item>@string/pound_short</item>
+    <item>@string/kilogram_short</item>
+</string-array>
+    <string-array name="weightUnitValues">
+    <item>1</item>
+    <item>2</item>
+</string-array>
+    <string name="Attention">Atención.</string>
+    <string name="BMI">IMC</string>
+    <string name="BMIFullString">Índice de masa corporal (IMC)</string>
+    <string name="BMR">BSM</string>
+    <string name="BRMFullString">Tasa Metabólica Basal (BMR)</string>
+    <string name="Baza_d">base de datos.</string>
+    <string name="Cancel">Cancelación</string>
+    <string name="ChekBoxAnimation">Iniciar la animación</string>
+    <string name="DD_MM_YYYY">DD/MM/YYYY</string>
+    <string name="Data_on_this_date_already_exist">Los datos de esa fecha ya ha introducido.</string>
+    <string name="Delete">Quitar</string>
+    <string name="Edit">Editar</string>
+    <string name="EnterPassword">Introduzca la contraseña</string>
+    <string name="FatFullString">% de grasa </string>
+    <string name="FeedBackText"> Bienvenido! Trabajamos para usted! Ayude a mejorar el programa. Si te gusta la aplicación, por favor ponga la estimación, o escribir a la telenovela de todas las deficiencias. Gracias. Desarrolladores. </string>
+    <string name="FirstDayOfWeek">El primer día de la semana</string>
+    <string name="Largest">Mayor</string>
+    <string name="Last">último</string>
+    <string name="MM_DD_YYYY">MM/DD/YYYY</string>
+    <string name="Month">Meses.</string>
+    <string name="Month3">3 meses.</string>
+    <string name="Month6">6 Meses.</string>
+    <string name="NoData">ningún dato</string>
+    <string name="Optoins">Configuración</string>
+    <string name="ProvideFirstDayOfWeek">Introducir el primer día de la semana</string>
+    <string name="Select_unit_of_length">Seleccione una unidad de longitud.</string>
+    <string name="Select_unit_of_weight">Seleccione una unidad de peso.</string>
+    <string name="Size_baza">Tamaño (registros):</string>
+    <string name="Smolest">Menor</string>
+    <string name="Waist_size">Cintura</string>
+    <string name="Week">Semana</string>
+    <string name="Weight">Peso</string>
+    <string name="YYYY_MM_DD">YYYY/MM/DD</string>
+    <string name="Year">Año</string>
+    <string msgid="5835639618285370804" name="accept">"Aceptar"</string>
+    <string name="age">Edad</string>
+    <string name="alarm_service_started">Recordatorio</string>
+    <string name="all_data_deleted">Todos los datos eliminado</string>
+    <string name="animation">Animación</string>
+    <string name="anticipate_overshoot">Anticipar / Overshoot</string>
+    <string name="app_name">Diario de peso</string>
+    <string name="bounce">Rebotar</string>
+    <string name="centimetre">Centímetro</string>
+    <string name="centimetre_short">Cm</string>
+    <string name="chart_no_data">No hay datos para el gráfico</string>
+    <string name="chest">Pecho</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Habilitar"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no funcionará hasta que no habilites Servicios de Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Habilita Servicios de Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Instalar"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no se ejecutará si los Servicios de Google Play no están instalados en tu dispositivo."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Descargar Servicios de Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Error de Servicios de Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"La aplicación <ns1:g id="APP_NAME">%1$s</ns1:g> tiene problemas con los Servicios de Google Play. Vuelve a intentarlo."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"No es posible ejecutar la aplicación <ns1:g id="APP_NAME">%1$s</ns1:g> sin los Servicios de Google Play, que no son compatibles con tu dispositivo."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Actualizar"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no funcionará hasta que no actualices Servicios de Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Actualiza Servicios de Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no se ejecutará hasta que finalice la actualización en curso de Servicios de Google Play."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Se necesita una nueva versión de Servicios de Google Play. Se actualizará en breve."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Abrir en teléfono"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Iniciar sesión"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Iniciar sesión con Google"</string>
+    <string name="config_general_target">Plan</string>
+    <string name="confirm_password">Repetir contraseña</string>
+    <string msgid="6155048007205742679" name="create_calendar_message">"¿Permitir que el anuncio cree un evento de calendario?"</string>
+    <string msgid="7967007864778154790" name="create_calendar_title">"Crear evento de calendario"</string>
+    <string name="currentTimeTextViewText">Tiempo</string>
+    <string name="data_is_saved">Los datos se guardan.</string>
+    <string name="date_format">Date format</string>
+    <string name="days">días</string>
+    <string msgid="4722375419392727435" name="debug_menu_ad_information">"Información del anuncio"</string>
+    <string msgid="1605938743055376690" name="debug_menu_creative_preview">"Vista previa de la creatividad"</string>
+    <string msgid="2039274714455389140" name="debug_menu_title">"Seleccionar un modo de depuración"</string>
+    <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"Solucionar problemas"</string>
+    <string msgid="6099173376375995052" name="decline">"Rechazar"</string>
+    <string name="delete_all">Retire todos los</string>
+    <string name="delete_all_data">¿Estás seguro que quieres eliminar todos los datos?</string>
+    <string name="done_writing_sd">Grabación en SD terminado</string>
+    <string name="feedback">Revise</string>
+    <string name="female">femenino</string>
+    <string name="first_write">primer registro</string>
+    <string name="heigh">Crecimiento</string>
+    <string name="helpBMI">IMC (Índice de Masa Corporal) es la estimación de la grasa corporal basada en la estatura y peso de las cifras, y se aplica tanto a hombres y mujeres de 18 a 65 años. BMI ayuda a determinar insuficiente, normal, sobrepeso y obesidad. Un IMC saludable es entre 20 - 25. Marcos debajo de 20 puede indicar bajo peso, superior a 25 indica que usted puede tener sobrepeso. Tenga en cuenta que esto es sólo una de las muchas formas posibles de evaluar su peso. Si tiene alguna pregunta relacionada con su peso, la dirección de la persona que será capaz de evaluar con precisión la situación en base a las características individuales intensivas de su cuerpo. \ N \ n IMC inferior a 18,5 = bajo peso * \ n IMC de 18,5 a 24,9 = peso normal \ n IMC = 25,0 a 29,9 peso IMC \ n de 30,0 o más = obeso \ n \ n \ n * - ". cartera" hay un conflicto relacionado con el indicador Los estudios muestran que un IMC bajo es un factor de riesgo para la salud. En este caso, si no se tiene en cuenta a las personas con un IMC bajo está asociado con enfermedades graves y crónicas, la tasa de "bajo peso" puede no yavlyatsya factor de riesgo, siempre y cuando usted está sano y en buena forma física.</string>
+    <string name="helpBRM">Usted pasa la energía de forma continua, independientemente de su nivel de actividad, incluso cuando duerme. Esta calculadora le ayudará a calcular su índice de BMR (tasa metabólica basal), el número de calorías que usted habría pasado, mientras que en la cama todo el día. Si usted nota que el viejo te haces, más difícil es todo lo que usted desea y mantenerse en forma, debe saber que con la edad, el BCM se reduce. BSM también se reduce cuando usted se limita a los alimentos, con la esperanza de NVPO peso, con lo que el cuerpo se adapta a las nuevas condiciones. Si bien en los últimos años, la capacidad del cuerpo para quemar calorías disminuye, el ejercicio regular puede aumentar su BMR, tuvo un efecto positivo en su condición física.</string>
+    <string name="helpFAT"> Contenido de grasa en el cuerpo es la medida más precisa del progreso en la dieta y el ejercicio.
+\n El nivel de grasa en el cuerpo de una mujer:
+\n grasa esencial 10-12 \u0025
+\n Atletas 14-20 \u0025
+\n Medium 21-24 \u0025
+\n Aceptable 25-31 \u0025
+\n Obesidad ≥ 32 \u0025
+\n
+\n El nivel de grasa en el cuerpo de un hombre:
+\n grasa significativa 2-4 \u0025
+\n Atletas 6-13 \u0025
+\n Medium 14-17 \u0025
+\n Aceptable 18-25 \u0025
+\n Obesidad ≥ 26 \u0025
+</string>
+    <string name="hip">Caderas</string>
+    <string name="im_port">Importaciones</string>
+    <string name="inch">Pulgada</string>
+    <string name="inch_short">Pulgada</string>
+    <string name="interpolatorList">Lista</string>
+    <string name="kilogram">kilogramo</string>
+    <string name="kilogram_short">Kg</string>
+    <string name="lang_defolt">Default(por defecto)</string>
+    <string name="lang_titl">Language(idioma)</string>
+    <string name="last_write">Último registro</string>
+    <string name="later"> Posterior </string>
+    <string name="length_unit">Unidad de longitud.</string>
+    <string name="lines_imported">Registros importados:</string>
+    <string name="male">masculino</string>
+    <string name="monday">Lunes</string>
+    <string name="neck"> Neck </string>
+    <string name="need_restart">You need to restart app</string>
+    <string name="nextAlarmString">El aviso siguiente:</string>
+    <string name="noAlarmString">Recordatorio.</string>
+    <string name="no_senks"> No gracias </string>
+    <string name="normal">peso normal</string>
+    <string name="obese">obesidad</string>
+    <string name="overshoot">Excederse</string>
+    <string name="overweight">el exceso de peso</string>
+    <string name="password">Contraseña</string>
+    <string name="passwords_do_not_match">Las contraseñas no coinciden</string>
+    <string name="please_provide_target_chest">Por favor introduce el tamaño previsto de la mama</string>
+    <string name="please_provide_target_hip">Por favor ingrese la cantidad planificada de cadera</string>
+    <string name="please_provide_target_waist_size">Por favor ingrese la cantidad planificada de cintura</string>
+    <string name="please_provide_target_weight">Por favor, ingrese el peso previsto</string>
+    <string name="pound">Libra</string>
+    <string name="pound_short">Libra</string>
+    <string name="proc_fat">% de grasa </string>
+    <string name="quit">Salida</string>
+    <string name="quit_feedback">Por favor, deje sus comentarios.</string>
+    <string name="quit_feedback_title">Mejorar el programa</string>
+    <string name="quit_mesage">¿Estás seguro que quieres salir?</string>
+    <string name="save_database">Mantener la base</string>
+    <string name="security">Seguridad</string>
+    <string name="select_import_file">El archivo de importación</string>
+    <string name="sex">Paul</string>
+    <string name="share">Share</string>
+    <string name="statistics">estadística</string>
+    <string msgid="8020323581538738027" name="store_picture_message">"¿Permitir que el anuncio almacene imágenes en la galería de imágenes?"</string>
+    <string msgid="4180630057627064606" name="store_picture_title">"Guardar imagen"</string>
+    <string name="summary_average">Promedio</string>
+    <string name="sunday">Domingo</string>
+    <string name="target_chest">El tamaño previsto de la mama</string>
+    <string name="target_hip">El tamaño previsto de las caderas</string>
+    <string name="target_waist_size">Tamaño de la cintura de Planificación</string>
+    <string name="target_weight">Planificación de peso</string>
+    <string name="tendency">Tendencia:</string>
+    <string name="type_of_animation">Tipo de animación</string>
+    <string name="underweight">bajo peso</string>
+    <string name="user_info">Información del usuario</string>
+    <string name="vsego">total</string>
+    <string name="weight_diary_plus">Diary peso Plus</string>
+    <string name="weight_manager">Gestor de Peso</string>
+    <string name="weight_unit">Una unidad de peso.</string>
+    <string name="years">años</string>
+</resources>

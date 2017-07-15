@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="DateFormatEntries">
+    <item>@string/MM_DD_YYYY</item>
+    <item>@string/DD_MM_YYYY</item>
+    <item>@string/YYYY_MM_DD</item>
+</string-array>
+    <string-array name="DateFormatValues">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+</string-array>
+    <string-array name="interpolatorList">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+</string-array>
+    <string-array name="interpolatorListEntris">
+    <item>@string/overshoot</item>
+    <item>@string/bounce</item>
+    <item>@string/anticipate_overshoot</item>
+</string-array>
+    <string-array name="langListEntris">
+    	<item>@string/lang_defolt</item>
+        <item>Arabic(العربية)</item> <!-- Arabic -->
+        <item>Bulgarian(Български)</item> <!-- Bulgarian -->
+        <item>Catalan(Búlgar)</item> <!-- Catalan -->
+        <item>Chinese (Simplified)中文（简体）</item> <!-- Chinese (Simplified) -->
+        <item>Chinese (Traditional)中文（繁體）</item> <!-- Chinese (Traditional) -->
+        <item>Czech(Česká)</item> <!-- Czech -->
+        <item>Danish(Dansk)</item> <!-- Danish -->
+        <item>Dutch(Nederlands)</item> <!-- Dutch -->
+        <item>English</item> <!-- English -->
+        <item>Estonian(Estonian)</item> <!-- Estonian -->
+        <item>Finnish(Suomi)</item> <!-- Finnish -->
+        <item>French(Français)</item> <!-- French -->
+        <item>German(Deutsch)</item> <!-- German -->
+        <item>Greek(Έλληνας)</item> <!-- Greek -->
+        <item>Hebrew(עברית)</item> <!-- Hebrew -->
+        <item>Hungarian(Magyar)</item> <!-- Hungarian -->
+        <item>Indonesian(Indonesia)</item> <!-- Indonesian -->
+        <item>Italian(Italiano)</item> <!-- Italian -->
+        <item>Japanese(日本人)</item> <!-- Japanese -->
+        <item>Korean(한국의)</item> <!-- Korean -->
+        <item>Lithuanian(Lietuvos)</item> <!-- Lithuanian -->
+        <item>Norwegian(Norsk)</item> <!-- Norwegian -->
+        <item>Polish(Polski)</item> <!-- Polish -->
+        <item>Portuguese(Português)</item> <!-- Portuguese -->
+        <item>Romanian(Român)</item> <!-- Romanian -->
+        <item>Slovak(Slovenčina)</item> <!-- Slovak -->
+        <item>Slovenian(Slovenski jezik)</item> <!-- Slovenian -->
+        <item>Spanish(Español)</item> <!-- Spanish -->
+        <item>Swedish(Svenska)</item> <!-- Swedish -->
+        <item>Thai(ภาษาไทย)</item> <!-- Thai -->
+        <item>Turkish(Türk)</item> <!-- Turkish -->
+        <item>Ukrainian(Українська)</item> <!-- Ukrainian -->
+</string-array>
+    <string-array name="langListValues">
+    	<item>defolt</item> <!-- defolt -->
+        <item>ar</item> <!-- Arabic -->
+        <item>bg</item> <!-- Bulgarian -->
+        <item>ca</item> <!-- Catalan -->
+        <item>zh-rCN</item> <!-- Chinese (Simplified) -->
+        <item>zh-rTW</item> <!-- Chinese (Traditional) -->
+        <item>cs</item> <!-- Czech -->
+        <item>da</item> <!-- Danish -->
+        <item>nl</item> <!-- Dutch -->
+        <item>en</item> <!-- English -->
+        <item>et</item> <!-- Estonian -->
+        <item>fi</item> <!-- Finnish -->
+        <item>fr</item> <!-- French -->
+        <item>de</item> <!-- German -->
+        <item>el</item> <!-- Greek -->
+        <item>he</item> <!-- Hebrew -->
+        <item>hu</item> <!-- Hungarian -->
+        <item>id</item> <!-- Indonesian -->
+        <item>it</item> <!-- Italian -->
+        <item>ja</item> <!-- Japanese -->
+        <item>ko</item> <!-- Korean -->
+        <item>lt</item> <!-- Lithuanian -->
+        <item>no</item> <!-- Norwegian -->
+        <item>pl</item> <!-- Polish -->
+        <item>pt</item> <!-- Portuguese -->
+        <item>ro</item> <!-- Romanian -->
+        <item>sk</item> <!-- Slovak -->
+        <item>sl</item> <!-- Slovenian -->
+        <item>es</item> <!-- Spanish -->
+        <item>sv</item> <!-- Swedish -->
+        <item>th</item> <!-- Thai -->
+        <item>tr</item> <!-- Turkish -->
+        <item>uk</item> <!-- Ukrainian -->
+</string-array>
+    <string-array name="lengthUnitEntries">
+    <item>@string/centimetre_short</item>
+    <item>@string/inch_short</item>
+</string-array>
+    <string-array name="lengthUnitValues">
+    <item>1</item>
+    <item>2</item>
+</string-array>
+    <string-array name="sexListEntries">
+    <item>@string/male</item>
+    <item>@string/female</item>
+</string-array>
+    <string-array name="sexListValues">
+    <item>1</item>
+    <item>2</item>
+</string-array>
+    <string-array name="weightUnitEntries">
+    <item>@string/pound_short</item>
+    <item>@string/kilogram_short</item>
+</string-array>
+    <string-array name="weightUnitValues">
+    <item>1</item>
+    <item>2</item>
+</string-array>
+    <string name="Attention">Pozor.</string>
+    <string name="BMI">ITM</string>
+    <string name="BMIFullString">Indeks telesne mase (ITM)</string>
+    <string name="BMR">BSM</string>
+    <string name="BRMFullString">Osnovna metabolična stopnja (BMR)</string>
+    <string name="Baza_d">baza podatkov.</string>
+    <string name="Cancel">Odpoved</string>
+    <string name="ChekBoxAnimation">Začni animacijo</string>
+    <string name="DD_MM_YYYY">DD/MM/YYYY</string>
+    <string name="Data_on_this_date_already_exist">Podatki o tem dnem že začel.</string>
+    <string name="Delete">Odstrani</string>
+    <string name="Edit">Urejanje</string>
+    <string name="EnterPassword">Vnesite geslo</string>
+    <string name="FatFullString">% maščobe</string>
+    <string name="FeedBackText">Pozdravljeni! Mi delamo za vas! Pripomogli, da je program boljši. Če vam je všeč app prosimo oddajte oceno ali napišete e-pošto o vseh pomanjkljivosti in pomanjkljivosti. Hvala. Razvijalci.</string>
+    <string name="FirstDayOfWeek">Prvi dan v tednu</string>
+    <string name="Largest">Naj</string>
+    <string name="Last">Zadnja</string>
+    <string name="MM_DD_YYYY">MM/DD/YYYY</string>
+    <string name="Month">Mesecev.</string>
+    <string name="Month3">3 mesece.</string>
+    <string name="Month6">6 mesecev.</string>
+    <string name="NoData">Ni podatkov</string>
+    <string name="Optoins">Nastavitve</string>
+    <string name="ProvideFirstDayOfWeek">Vnesite prvi dan v tednu</string>
+    <string name="Select_unit_of_length">Izberite enoto dolžine.</string>
+    <string name="Select_unit_of_weight">Izberite enoto teže.</string>
+    <string name="Size_baza">Velikost (evidence):</string>
+    <string name="Smolest">najnižja</string>
+    <string name="Waist_size">Waist</string>
+    <string name="Week">Teden</string>
+    <string name="Weight">Teža</string>
+    <string name="YYYY_MM_DD">YYYY/MM/DD</string>
+    <string name="Year">Leto</string>
+    <string msgid="5835639618285370804" name="accept">"Sprejem"</string>
+    <string name="age">Starost</string>
+    <string name="alarm_service_started">Opomnik</string>
+    <string name="all_data_deleted">Vsi podatki odstranjeni</string>
+    <string name="animation">Animacija</string>
+    <string name="anticipate_overshoot">Predvidite / Prekoračitev</string>
+    <string name="app_name">Dnevnik teža</string>
+    <string name="bounce">Bounce</string>
+    <string name="centimetre">Centimeter</string>
+    <string name="centimetre_short">Cm</string>
+    <string name="chart_no_data">Ni podatkov za grafikon</string>
+    <string name="chest">Prsni koš</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Omogoči"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Aplikacija <ns1:g id="APP_NAME">%1$s</ns1:g> ne bo delovala, če ne omogočite storitev Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Omogočanje storitev Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Namesti"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Aplikacija <ns1:g id="APP_NAME">%1$s</ns1:g> ne deluje brez storitev Google Play, vendar teh ni v napravi."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Namestitev storitev Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Napaka storitev Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Aplikacija <ns1:g id="APP_NAME">%1$s</ns1:g> ima težave s storitvami Google Play. Poskusite znova."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Aplikacija <ns1:g id="APP_NAME">%1$s</ns1:g> ne deluje brez storitev Google Play, ki jih vaša naprava ne podpira."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Posodobi"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Aplikacija <ns1:g id="APP_NAME">%1$s</ns1:g> ne bo delovala, če ne posodobite storitev Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Posodobitev storitev Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Aplikacija <ns1:g id="APP_NAME">%1$s</ns1:g> ne deluje brez storitev Google Play, ki se trenutno posodabljajo."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Potrebujete novo različico storitev Google Play. V kratkem se bodo posodobile."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Odpiranje v telefonu"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Prijava"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Prijava z Google Računom"</string>
+    <string name="config_general_target">Načrt</string>
+    <string name="confirm_password">Ponovite geslo</string>
+    <string msgid="6155048007205742679" name="create_calendar_message">"Ali dovolite, da oglas ustvari koledarski dogodek?"</string>
+    <string msgid="7967007864778154790" name="create_calendar_title">"Ustvarjanje koledarskega dogodka"</string>
+    <string name="currentTimeTextViewText">Čas</string>
+    <string name="data_is_saved">Podatki se shranijo.</string>
+    <string name="date_format">Date format</string>
+    <string name="days">dni</string>
+    <string msgid="4722375419392727435" name="debug_menu_ad_information">"Podatki o oglasu"</string>
+    <string msgid="1605938743055376690" name="debug_menu_creative_preview">"Predogled datotek oglasa"</string>
+    <string msgid="2039274714455389140" name="debug_menu_title">"Izbira načina za odpravljanje napak"</string>
+    <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"Odpravljanje težav"</string>
+    <string msgid="6099173376375995052" name="decline">"Zavrnitev"</string>
+    <string name="delete_all">Odstrani vse</string>
+    <string name="delete_all_data">Ali ste prepričani, da želite izbrisati vse podatke?</string>
+    <string name="done_writing_sd">Snemanje na SD končana</string>
+    <string name="feedback">Pregled</string>
+    <string name="female">ženska</string>
+    <string name="first_write">prvi zapis</string>
+    <string name="heigh">Rast</string>
+    <string name="helpBMI">ITM (indeks telesne mase) je ocena telesne maščobe na podlagi višine in teže, številke in velja za moške in ženske v starosti od 18 do 65 let. ITM pomaga določiti nezadostno, normalno, prekomerne telesne teže in debelosti. Zdrav ITM med 20 - 25. Mark pod 20 lahko kažejo premajhno težo nad 25 pomeni, da ste lahko prekomerno telesno težo. Prosimo, upoštevajte, da je to le eden od možnih načinov, da bi ocenili svojo težo. Če imate kakršno koli vprašanje v zvezi z vašo težo, naslov osebe, ki bo lahko natančno oceniti stanje na podlagi intenzivnih individualnih značilnosti vašega telesa. \ N \ n ITM manjši od 18,5 = podhranjena * \ n ITM od 18,5-24,9 = normalna teža \ n BMI = 25,0-29,9 mas \ n ITM 30,0 in več = debelih \ n \ n \ n * -. "prelahki" je spor povezan z kazalnika Študije kažejo, da nizka ITM je dejavnik tveganja za zdravje. V tem primeru je, če ne upošteva ljudi z nizkim ITM povezana s hudimi in kroničnimi boleznimi, stopnja "podhranjen" Ne morem yavlyatsya dejavnik tveganja, pod pogojem, da ste zdravi in v dobri telesni kondiciji.</string>
+    <string name="helpBRM">Ti porabijo energijo ves čas, ne glede na vašo raven dejavnosti, tudi ko spite. Ta kalkulator vam bo pomagal izračunati vaš BMR (Basal Metabolic indeks hitrost), število kalorij, ki bi jih porabili pa ves dan v postelji. Če opazite, da starejši dobiš, težje je vse, kar si želite in ostati v formi, morate vedeti, da s starostjo se zmanjša BCM. BSM tudi zmanjša, če se omejite na hrano, v upanju na težo PONV, s čimer se telo prilagodi novim razmeram. Medtem ko je v preteklih letih svojega sposobnost telesa, da gorijo kalorij zmanjša, lahko redna vadba poveča stopnjo presnove, je imelo pozitiven vpliv na vaše fizično stanje.</string>
+    <string name="helpFAT">Maščobe v telesu je najbolj natančno merilo napredka na področju prehrane in telesno vadbo.
+			\n raven maščob v telesu ženske:
+			\n Essential maščobe 10-12 \u0025
+			\n Športniki 14-20 \u0025
+			\n fitnes 21-24 \u0025
+			\n Sprejemljiva 25-31 \u0025
+			\n debelost ≥ 32 \u0025
+			\n
+			\n stopnje maščob v moški:
+			\n Essential maščobe 2-4 \u0025
+			\n Športniki 6-13 \u0025
+			\n fitnes 14-17 \u0025
+			\n Sprejemljiva 18-25 \u0025
+			\n debelost ≥ 26 \u0025
+
+	</string>
+    <string name="hip">Boki</string>
+    <string name="im_port">Uvoz</string>
+    <string name="inch">Inch</string>
+    <string name="inch_short">Inch</string>
+    <string name="interpolatorList">Seznam</string>
+    <string name="kilogram">kilogram</string>
+    <string name="kilogram_short">Kg</string>
+    <string name="lang_defolt">Default(privzeto)</string>
+    <string name="lang_titl">Language(jezik)</string>
+    <string name="last_write">zadnji zapis</string>
+    <string name="later">kasneje</string>
+    <string name="length_unit">Enota za dolžino.</string>
+    <string name="lines_imported">Zapisi uvožena:</string>
+    <string name="male">moški</string>
+    <string name="monday">Ponedeljek</string>
+    <string name="neck">Neck</string>
+    <string name="need_restart">You need to restart app</string>
+    <string name="nextAlarmString">Naslednje opozorilo:</string>
+    <string name="noAlarmString">Opomnik.</string>
+    <string name="no_senks">Ne, hvala</string>
+    <string name="normal">normalno težo</string>
+    <string name="obese">debelost</string>
+    <string name="overshoot">Prekoračitev</string>
+    <string name="overweight">odvečna teža</string>
+    <string name="password">Geslo</string>
+    <string name="passwords_do_not_match">Gesli se ne ujemata</string>
+    <string name="please_provide_target_chest">Vnesite načrtovano velikost prsi</string>
+    <string name="please_provide_target_hip">Vnesite načrtovano višino bokov</string>
+    <string name="please_provide_target_waist_size">Vnesite načrtovano višino pasu</string>
+    <string name="please_provide_target_weight">Vnesite načrtovano težo</string>
+    <string name="pound">Pound</string>
+    <string name="pound_short">Pound</string>
+    <string name="proc_fat">% fat</string>
+    <string name="quit">Izhod</string>
+    <string name="quit_feedback">Prosim, pustite vaše mnenje.</string>
+    <string name="quit_feedback_title">Izboljšati programa</string>
+    <string name="quit_mesage">Ali res želite končati?</string>
+    <string name="save_database">Naj osnove</string>
+    <string name="security">Varnost</string>
+    <string name="select_import_file">Datoteka za uvoz</string>
+    <string name="sex">Paul</string>
+    <string name="share">Share</string>
+    <string name="statistics">statistika</string>
+    <string msgid="8020323581538738027" name="store_picture_message">"Ali dovolite, da oglas shrani sliko v galeriji slik?"</string>
+    <string msgid="4180630057627064606" name="store_picture_title">"Shranjevanje slike"</string>
+    <string name="summary_average">Povprečje</string>
+    <string name="sunday">Nedelja</string>
+    <string name="target_chest">Predvidena velikost prsi</string>
+    <string name="target_hip">Načrtovani obseg bokov</string>
+    <string name="target_waist_size">Načrtovani obseg pasu</string>
+    <string name="target_weight">Predvidena teža</string>
+    <string name="tendency">Trend:</string>
+    <string name="type_of_animation">Vrsta animacije</string>
+    <string name="underweight">podhranjenih</string>
+    <string name="user_info">Informacije o uporabniku</string>
+    <string name="vsego">Skupaj</string>
+    <string name="weight_diary_plus">Dnevnik teža Plus</string>
+    <string name="weight_manager">Teža upravljavec</string>
+    <string name="weight_unit">Enoto mase.</string>
+    <string name="years">leta</string>
+</resources>

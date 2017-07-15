@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">يوميات الوزن</string> 
+  <string name="chart_no_data">لا توجد بيانات للتخطيط</string> 
+  <string name="summary_average">متوسط</string> 
+  <string name="config_general_target">خطة</string> 
+  <string name="currentTimeTextViewText">مرة</string> 
+  <string name="nextAlarmString">التذكير التالية:</string> 
+  <string name="noAlarmString">تذكير.</string> 
+  <string name="alarm_service_started">تذكير</string> 
+  <string name="target_weight">المخطط الوزن</string> 
+  <string name="target_waist_size">المخطط الخصر حجم</string> 
+  <string name="please_provide_target_weight">الرجاء إدخال المخطط الوزن</string> 
+  <string name="please_provide_target_waist_size">يرجى إدخال الكمية المقررة من الخصر</string> 
+  <string name="Weight">الوزن</string> 
+  <string name="Waist_size">وسط</string> 
+  <string name="pound_short">جنيه</string> 
+  <string name="pound">جنيه</string> 
+  <string name="kilogram_short">كجم</string> 
+  <string name="kilogram">كيلوغرام</string> 
+  <string name="centimetre_short">سم</string> 
+  <string name="centimetre">سنتيمتر</string> 
+  <string name="inch">بوصة</string> 
+  <string name="weight_unit">وحدة من وزنه.</string> 
+  <string name="Select_unit_of_weight">حدد وحدة من وزنه.</string> 
+  <string name="length_unit">وحدة الطول.</string> 
+  <string name="Select_unit_of_length">حدد وحدة الطول.</string> 
+  <string name="tendency">الاتجاه:</string> 
+  <string name="Attention">الاهتمام.</string> 
+  <string name="Data_on_this_date_already_exist">البيانات في ذلك التاريخ دخلت بالفعل.</string> 
+  <string name="Edit">تحرير</string> 
+  <string name="Delete">نزع</string> 
+  <string name="weight_manager">مدير الوزن</string> 
+  <string name="inch_short">بوصة</string> 
+  <string name="Week">أسبوع</string> 
+  <string name="Month">أشهر.</string> 
+  <string name="Month3">3 أشهر.</string> 
+  <string name="Month6">6 أشهر.</string> 
+  <string name="Year">عام</string> 
+  <string name="Optoins">إعدادات</string> 
+  <string name="quit">إنتاج</string> 
+  <string name="quit_mesage">هل تريد حقا لإنهاء؟</string> 
+  <string name="quit_feedback">يرجى ترك ملاحظاتك.</string> 
+  <string name="quit_feedback_title">تحسين البرنامج</string> 
+  <string name="feedback">مراجعة</string> 
+  <string name="Cancel">إلغاء</string> 
+  <string name="BMI">BMI</string> 
+  <string name="BMR">BSM</string> 
+  <string name="user_info">معلومات المستخدم</string> 
+  <string name="sex">بول</string> 
+  <string name="heigh">نمو</string> 
+  <string name="male">ذكر</string> 
+  <string name="female">أنثى</string> 
+  <string name="animation">حيوية</string> 
+  <string name="ChekBoxAnimation">بدء الرسوم المتحركة</string> 
+  <string name="age">عمر</string> 
+  <string name="NoData">لا توجد بيانات</string> 
+  <string name="helpBMI">BMI (مؤشر كتلة الجسم) هو تقدير الدهون في الجسم يعتمد على الطول والوزن الأرقام، وينطبق على كل من الرجال والنساء تتراوح أعمارهم بين 18 إلى 65 سنة. BMI يساعد على تحديد وضعها الطبيعي غير كافية، زيادة الوزن، والسمنة. A BMI الصحي هو بين 20 - 25. علامة أقل من 20 قد يدل على نقص الوزن، أكثر من 25 تشير إلى أن زيادة الوزن قد تكون. يرجى ملاحظة أن هذه ليست سوى واحدة من العديد من السبل الممكنة لتقييم وزنك. إذا كان لديك أي أسئلة تتعلق زنك، عنوان الشخص الذي سوف تكون قادرة على تقييم دقيق للوضع على أساس الخصائص الفردية مكثفة من جسمك. \ N \ N BMI أقل من 18.5 = الوزن * \ ن BMI من 18،5 حتي 24،9 الوزن الطبيعي = \ N = BMI 25،0 حتي 29،9 الوزن BMI ن \ من 30،0 فما فوق = السمنة \ N \ N \ N * - ". نقص الوزن" وجود تعارض المتعلقة المؤشر تشير الدراسات إلى أن انخفاض مؤشر كتلة الجسم هو أحد عوامل الخطر على الصحة. في هذه الحالة، ويرتبط إذا كنت لا تأخذ في الاعتبار الأشخاص مع مؤشر كتلة الجسم المنخفضة يعانون من أمراض حادة ومزمنة، ونسبة "نقص الوزن" لا عامل خطر yavlyatsya، شريطة أن كنت في صحة جيدة وحالة بدنية جيدة في.</string> 
+  <string name="BMIFullString">مؤشر كتلة الجسم (BMI)</string> 
+  <string name="BRMFullString">معدل الاستقلاب الأساسي (BMR)</string> 
+  <string name="helpBRM">كنت تنفق الطاقة بشكل مستمر، بغض النظر عن مستواك من النشاط، حتى عندما تنام. وهذه الآلة الحاسبة تساعدك على حساب الرقم القياسي الخاص بك BMR (معدل الاستقلاب الأساسي)، وعدد من السعرات الحرارية التي كنت قد أنفقت أثناء وجوده في السرير طوال اليوم. إذا لاحظت أن أقدم لك، كلما كان من الصعب كل ما تريد والبقاء في الشكل، يجب أن تعرف أن مع تقدم العمر، ينخفض BCM. كما خفضت BSM عند تحد نفسك في الغذاء، على أمل لPONV الوزن، وبالتالي فإن الجسم يتكيف مع الظروف الجديدة. بينما على مر السنين، قدرة الجسم على حرق السعرات الحرارية يقلل، ممارسة التمارين الرياضية بانتظام يمكن أن تزيد من BMR الخاص بك، كان له أثر إيجابي على حالتك المادية.</string> 
+  <string name="underweight">نقص الوزن</string> 
+  <string name="normal">الوزن العادي</string> 
+  <string name="overweight">الوزن الزائد</string> 
+  <string name="obese">بدانة</string> 
+  <string name="monday">يوم الاثنين</string> 
+  <string name="sunday">الأحد</string> 
+  <string name="FirstDayOfWeek">في اليوم الأول من الأسبوع</string> 
+  <string name="ProvideFirstDayOfWeek">أدخل اليوم الأول من الأسبوع</string> 
+  <string name="security">سلامة</string> 
+  <string name="password">كلمة السر</string> 
+  <string name="EnterPassword">إدخال كلمة المرور</string> 
+  <string name="passwords_do_not_match">لا تتطابق كلمات المرور</string> 
+  <string name="confirm_password">كرر كلمة السر</string> 
+  <string name="overshoot">تخطى</string> 
+  <string name="bounce">وثب</string> 
+  <string name="anticipate_overshoot">توقع / التجاوز</string> 
+  <string name="type_of_animation">نوع من الرسوم المتحركة</string> 
+  <string name="interpolatorList">قائمة</string> 
+  <string name="chest">صدر</string> 
+  <string name="hip">الوركين</string> 
+  <string name="data_is_saved">يتم حفظ البيانات.</string> 
+  <string name="save_database">الحفاظ على قاعدة</string> 
+  <string name="delete_all">إزالة جميع</string> 
+  <string name="im_port">واردات</string> 
+  <string name="done_writing_sd">تسجيل لإتمام SD</string> 
+  <string name="all_data_deleted">إزالة كافة البيانات</string> 
+  <string name="delete_all_data">هل حقا تريد حذف كافة البيانات؟</string> 
+  <string name="select_import_file">استيراد ملف</string> 
+  <string name="lines_imported">السجلات المستوردة:</string> 
+  <string name="target_chest">حجم المتوقع من الثدي</string> 
+  <string name="please_provide_target_chest">من فضلك ادخل حجم المخطط للثدي</string> 
+  <string name="target_hip">حجم المخطط من الوركين</string> 
+  <string name="please_provide_target_hip">يرجى إدخال الكمية المقررة من الورك</string> 
+  <string name="years">سنوات</string> 
+  <string name="weight_diary_plus">الوزن زائد يوميات</string>
+  
+  <string name="lang_titl">(Language)لغة</string>
+  <string name="lang_defolt">(Default)الافتراضي</string>
+    
+	<string name="MM_DD_YYYY">MM/DD/YYYY</string>
+	<string name="DD_MM_YYYY">DD/MM/YYYY</string>
+	<string name="YYYY_MM_DD">YYYY/MM/DD</string>
+	<string name="date_format">Date format</string>
+	<string name="need_restart">You need to restart app</string>
+	<string name="share">Share</string>  
+  
+	<string name="proc_fat">% fat</string>
+	<string name="neck">Neck</string>
+	<string name="helpFAT">Fat in the body is the most accurate measure of progress in diet and exercise.
+				\n	The level of fat in the body of a woman:
+				\n  Essential fat 10-12\u0025
+				\n  Athletes      14-20\u0025
+				\n  Fitness       21-24\u0025
+				\n  Acceptable    25-31\u0025 
+				\n  Obese         ≥ 32\u0025 
+				\n
+				\n  The level of fat in the male:
+				\n  Essential fat 2-4\u0025
+				\n  Athletes       6-13\u0025
+				\n  Fitness        14-17\u0025
+				\n  Acceptable     18-25\u0025
+				\n  Obese          ≥ 26\u0025
+
+	</string>
+
+	<string name="FeedBackText">Hello! We work for you! Help make the program better. If you like the app please place rating or write an e-mail about all the shortcomings and deficiencies. Thank you. Developers.</string>
+	<string name="later">Later</string>
+	<string name="no_senks">No, thanks</string>
+	<string name="FatFullString">% fat</string>
+	
+	
+	<string name="statistics">إحصائيات</string>
+	<string name="Baza_d">قاعدة بيانات</string>
+	<string name="Size_baza">حجم (سجلات):</string>
+	<string name="first_write">السجل الاول</string>
+	<string name="last_write">السجل الاخير</string>
+	<string name="vsego">مجموع</string>
+	<string name="Largest">أعلى</string>
+	<string name="Smolest">أدنى</string>
+	<string name="Last">آخر</string>
+	<string name="days">أيام</string>	
+	
+	
+	
+</resources>

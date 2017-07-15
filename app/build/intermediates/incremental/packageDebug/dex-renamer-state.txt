@@ -1,0 +1,7 @@
+#Sat Jul 15 12:38:40 CLT 2017
+base.0=C\:\\DSD\\temp\\WeightManager79AS\\WeightManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_27742fdb7fce671233d5f7d194fbe3b2f76aa8f1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\DSD\\temp\\WeightManager79AS\\WeightManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_19e16b1a3bb6f4b8b1f6c4564041abf060b0c7a6\\classes.dex
+base.1=C\:\\DSD\\temp\\WeightManager79AS\\WeightManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_19e16b1a3bb6f4b8b1f6c4564041abf060b0c7a6
+file.0=C\:\\DSD\\temp\\WeightManager79AS\\WeightManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_27742fdb7fce671233d5f7d194fbe3b2f76aa8f1\\classes.dex

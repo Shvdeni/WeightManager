@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\DSD\temp\WeightManager79AS\WeightManager\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\DSD\temp\WeightManager79AS\WeightManager\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_27742fdb7fce671233d5f7d194fbe3b2f76aa8f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\DSD\temp\WeightManager79AS\WeightManager\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd0b91b856b028a4e37f1291b1d00c7bb481f422">
+        <dex dex="C:\DSD\temp\WeightManager79AS\WeightManager\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_19e16b1a3bb6f4b8b1f6c4564041abf060b0c7a6\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,430 @@
+[
+    {
+        "outputFile": "C:\\DSD\\temp\\WeightManager79AS\\WeightManager\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-small-v4\\values-small-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 40,
+                    "endOffset": 91
+                },
+                "from": {
+                    "file": "C:\\DSD\\temp\\WeightManager79AS\\WeightManager\\app\\src\\main\\res\\values-small\\dimen.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 147,
+                        "endColumn": 36,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 96,
+                    "endColumn": 43,
+                    "endOffset": 135
+                },
+                "from": {
+                    "file": "C:\\DSD\\temp\\WeightManager79AS\\WeightManager\\app\\src\\main\\res\\values-small\\dimen.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 185,
+                        "endColumn": 39,
+                        "endOffset": 224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 140,
+                    "endColumn": 43,
+                    "endOffset": 179
+                },
+                "from": {
+                    "file": "C:\\DSD\\temp\\WeightManager79AS\\WeightManager\\app\\src\\main\\res\\values-small\\dimen.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 226,
+                        "endColumn": 39,
+                        "endOffset": 265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 184,
+                    "endColumn": 47,
+                    "endOffset": 227
+                },
+                "from": {
+                    "file": "C:\\DSD\\temp\\WeightManager79AS\\WeightManager\\app\\src\\main\\res\\values-small\\dimen.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 271,
+                        "endColumn": 43,
+                        "endOffset": 314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 232,
+                    "endColumn": 47,
+                    "endOffset": 275
+                },
+                "from": {
+                    "file": "C:\\DSD\\temp\\WeightManager79AS\\WeightManager\\app\\src\\main\\res\\values-small\\dimen.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 318,
+                        "endColumn": 43,
+                        "endOffset": 361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 280,
+                    "endColumn": 52,
+                    "endOffset": 328
+                },
+                "from": {
+                    "file": "C:\\DSD\\temp\\WeightManager79AS\\WeightManager\\app\\src\\main\\res\\values-small\\dimen.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 363,
+                        "endColumn": 48,
+                        "endOffset": 411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 333,
+                    "endColumn": 52,
+                    "endOffset": 381
+                },
+                "from": {
+                    "file": "C:\\DSD\\temp\\WeightManager79AS\\WeightManager\\app\\src\\main\\res\\values-small\\dimen.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 413,
+                        "endColumn": 48,
+                        "endOffset": 461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 386,
+                    "endColumn": 50,
+                    "endOffset": 432
+                },
+                "from": {
+                    "file": "C:\\DSD\\temp\\WeightManager79AS\\WeightManager\\app\\src\\main\\res\\values-small\\dimen.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 465,
+                        "endColumn": 46,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 437,
+                    "endColumn": 40,
+                    "endOffset": 473
+                },
+                "from": {
+                    "file": "C:\\DSD\\temp\\WeightManager79AS\\WeightManager\\app\\src\\main\\res\\values-small\\dimen.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 0,
+                        "startOffset": 515,
+                        "endColumn": 36,
+                        "endOffset": 551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 478,
+                    "endColumn": 48,
+                    "endOffset": 522
+                },
+                "from": {
+                    "file": "C:\\DSD\\temp\\WeightManager79AS\\WeightManager\\app\\src\\main\\res\\values-small\\dimen.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 99,
+                        "endColumn": 44,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 527,
+                    "endColumn": 44,
+                    "endOffset": 567
+                },
+                "from": {
+                    "file": "C:\\DSD\\temp\\WeightManager79AS\\WeightManager\\app\\src\\main\\res\\values-small\\dimen.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 57,
+                        "endColumn": 40,
+                        "endOffset": 97
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-small-v4\\values-small-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 40,
+                    "endOffset": 91
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-small\\dimen.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 147,
+                        "endColumn": 36,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 96,
+                    "endColumn": 43,
+                    "endOffset": 135
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-small\\dimen.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 185,
+                        "endColumn": 39,
+                        "endOffset": 224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 140,
+                    "endColumn": 43,
+                    "endOffset": 179
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-small\\dimen.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 226,
+                        "endColumn": 39,
+                        "endOffset": 265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 184,
+                    "endColumn": 47,
+                    "endOffset": 227
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-small\\dimen.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 271,
+                        "endColumn": 43,
+                        "endOffset": 314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 232,
+                    "endColumn": 47,
+                    "endOffset": 275
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-small\\dimen.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 318,
+                        "endColumn": 43,
+                        "endOffset": 361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 280,
+                    "endColumn": 52,
+                    "endOffset": 328
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-small\\dimen.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 363,
+                        "endColumn": 48,
+                        "endOffset": 411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 333,
+                    "endColumn": 52,
+                    "endOffset": 381
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-small\\dimen.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 413,
+                        "endColumn": 48,
+                        "endOffset": 461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 386,
+                    "endColumn": 50,
+                    "endOffset": 432
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-small\\dimen.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 465,
+                        "endColumn": 46,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 437,
+                    "endColumn": 40,
+                    "endOffset": 473
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-small\\dimen.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 0,
+                        "startOffset": 515,
+                        "endColumn": 36,
+                        "endOffset": 551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 478,
+                    "endColumn": 48,
+                    "endOffset": 522
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-small\\dimen.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 99,
+                        "endColumn": 44,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 527,
+                    "endColumn": 44,
+                    "endOffset": 567
+                },
+                "from": {
+                    "file": "C:\\Users\\Programmer6\\AndroidStudioProjects\\WeightManager\\app\\src\\main\\res\\values-small\\dimen.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 57,
+                        "endColumn": 40,
+                        "endOffset": 97
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">Ημερολόγιο βάρος</string>
+  <string name="chart_no_data">Δεν υπάρχουν στοιχεία για το γράφημα</string>
+  <string name="summary_average">Μέσος όρος</string>
+  <string name="config_general_target">Σχέδιο</string>
+  <string name="currentTimeTextViewText">Ώρα</string>
+  <string name="nextAlarmString">Το ακόλουθο υπενθύμιση:</string>
+  <string name="noAlarmString">Υπενθύμιση.</string>
+  <string name="alarm_service_started">Υπενθύμιση</string>
+  <string name="target_weight">Προγραμματισμένες βάρος</string>
+  <string name="target_waist_size">Προγραμματισμένες το μέγεθος της μέσης</string>
+  <string name="please_provide_target_weight">Παρακαλώ εισάγετε το προβλεπόμενο βάρος</string>
+  <string name="please_provide_target_waist_size">Παρακαλώ εισάγετε την ποσότητα της μέσης</string>
+  <string name="Weight">Βάρος</string>
+  <string name="Waist_size">Μέση</string>
+  <string name="pound_short">Λίρα</string>
+  <string name="pound">Λίρα</string>
+  <string name="kilogram_short">Kg</string>
+  <string name="kilogram">χιλιόγραμμο</string>
+  <string name="centimetre_short">Cm</string>
+  <string name="centimetre">Εκατοστόμετρο</string>
+  <string name="inch">Ίντσα</string>
+  <string name="weight_unit">Μία μονάδα βάρους.</string>
+  <string name="Select_unit_of_weight">Επιλέξτε μια μονάδα του βάρους.</string>
+  <string name="length_unit">Μονάδα μήκους.</string>
+  <string name="Select_unit_of_length">Επιλέξτε μια μονάδα μήκους.</string>
+  <string name="tendency">Τάση:</string>
+  <string name="Attention">Προσοχή.</string>
+  <string name="Data_on_this_date_already_exist">Τα στοιχεία σχετικά με την ημερομηνία που έχει ήδη συμφωνηθεί.</string>
+  <string name="Edit">Επεξεργασία</string>
+  <string name="Delete">Κατάργηση</string>
+  <string name="weight_manager">Διευθυντής Βάρος</string>
+  <string name="inch_short">Ίντσα</string>
+  <string name="Week">Εβδομάδα</string>
+  <string name="Month">Μήνες.</string>
+  <string name="Month3">3 μήνες.</string>
+  <string name="Month6">6 μήνες.</string>
+  <string name="Year">Έτος</string>
+  <string name="Optoins">Ρυθμίσεις</string>
+  <string name="quit">Παραγωγή</string>
+  <string name="quit_mesage">Θέλετε πραγματικά να σταματήσουν το κάπνισμα;</string>
+  <string name="quit_feedback">Παρακαλώ αφήστε τα σχόλιά σας.</string>
+  <string name="quit_feedback_title">Βελτίωση του προγράμματος</string>
+  <string name="feedback">Αναθεώρηση</string>
+  <string name="Cancel">Ακύρωση</string>
+  <string name="BMI">ΔΜΣ</string>
+  <string name="BMR">BSM</string>
+  <string name="user_info">Πληροφορίες χρήστη</string>
+  <string name="sex">Παύλος</string>
+  <string name="heigh">Ανάπτυξη</string>
+  <string name="male">άρρεν</string>
+  <string name="female">θηλυκός</string>
+  <string name="animation">Εμψύχωση</string>
+  <string name="ChekBoxAnimation">Ξεκινήστε animation</string>
+  <string name="age">Ηλικία</string>
+  <string name="NoData">δεν υπάρχουν στοιχεία</string>
+  <string name="helpBMI">ΔΜΣ (Δείκτης Μάζας Σώματος) είναι η εκτίμηση του σωματικού λίπους με βάση το ύψος και το βάρος τα στοιχεία, και ισχύει τόσο για τους άνδρες και τις γυναίκες ηλικίας 18 έως 65 ετών. ΔΜΣ βοηθά στο να καθοριστεί ανεπαρκείς, κανονικά, το υπερβολικό βάρος και την παχυσαρκία. Ένα υγιές ΔΜΣ είναι μεταξύ 20 - 25. Mark κάτω από 20 μπορεί να υποδεικνύει λιποβαρή, πάνω από 25 δείχνει ότι μπορεί να είναι υπέρβαροι. Παρακαλώ σημειώστε ότι αυτό είναι μόνο ένα από τα πολλά πιθανούς τρόπους για να αξιολογήσει το βάρος σας. Αν έχετε οποιεσδήποτε ερωτήσεις σχετικά με το βάρος σας, τη διεύθυνση του προσώπου που θα είναι σε θέση να εκτιμήσει με ακρίβεια την κατάσταση που βασίζεται στην εντατική ατομικά χαρακτηριστικά του σώματός σας. \ N \ n ΔΜΣ μικρότερο από 18,5 λιποβαρή = * \ n ΔΜΣ 18,5 έως 24,9 = κανονικό βάρος \ n ΔΜΣ = 25,0 - 29,9 βάρος \ n ΔΜΣ 30,0 και πάνω παχύσαρκος = \ n \ n \ n * - ". underweight" υπάρχει μια σύγκρουση που σχετίζονται με τον δείκτη Οι μελέτες δείχνουν ότι η χαμηλή ΔΜΣ είναι ένας παράγοντας κινδύνου για την υγεία. Σε αυτή την περίπτωση, αν δεν ληφθούν υπόψη τα άτομα με χαμηλό ΔΜΣ σχετίζεται με σοβαρές και χρόνιες ασθένειες, το ποσοστό των "underweight" δεν μπορεί να yavlyatsya παράγοντα κινδύνου, με την προϋπόθεση ότι είναι υγιείς και σε καλή φυσική κατάσταση.</string>
+  <string name="BMIFullString">Ο δείκτης μάζας σώματος (ΔΜΣ)</string>
+  <string name="BRMFullString">Βασικός Μεταβολικός Ρυθμός (BMR)</string>
+  <string name="helpBRM">Μπορείτε περνούν συνεχώς ενέργεια, ανεξάρτητα από το επίπεδο δραστηριότητάς σας, ακόμα και όταν κοιμάστε. Αυτός ο υπολογιστής θα σας βοηθήσει να υπολογίζεται ο δείκτης BMR σας (βασικό μεταβολικό ρυθμό), ο αριθμός των θερμίδων που θα έχουν περάσει, ενώ στο κρεβάτι όλη την ημέρα. Εάν παρατηρήσετε ότι όσο μεγαλώνεις, τόσο πιο δύσκολο είναι ό, τι θέλετε και να μείνετε σε φόρμα, πρέπει να ξέρετε ότι με την ηλικία, το BCM μειώνεται. BSM επίσης μειώνεται όταν εσείς οι ίδιοι να περιορίσουν τα τρόφιμα, ελπίζοντας για το βάρος ΜΕΝΕ, έτσι το σώμα προσαρμόζεται στις νέες συνθήκες. Ενώ όλα αυτά τα χρόνια, την ικανότητα του σώματός σας να κάψει θερμίδες μειώνεται, η τακτική άσκηση μπορεί να αυξήσει BMR σας, είχε μια θετική επίδραση στην φυσική σας κατάσταση.</string>
+  <string name="underweight">λιποβαρής</string>
+  <string name="normal">φυσιολογικού βάρους</string>
+  <string name="overweight">το υπερβολικό βάρος</string>
+  <string name="obese">παχυσαρκία</string>
+  <string name="monday">Δευτέρα</string>
+  <string name="sunday">Κυριακή</string>
+  <string name="FirstDayOfWeek">Η πρώτη ημέρα της εβδομάδας</string>
+  <string name="ProvideFirstDayOfWeek">Εισάγετε την πρώτη ημέρα της εβδομάδας</string>
+  <string name="security">Ασφάλεια</string>
+  <string name="password">Κωδικός</string>
+  <string name="EnterPassword">Εισάγετε τον κωδικό πρόσβασης</string>
+  <string name="passwords_do_not_match">Οι κωδικοί πρόσβασης δεν ταιριάζουν</string>
+  <string name="confirm_password">Επαναλάβετε τον κωδικό πρόσβασης</string>
+  <string name="overshoot">Υπέρβαση</string>
+  <string name="bounce">Πήδημα</string>
+  <string name="anticipate_overshoot">Προβλέψτε / Υπέρβαση</string>
+  <string name="type_of_animation">Τύπος των κινουμένων σχεδίων</string>
+  <string name="interpolatorList">Λίστα</string>
+  <string name="chest">Στήθος</string>
+  <string name="hip">Hips</string>
+  <string name="data_is_saved">Τα δεδομένα αποθηκεύονται.</string>
+  <string name="save_database">Κρατήστε τη βάση</string>
+  <string name="delete_all">Αφαιρέστε όλα</string>
+  <string name="im_port">Εισαγωγές</string>
+  <string name="done_writing_sd">Εγγραφή σε SD ολοκληρωθεί</string>
+  <string name="all_data_deleted">Όλα τα δεδομένα που αφαιρούνται</string>
+  <string name="delete_all_data">Είστε σίγουροι ότι θέλετε να διαγράψετε όλα τα δεδομένα;</string>
+  <string name="select_import_file">Το αρχείο εισαγωγής</string>
+  <string name="lines_imported">Εγγραφές που εισάγονται:</string>
+  <string name="target_chest">Η προβλεπόμενη μέγεθος του στήθους</string>
+  <string name="please_provide_target_chest">Παρακαλώ εισάγετε την προγραμματισμένη μέγεθος του στήθους</string>
+  <string name="target_hip">Η προγραμματισμένη μέγεθος των γοφών</string>
+  <string name="please_provide_target_hip">Παρακαλώ εισάγετε την ποσότητα του ισχίου</string>
+  <string name="years">χρόνια</string>
+  <string name="weight_diary_plus">Ημερολόγιο βάρος Plus</string>
+  
+  	<string name="lang_titl">Language(γλώσσα)</string>
+	<string name="lang_defolt">Default(από προεπιλογή)</string>
+  
+  
+	<string name="MM_DD_YYYY">MM/DD/YYYY</string>
+	<string name="DD_MM_YYYY">DD/MM/YYYY</string>
+	<string name="YYYY_MM_DD">YYYY/MM/DD</string>
+	<string name="date_format">Date format</string>
+	<string name="need_restart">You need to restart app</string>
+	<string name="share">Share</string>
+    
+	<string name="proc_fat">% fat</string>
+	<string name="neck">Neck</string>
+	<string name="helpFAT">Λίπος στο σώμα είναι η πιο ακριβής μέτρηση της προόδου στη διατροφή και την άσκηση.
+			\n Το επίπεδο λίπους στο σώμα μιας γυναίκας:
+			\n Essential λίπος 10-12 \u0025
+			\n αθλητές 14-20 \u0025
+			\n Fitness 21-24 \u0025
+			\n Αποδεκτή 25-31 \u0025
+			\n παχύσαρκα ≥ 32 \u0025
+			\n
+			\n Το επίπεδο λίπους στον άνδρα:
+			\n Essential λίπος 2-4 \u0025
+			\n αθλητές 6-13 \u0025
+			\n Fitness 14-17 \u0025
+			\n Αποδεκτή 18-25 \u0025
+			\n παχύσαρκα ≥ 26 \u0025
+
+	</string>
+
+	<string name="FeedBackText">Γεια σας! Δουλεύουμε για σας! Βοηθήστε να βελτιώσουμε το πρόγραμμα. Αν σας αρέσει το app παρακαλώ βαθμολογία τόπο ή να συντάξετε ένα e-mail για όλες τις αδυναμίες και ελλείψεις. Σας ευχαριστώ. Developers.</string>
+	<string name="later">αργότερα</string>
+	<string name="no_senks">Όχι, ευχαριστώ</string>
+	<string name="FatFullString">% λίπος</string>	
+	
+	<string name="statistics">στατιστική</string>
+	<string name="Baza_d">βάση δεδομένων.</string>
+	<string name="Size_baza">Μέγεθος (εγγραφές):</string>
+	<string name="first_write">πρώτη εγγραφή</string>
+	<string name="last_write">Τελευταία εγγραφή</string>
+	<string name="vsego">σύνολο</string>
+	<string name="Largest">Υψηλότερη</string>
+	<string name="Smolest">Χαμηλότερη</string>
+	<string name="Last">τελευταίος</string>
+	<string name="days">ημέρες</string>	
+	
+	
+	
+</resources>

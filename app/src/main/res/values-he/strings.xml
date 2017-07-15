@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">משקל יומן</string>
+  <string name="chart_no_data">אין נתונים עבור התרשים</string>
+  <string name="summary_average">הממוצע</string>
+  <string name="config_general_target">תכנית</string>
+  <string name="currentTimeTextViewText">זמן</string>
+  <string name="nextAlarmString">התזכורת הבאה:</string>
+  <string name="noAlarmString">תזכורת.</string>
+  <string name="alarm_service_started">תזכורת</string>
+  <string name="target_weight">משקל מתוכנן</string>
+  <string name="target_waist_size">היקף מותנים מתוכנן</string>
+  <string name="please_provide_target_weight">אנא הכנס את המשקל המתוכנן</string>
+  <string name="please_provide_target_waist_size">הזן את הסכום המתוכנן של מותנים</string>
+  <string name="Weight">משקל</string>
+  <string name="Waist_size">מותנים</string>
+  <string name="pound_short">לירה</string>
+  <string name="pound">לירה</string>
+  <string name="kilogram_short">ק"ג</string>
+  <string name="kilogram">ק"ג</string>
+  <string name="centimetre_short">סנטימטר</string>
+  <string name="centimetre">סנטימטר</string>
+  <string name="inch">אינטש</string>
+  <string name="weight_unit">יחידת המשקל.</string>
+  <string name="Select_unit_of_weight">בחר יחידת המשקל.</string>
+  <string name="length_unit">יחידת אורך.</string>
+  <string name="Select_unit_of_length">בחר יחידת האורך.</string>
+  <string name="tendency">מגמה:</string>
+  <string name="Attention">תשומת לב.</string>
+  <string name="Data_on_this_date_already_exist">הנתונים על תאריך זה כבר נכנסו.</string>
+  <string name="Edit">לערוך</string>
+  <string name="Delete">להסיר</string>
+  <string name="weight_manager">מנהל משקל</string>
+  <string name="inch_short">אינטש</string>
+  <string name="Week">שבוע</string>
+  <string name="Month">חודשים.</string>
+  <string name="Month3">3 חודשים.</string>
+  <string name="Month6">6 חודשים.</string>
+  <string name="Year">שנה</string>
+  <string name="Optoins">הגדרות</string>
+  <string name="quit">פלט</string>
+  <string name="quit_mesage">האם אתה באמת רוצה לפרוש?</string>
+  <string name="quit_feedback">נא להשאיר את המשוב שלך.</string>
+  <string name="quit_feedback_title">שפר את התכנית</string>
+  <string name="feedback">סקירה</string>
+  <string name="Cancel">ביטול</string>
+  <string name="BMI">BMI</string>
+  <string name="BMR">BSM</string>
+  <string name="user_info">מידע למשתמש</string>
+  <string name="sex">פול</string>
+  <string name="heigh">צמיחה</string>
+  <string name="male">זכר</string>
+  <string name="female">נקבה</string>
+  <string name="animation">הנפשה</string>
+  <string name="ChekBoxAnimation">התחל אנימציה</string>
+  <string name="age">גיל</string>
+  <string name="NoData">אין נתונים</string>
+  <string name="helpBMI">BMI (אינדקס מסת גוף) הוא ההערכה של כמות שומן בגוף על בסיס גובה ומשקל דמויות, והוא חל על גברים ונשים בגילי 18 עד 65 שנים. BMI מסייע לקבוע, סובל מעודף משקל והשמנת יתר לקוי, נורמלית. BMI בריא הוא בין 20 - 25. מארק מתחת ל -20 עשוי להצביע על תת משקל, מעל 25 מצביע על כך שייתכן שסובלים מעודף משקל. שים לב שזו רק אחת מדרכים אפשריות רבות להערכת המשקל שלך. אם יש לך שאלות שקשורות למשקל שלך, הכתובת של אדם שיוכל במדויק כדי להעריך את המצב על סמך מאפיינים אישיים אינטנסיביים של הגוף שלך. \ N \ n-BMI פחות מ 18.5 = תת משקל * \ n BMI של 18.5-24.9 = משקל תקין \ n BMI = 25.0-29.9 משקל \ n-BMI של 30.0 ומעלה = שמן \ N \ n \ n * - ". תת המשקל" יש קונפליקט הקשור למחוון מחקרים מראים כי BMI הנמוך מהווה גורם סיכון לבריאות. במקרה זה, אם אתה לא לוקח בחשבון שאנשים עם BMI נמוך קשור במחלות קשות וכרוניות, השיעור של "תת משקל" לא יכול גורם סיכון yavlyatsya, בתנאי שאתה בריא ובכושר גופני טוב.</string>
+  <string name="BMIFullString">מדד מסת גוף (BMI)</string>
+  <string name="BRMFullString">קצב חילוף חומרים בסיסי (BMR)</string>
+  <string name="helpBRM">אתה מוציא אנרגיה ברציפות, ללא קשר לרמת הפעילות שלך, גם כשאתה ישן. מחשבון זה יעזור לך לחשב את המדד שלך BMR (קצב חילוף חומרים בסיסיים), את מספר הקלוריות שהיית מבלה בזמן במיטה כל היום. אם אתה שם לב שככל שאתה מתבגר, כך קשה יותר הוא מה שאתה רוצה ולהישאר בכושר, עליך לדעת שעם גיל, BCM מצטמצם. BSM גם הפחית כשאתה מגביל את עצמך לאוכל, בתקווה למשקל PONV, ובכך הגוף מסתגל לתנאים החדשים. אמנם במשך השנים, היכולת של הגוף לשרוף קלוריות פוחתת, פעילות גופנית סדירה יכולה להגדיל BMR שלך, היה לו השפעה חיובית על המצב הפיזי שלך.</string>
+  <string name="underweight">תת משקל</string>
+  <string name="normal">משקל תקין</string>
+  <string name="overweight">משקל עודף</string>
+  <string name="obese">השמנה</string>
+  <string name="monday">יום שני</string>
+  <string name="sunday">יום ראשון</string>
+  <string name="FirstDayOfWeek">היום הראשון בשבוע</string>
+  <string name="ProvideFirstDayOfWeek">הזן את היום הראשון בשבוע</string>
+  <string name="security">בטיחות</string>
+  <string name="password">סיסמא</string>
+  <string name="EnterPassword">הזן את הסיסמה</string>
+  <string name="passwords_do_not_match">סיסמא לא מתאימה</string>
+  <string name="confirm_password">חזור על סיסמא</string>
+  <string name="overshoot">להחטיא את המטרה</string>
+  <string name="bounce">לנתר</string>
+  <string name="anticipate_overshoot">/ להחטיא צופים</string>
+  <string name="type_of_animation">סוג של אנימציה</string>
+  <string name="interpolatorList">רשימה</string>
+  <string name="chest">חזה</string>
+  <string name="hip">מתנים</string>
+  <string name="data_is_saved">נתונים נשמרים.</string>
+  <string name="save_database">לשמור על הבסיס</string>
+  <string name="delete_all">הסר את כל</string>
+  <string name="im_port">יבוא</string>
+  <string name="done_writing_sd">ההקלטה ל SD השלימה</string>
+  <string name="all_data_deleted">כל הנתונים יוסרו</string>
+  <string name="delete_all_data">האם אתה באמת רוצה למחוק את כל הנתונים?</string>
+  <string name="select_import_file">קובץ היבוא</string>
+  <string name="lines_imported">רשומות מיובאות:</string>
+  <string name="target_chest">הגודל צפוי של השד</string>
+  <string name="please_provide_target_chest">אנא הכנס את הגודל המתוכנן של השד</string>
+  <string name="target_hip">הגודל מתוכנן של הירכיים</string>
+  <string name="please_provide_target_hip">הזן את הסכום המתוכנן של ירך</string>
+  <string name="years">שנים</string>
+  <string name="weight_diary_plus">יומן פלוס משקל</string>
+  
+  	<string name="lang_titl">Language(שפה)</string>
+	<string name="lang_defolt">Default(כברירת מחדל)</string>
+	
+	
+	<string name="MM_DD_YYYY">MM/DD/YYYY</string>
+	<string name="DD_MM_YYYY">DD/MM/YYYY</string>
+	<string name="YYYY_MM_DD">YYYY/MM/DD</string>
+	<string name="date_format">Date format</string>
+	<string name="need_restart">You need to restart app</string>
+	<string name="share">Share</string>
+    
+	<string name="proc_fat">% fat</string>
+	<string name="neck">Neck</string>
+	<string name="helpFAT">Fat in the body is the most accurate measure of progress in diet and exercise.
+				\n	The level of fat in the body of a woman:
+				\n  Essential fat 10-12\u0025
+				\n  Athletes      14-20\u0025
+				\n  Fitness       21-24\u0025
+				\n  Acceptable    25-31\u0025 
+				\n  Obese         ≥ 32\u0025 
+				\n
+				\n  The level of fat in the male:
+				\n  Essential fat 2-4\u0025
+				\n  Athletes       6-13\u0025
+				\n  Fitness        14-17\u0025
+				\n  Acceptable     18-25\u0025
+				\n  Obese          ≥ 26\u0025
+
+	</string>
+
+	<string name="FeedBackText">Hello! We work for you! Help make the program better. If you like the app please place rating or write an e-mail about all the shortcomings and deficiencies. Thank you. Developers.</string>
+	<string name="later">Later</string>
+	<string name="no_senks">No, thanks</string>
+	<string name="FatFullString">% fat</string>	
+	
+	
+	<string name="statistics">סטטיסטיקה</string>
+	<string name="Baza_d">מסד הנתונים.</string>
+	<string name="Size_baza">גודל (רשומות):</string>
+	<string name="first_write">רשומה ראשונה</string>
+	<string name="last_write">הרשומה אחרונה</string>
+	<string name="vsego">סך הכל</string>
+	<string name="Largest">הגבוה ביותר</string>
+	<string name="Smolest">הנמוך ביותר</string>
+	<string name="Last">אחרון</string>
+	<string name="days">ימים</string>	
+	
+	
+</resources>

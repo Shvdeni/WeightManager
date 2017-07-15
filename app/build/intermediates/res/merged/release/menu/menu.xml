@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/weight_diary_plus" android:title="@string/weight_diary_plus" android:icon="@drawable/weight_diary_plus"></item>
+   	<item android:id="@+id/feedback" android:title="@string/feedback" android:icon="@drawable/feedback"></item>
+    <item android:id="@+id/options" android:title="@string/Optoins" android:icon="@drawable/tools"/>
+    <item android:id="@+id/statistics" android:title="@string/statistics" android:icon="@drawable/statistics"></item>
+
+
+
+
+</menu>

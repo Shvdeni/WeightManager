@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+  <EditTextPreference android:title="@string/target_weight"
+                      android:key="targetWeight" 
+                      android:summary="@string/please_provide_target_weight"
+				      android:inputType="number"
+      				  android:numeric="decimal"
+      				  android:maxLength="5"
+					  android:defaultValue="0"
+                      ></EditTextPreference>
+  
+  <EditTextPreference android:title="@string/target_waist_size"
+                      android:key="targetWaistSize" 
+                      android:summary="@string/please_provide_target_waist_size"
+				      android:inputType="number"
+
+      				  android:maxLength="5"
+					  android:defaultValue="0"
+                      ></EditTextPreference>
+  
+  <EditTextPreference android:title="@string/target_chest"
+                      android:key="targetchest" 
+                      android:summary="@string/please_provide_target_chest"
+				      android:inputType="number"
+
+      				  android:maxLength="5"
+					  android:defaultValue="0"
+                      ></EditTextPreference>  
+                      
+    <EditTextPreference android:title="@string/target_hip"
+                      android:key="targethip" 
+                      android:summary="@string/please_provide_target_hip"
+				      android:inputType="number"
+
+      				  android:maxLength="5"
+					  android:defaultValue="0"
+                      ></EditTextPreference>  
+  
+  <ListPreference     android:title="@string/weight_unit"
+                      android:summary="@string/Select_unit_of_weight"
+                      android:key="weightUnit"
+                      android:entryValues="@array/weightUnitValues"
+                      android:entries="@array/weightUnitEntries"
+                      />
+  
+  <ListPreference     android:title="@string/length_unit"
+                      android:summary="@string/Select_unit_of_length"
+                      android:key="lengthUnit"
+                      
+                      android:entries="@array/lengthUnitEntries"
+                      android:entryValues="@array/lengthUnitValues" />
+  
+
+  <ListPreference     android:title="@string/date_format"
+                      android:key="DateFormat"
+                      
+                      android:entries="@array/DateFormatEntries"
+                      android:entryValues="@array/DateFormatValues"
+                      android:defaultValue="1" />  
+  
+ <!--  
+    <ListPreference android:title="@string/lang_titl"
+      			  android:entries="@array/langListEntris"
+      			  android:entryValues="@array/langListValues"
+      			  android:defaultValue="defolt"
+      			  android:key="Lang"/>
+  --> 
+  
+  <PreferenceCategory android:title="@string/user_info">
+      
+  <ListPreference android:title="@string/sex"
+      			  android:entries="@array/sexListEntries"
+      			  android:entryValues="@array/sexListValues"
+      			  android:defaultValue="1"
+      			  android:key="Gender"/>
+  
+  <EditTextPreference android:title="@string/heigh"
+   				      android:inputType="numberDecimal"
+      				  android:maxLength="5"
+					  android:defaultValue="0" android:key="heigh"/>
+  <EditTextPreference android:key="age"
+				      android:title="@string/age"
+      				  android:defaultValue="0"
+         			  android:inputType="number"
+      				  android:maxLength="2"/>
+  
+  </PreferenceCategory>
+  <PreferenceCategory android:title="@string/animation">
+      <CheckBoxPreference android:title="@string/ChekBoxAnimation"
+          				  android:key="animation" android:defaultValue="1"/>
+      
+      <ListPreference android:key="interpolator"
+          		      android:title="@string/type_of_animation"
+          		      android:entryValues="@array/interpolatorList"
+          		      android:entries="@array/interpolatorListEntris"
+          		      android:defaultValue="1"
+          		      android:dependency="animation"/>
+
+  </PreferenceCategory>
+      <PreferenceCategory android:title="@string/security">
+          <CheckBoxPreference android:key="Password"
+              				  android:title="@string/password"/>
+          <Preference android:key="EnterPassword"
+              		  android:title="@string/EnterPassword"
+              		  android:dependency="Password"/>
+      </PreferenceCategory>
+      <Preference android:key="ver"/>  
+      
+  
+  
+</PreferenceScreen>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">Jurnal greutate</string>
+  <string name="chart_no_data">Nu există date pentru diagramă</string>
+  <string name="summary_average">Mediu</string>
+  <string name="config_general_target">Plan</string>
+  <string name="currentTimeTextViewText">Timp</string>
+  <string name="nextAlarmString">Următorul memento:</string>
+  <string name="noAlarmString">Memento.</string>
+  <string name="alarm_service_started">Memento</string>
+  <string name="target_weight">Planificate în greutate</string>
+  <string name="target_waist_size">Planificată talie dimensiune</string>
+  <string name="please_provide_target_weight">Vă rugăm să introduceți greutatea planificată</string>
+  <string name="please_provide_target_waist_size">Vă rugăm să introduceți cantitatea planificată de talie</string>
+  <string name="Weight">Greutate</string>
+  <string name="Waist_size">Talie</string>
+  <string name="pound_short">Liră</string>
+  <string name="pound">Liră</string>
+  <string name="kilogram_short">Kg</string>
+  <string name="kilogram">kilogram</string>
+  <string name="centimetre_short">Cm</string>
+  <string name="centimetre">Centimetru</string>
+  <string name="inch">Inch</string>
+  <string name="weight_unit">O unitate de greutate.</string>
+  <string name="Select_unit_of_weight">Selectați o unitate de greutate.</string>
+  <string name="length_unit">Unitatea de lungime.</string>
+  <string name="Select_unit_of_length">Selectați o unitate de lungime.</string>
+  <string name="tendency">Trend:</string>
+  <string name="Attention">Atenție.</string>
+  <string name="Data_on_this_date_already_exist">Datele la acea dată deja introduse.</string>
+  <string name="Edit">Edita</string>
+  <string name="Delete">Scoate</string>
+  <string name="weight_manager">Greutate cu managerul</string>
+  <string name="inch_short">Inch</string>
+  <string name="Week">Săptămână</string>
+  <string name="Month">Lună.</string>
+  <string name="Month3">3 luni.</string>
+  <string name="Month6">6 luni.</string>
+  <string name="Year">An</string>
+  <string name="Optoins">Setări</string>
+  <string name="quit">Producție</string>
+  <string name="quit_mesage">Chiar vrei să renunți?</string>
+  <string name="quit_feedback">Vă rugăm să lăsați feedback-ul dvs..</string>
+  <string name="quit_feedback_title">Îmbunătățirea programului</string>
+  <string name="feedback">Revizuire</string>
+  <string name="Cancel">Anulare</string>
+  <string name="BMI">IMC</string>
+  <string name="BMR">BSM</string>
+  <string name="user_info">Informatii despre utilizator</string>
+  <string name="sex">Paul</string>
+  <string name="heigh">Creștere</string>
+  <string name="male">bărbat</string>
+  <string name="female">femeie</string>
+  <string name="animation">Animație</string>
+  <string name="ChekBoxAnimation">Start animație</string>
+  <string name="age">Vârstă</string>
+  <string name="NoData">nu există date</string>
+  <string name="helpBMI">IMC (Body Mass Index) este estimarea de grasime corporala bazata pe inaltime si greutate cifre, și se aplică atât bărbaților, cât și femeilor in varsta de 18 si 65 de ani. IMC ajută la stabilirea inadecvate, normale, excesul de greutate și obezitatea. Un IMC sanatos este cuprinsă între 20 - 25. Marcu mai mic de 20 poate indica subponderali, peste 25 indică faptul că s-ar putea sa fie supraponderali. Vă rugăm să rețineți că aceasta este doar una dintre mai multe moduri posibile de a evalua greutatea dumneavoastră. Daca aveti intrebari legate de greutatea ta, adresa persoanei care va fi în măsură să evalueze corect situația pe baza caracteristicilor individuale intensive ale corpului dumneavoastră. \ N \ n IMC mai mic de 18.5 = subponderali * \ n IMC de 18.5 - 24.9 = greutatea normala \ n IMC = 25.0 - 29.9 greutate \ n IMC de 30.0 de mai sus și obezi = \ n \ n \ n * - ". subponderali" există un conflict legat de indicatorul Studiile arată că IMC scăzut este un factor de risc pentru sănătate. În acest caz, dacă nu se ia în considerare și persoanele cu un IMC scăzut este asociat cu boli grave și cronice, rata de "subponderali" poate nu factor de risc yavlyatsya, cu condiția ca esti sanatos si in forma fizica buna.</string>
+  <string name="BMIFullString">Indicele de masa corporala (IMC)</string>
+  <string name="BRMFullString">Rata metabolica bazala (BMR)</string>
+  <string name="helpBRM">Iti petreci energie în mod continuu, indiferent de nivelul tau de activitate, chiar și atunci când dormi. Acest calculator va ajuta să vă calcula indicele de dumneavoastră BMR (rata metabolica bazala), numărul de calorii pe care le-ar fi petrecut în timp ce în pat toată ziua. Dacă observați că mai în vârstă ai, mai greu este tot ceea ce vrei si stau in forma, trebuie să știți că, odată cu vârsta, BCM este redusă. BSM, de asemenea, redus când te limitezi la hrană, sperând pentru greutatea PONV, astfel organismul se adapteaza la noile condiții. În timp ce de-a lungul anilor, capacitatea organismului de a arde calorii scade, exercitii regulate poate crește BMR dvs., a avut un efect pozitiv asupra stării dumneavoastră fizice.</string>
+  <string name="underweight">subponderali</string>
+  <string name="normal">Greutate normală</string>
+  <string name="overweight">excesul de greutate</string>
+  <string name="obese">obezitate</string>
+  <string name="monday">Luni</string>
+  <string name="sunday">Duminică</string>
+  <string name="FirstDayOfWeek">Prima zi a săptămânii</string>
+  <string name="ProvideFirstDayOfWeek">Introduceți prima zi a săptămânii</string>
+  <string name="security">Siguranță</string>
+  <string name="password">Parolă</string>
+  <string name="EnterPassword">Introduceți parola</string>
+  <string name="passwords_do_not_match">Parolele nu se potrivesc</string>
+  <string name="confirm_password">Repetați parola</string>
+  <string name="overshoot">Depăși</string>
+  <string name="bounce">Sări</string>
+  <string name="anticipate_overshoot">Anticiparea / depășire</string>
+  <string name="type_of_animation">Tip de animație</string>
+  <string name="interpolatorList">Listă</string>
+  <string name="chest">Piept</string>
+  <string name="hip">Solduri</string>
+  <string name="data_is_saved">Datele sunt salvate.</string>
+  <string name="save_database">Păstrați de bază</string>
+  <string name="delete_all">Eliminați toate</string>
+  <string name="im_port">Importurile</string>
+  <string name="done_writing_sd">Înregistrarea la SD finalizat</string>
+  <string name="all_data_deleted">Toate datele eliminate</string>
+  <string name="delete_all_data">Chiar vrei să ștergeți toate datele?</string>
+  <string name="select_import_file">De import fișier</string>
+  <string name="lines_imported">Înregistrări importate:</string>
+  <string name="target_chest">Dimensiunea proiectat de san</string>
+  <string name="please_provide_target_chest">Vă rugăm să introduceți dimensiunea planificată de san</string>
+  <string name="target_hip">Dimensiunea planificată de solduri</string>
+  <string name="please_provide_target_hip">Vă rugăm să introduceți cantitatea planificată de șold</string>
+  <string name="years">ani</string>
+  <string name="weight_diary_plus">Jurnal Greutate Plus</string>
+  
+  	<string name="lang_titl">Language(limbă)</string>
+	<string name="lang_defolt">Default(în mod implicit)</string>
+
+	
+	<string name="MM_DD_YYYY">MM/DD/YYYY</string>
+	<string name="DD_MM_YYYY">DD/MM/YYYY</string>
+	<string name="YYYY_MM_DD">YYYY/MM/DD</string>
+	<string name="date_format">Date format</string>
+	<string name="need_restart">You need to restart app</string>
+	<string name="share">Share</string>
+	
+	<string name="proc_fat">% fat</string>
+	<string name="neck">Neck</string>
+	<string name="helpFAT">Grasime din organism este măsura cea mai exactă a progresului in dieta si exercitii fizice.
+			\n nivelul de grăsimi în organism a unei femei:
+			\n grași esențiali 10-12 \u0025
+			\n Sportivii 14-20 \u0025
+			\n Sală de 21-24 \u0025
+			\n acceptabilă 25-31 \u0025
+			\n obezi ≥ 32 \u0025
+			\n
+			\n nivelul de grăsimi din bărbați:
+			\n grași esențiali 2-4 \u0025
+			\n Sportivii 6-13 \u0025
+			\n Sală de 14-17 \u0025
+			\n acceptabilă 18-25 \u0025
+			\n obezi ≥ 26 \u0025
+
+	</string>
+
+	<string name="FeedBackText">Buna ziua! Noi lucram pentru tine! Ajuta la a face programul mai bine. Dacă vă place app vă rugăm rating de loc sau scrie un e-mail despre toate neajunsurile și deficiențele. Mulțumesc. Dezvoltatori.</string>
+	<string name="later">mai târziu</string>
+	<string name="no_senks">Nu, mulțumesc</string>
+	<string name="FatFullString">% grăsime</string>
+	
+	
+	<string name="statistics">statistică</string>
+	<string name="Baza_d">Baza de date.</string>
+	<string name="Size_baza">Dimensiuni (înregistrări):</string>
+	<string name="first_write">prima înregistrare</string>
+	<string name="last_write">Ultima înregistrare</string>
+	<string name="vsego">total</string>
+	<string name="Largest">Cea mai mare</string>
+	<string name="Smolest">Cel mai mic</string>
+	<string name="Last">trecut</string>
+	<string name="days">zi</string>	
+		
+	
+</resources>

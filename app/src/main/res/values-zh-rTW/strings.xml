@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">日記重量</string> 
+  <string name="chart_no_data">沒有數據圖表</string> 
+  <string name="summary_average">平均</string> 
+  <string name="config_general_target">計劃</string> 
+  <string name="currentTimeTextViewText">時間</string> 
+  <string name="nextAlarmString">以下提示：</string> 
+  <string name="noAlarmString">提醒。</string> 
+  <string name="alarm_service_started">提醒</string> 
+  <string name="target_weight">計劃的重</string> 
+  <string name="target_waist_size">計劃的腰圍尺寸</string> 
+  <string name="please_provide_target_weight">請輸入計劃的重</string> 
+  <string name="please_provide_target_waist_size">請輸入計劃收取的腰</string> 
+  <string name="Weight">重量</string> 
+  <string name="Waist_size">腰</string> 
+  <string name="pound_short">英鎊</string> 
+  <string name="pound">英鎊</string> 
+  <string name="kilogram_short">公斤</string> 
+  <string name="kilogram">公斤</string> 
+  <string name="centimetre_short">厘米</string> 
+  <string name="centimetre">厘米</string> 
+  <string name="inch">英寸</string> 
+  <string name="weight_unit">一個重量單位。</string> 
+  <string name="Select_unit_of_weight">選擇一個重量單位。</string> 
+  <string name="length_unit">單位長度。</string> 
+  <string name="Select_unit_of_length">選擇一種長度單位。</string> 
+  <string name="tendency">趨勢：</string> 
+  <string name="Attention">注意事項。</string> 
+  <string name="Data_on_this_date_already_exist">於該日的數據已經輸入。</string> 
+  <string name="Edit">編輯</string> 
+  <string name="Delete">清除</string> 
+  <string name="weight_manager">重量經理</string> 
+  <string name="inch_short">英寸</string> 
+  <string name="Week">週</string> 
+  <string name="Month">個月。</string> 
+  <string name="Month3">3個月。</string> 
+  <string name="Month6">6個月。</string> 
+  <string name="Year">年</string> 
+  <string name="Optoins">設置</string> 
+  <string name="quit">產量</string> 
+  <string name="quit_mesage">你真的要退出嗎？</string> 
+  <string name="quit_feedback">請留下您的反饋。</string> 
+  <string name="quit_feedback_title">改進計劃</string> 
+  <string name="feedback">查看</string> 
+  <string name="Cancel">消除</string> 
+  <string name="BMI">BMI</string> 
+  <string name="BMR">BSM</string> 
+  <string name="user_info">用戶信息</string> 
+  <string name="sex">保羅</string> 
+  <string name="heigh">發展</string> 
+  <string name="male">男</string> 
+  <string name="female">女</string> 
+  <string name="animation">動畫</string> 
+  <string name="ChekBoxAnimation">開始動畫</string> 
+  <string name="age">年齡</string> 
+  <string name="NoData">沒有數據</string> 
+  <string name="helpBMI">BMI（身體質量指數）是根據身高和體重的數字估計的身體脂肪，適用於年齡在18歲至65歲的男性和女性。 BMI可以幫助確定不足，正常，超重和肥胖。一個健康的BMI是20 - 25之間。馬克低於20表示體重過輕，高於25表明你可能是超重。請注意，這僅僅是一個許多可能的方式來評估你的體重。如果您有任何疑問，你的體重，地址的人，誰就能準確地評估情況的基礎上密集的個體特徵，你的身體。 \ n \ n BMI小於18.5 =減持* \ n體重指數為18.5至24.9 =體重正常的\ n BMI = 25.0〜29.9重量\ n BMI 30.0及以上肥胖\ n \ n \ n * - 有衝突相關的指標“減持”。研究表明，低體重指數是一個健康的危險因素。在這種情況下，如果你不考慮到人與低BMI是與嚴重的慢性疾病，“減持”的速度不能yavlyatsya的危險因素，只要你是健康的，良好的物理形狀。</string> 
+  <string name="BMIFullString">身體質量指數（BMI）</string> 
+  <string name="BRMFullString">基礎代謝率（BMR）</string> 
+  <string name="helpBRM">你花精力不斷，無論你的活躍程度，甚至你睡覺的時候。該計算器將幫助你計算你的BMR率（基礎代謝率），所消耗的卡路里，你會花整天躺在床上。如果你發現，你得到的，它是一切，你想和保持體形的困難，你要知道，隨著年齡的增長，BCM降低。 BSM也減少了，當你限制自己的食物，希望為PONV重量，身體適應新的條件。雖然這些年來，你的身體燃燒卡路里的能力下降，經常鍛煉可以增加你的BMR，對你的身體狀況有積極的影響。</string> 
+  <string name="underweight">體重過輕</string> 
+  <string name="normal">正常體重</string> 
+  <string name="overweight">多餘的體重</string> 
+  <string name="obese">肥胖</string> 
+  <string name="monday">星期一</string> 
+  <string name="sunday">星期天</string> 
+  <string name="FirstDayOfWeek">一周的第一天</string> 
+  <string name="ProvideFirstDayOfWeek">輸入的一周的第一天</string> 
+  <string name="security">安全</string> 
+  <string name="password">密碼</string> 
+  <string name="EnterPassword">輸入密碼</string> 
+  <string name="passwords_do_not_match">密碼不匹配</string> 
+  <string name="confirm_password">重複密碼</string> 
+  <string name="overshoot">過衝</string> 
+  <string name="bounce">彈跳</string> 
+  <string name="anticipate_overshoot">預計/過衝</string> 
+  <string name="type_of_animation">動畫類型</string> 
+  <string name="interpolatorList">表</string> 
+  <string name="chest">胸部</string> 
+  <string name="hip">臀圍</string> 
+  <string name="data_is_saved">數據被保存。</string> 
+  <string name="save_database">保持基</string> 
+  <string name="delete_all">刪除所有</string> 
+  <string name="im_port">進口</string> 
+  <string name="done_writing_sd">錄製到SD完成</string> 
+  <string name="all_data_deleted">刪除所有數據</string> 
+  <string name="delete_all_data">你真的要刪除所有的數據嗎？</string> 
+  <string name="select_import_file">導入文件</string> 
+  <string name="lines_imported">導入的記錄：</string> 
+  <string name="target_chest">預計乳房的大小</string> 
+  <string name="please_provide_target_chest">請輸入計劃的乳房的大小</string> 
+  <string name="target_hip">計劃的大小的臀部</string> 
+  <string name="please_provide_target_hip">請輸入計劃收取的髖部</string> 
+  <string name="years">歲月</string> 
+  <string name="weight_diary_plus">日記加重量</string> 
+  
+  	<string name="lang_titl">Language(語)</string>
+	<string name="lang_defolt">Default(默認情況下，)</string>
+    
+	<string name="MM_DD_YYYY">MM/DD/YYYY</string>
+	<string name="DD_MM_YYYY">DD/MM/YYYY</string>
+	<string name="YYYY_MM_DD">YYYY/MM/DD</string>
+	<string name="date_format">Date format</string>
+	<string name="need_restart">You need to restart app</string>
+	<string name="share">Share</string>	
+	
+	<string name="proc_fat">% fat</string>
+	<string name="neck">Neck</string>
+	<string name="helpFAT">Fat in the body is the most accurate measure of progress in diet and exercise.
+				\n	The level of fat in the body of a woman:
+				\n  Essential fat 10-12\u0025
+				\n  Athletes      14-20\u0025
+				\n  Fitness       21-24\u0025
+				\n  Acceptable    25-31\u0025 
+				\n  Obese         ≥ 32\u0025 
+				\n
+				\n  The level of fat in the male:
+				\n  Essential fat 2-4\u0025
+				\n  Athletes       6-13\u0025
+				\n  Fitness        14-17\u0025
+				\n  Acceptable     18-25\u0025
+				\n  Obese          ≥ 26\u0025
+
+	</string>
+
+	<string name="FeedBackText">Hello! We work for you! Help make the program better. If you like the app please place rating or write an e-mail about all the shortcomings and deficiencies. Thank you. Developers.</string>
+	<string name="later">Later</string>
+	<string name="no_senks">No, thanks</string>
+	<string name="FatFullString">% fat</string>
+	
+	
+	<string name="statistics">統計</string>
+	<string name="Baza_d">數據庫.</string>
+	<string name="Size_baza">尺寸（記錄）：</string>
+	<string name="first_write">第一條記錄</string>
+	<string name="last_write">最後一個記錄</string>
+	<string name="vsego">總</string>
+	<string name="Largest">最高</string>
+	<string name="Smolest">最低</string>
+	<string name="Last">最後</string>
+	<string name="days">天</string>		
+		
+	
+</resources>

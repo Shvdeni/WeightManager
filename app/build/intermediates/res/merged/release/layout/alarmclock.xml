@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg_800"
+    android:orientation="vertical" >
+
+    
+    
+    
+    <LinearLayout
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:gravity="right" >
+	    
+		<TextView
+		    android:layout_width="fill_parent"
+		    android:layout_height="fill_parent"
+		    android:layout_marginLeft="20dp"
+		    android:text="@string/app_name"
+		    android:textColor="#000000"
+		    android:textSize="15sp"
+		    android:gravity="center"
+		    android:textStyle="bold"
+		     android:layout_weight="1"/>
+		
+		<Button
+		    android:layout_width="30dp"
+		    android:layout_height="30dp"
+    	    android:background="@drawable/settings"
+    	    android:onClick="settingsClick"/>
+		
+        
+	</LinearLayout>    
+    
+    
+    
+    
+    
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical" >    
+    
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="@string/currentTimeTextViewText"
+        android:textSize="40dp" />
+
+    <DigitalClock
+        android:id="@+id/digitalClock"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text=""
+        android:textSize="50dp" />
+
+    <View
+        android:id="@+id/separator1"
+        android:layout_width="fill_parent"
+        android:layout_height="1dip"
+        android:background="#ffffff" />
+
+
+    
+    
+        <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+		android:paddingBottom="20dp"
+		android:paddingTop="20dp">
+		<jp.dip.sys1.android.drumpicker.lib.TimeDrumPicker
+			android:id="@+id/datepicker" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:layout_weight="1" />		
+		
+	</LinearLayout> 
+    
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:onClick="OnOffAlarm"
+        android:background="@drawable/switche_off"
+        android:layout_marginTop="15dp"
+        android:layout_gravity="center_horizontal" />
+
+    
+    <View
+        android:id="@+id/separator2"
+        android:layout_width="fill_parent"
+        android:layout_height="1dip"
+        android:background="#ffffff" />
+
+    
+<TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/noAlarmString"
+        android:gravity="center_horizontal"
+        android:textAppearance="?android:attr/textAppearanceMedium" />    
+    
+    <TextView
+        android:id="@+id/nextAlarmTimeTextView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+ 	</LinearLayout>
+ 	
+    <LinearLayout
+		xmlns:ads="http://schemas.android.com/apk/res-auto"
+
+		android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	
+	    android:id="@+id/mainAdViewLayout" >
+
+		<com.google.android.gms.ads.AdView
+			android:id="@+id/ad_view"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			ads:adSize="SMART_BANNER"
+			ads:adUnitId="@string/banner_ad_unit_id" />
+
+
+	</LinearLayout>     
+    
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/BottomButtHeight"
+        android:layout_margin="5dp" >
+
+	    <LinearLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+	        android:layout_weight="1"
+	        android:gravity="center" >        
+	        <Button
+	            android:id="@+id/button1"
+	            android:layout_width="@dimen/BottomButtHeight"
+	            android:layout_height="@dimen/BottomButtHeight"
+	            android:background="@layout/button_add"
+	            android:onClick="addActivity"
+	            android:text="" />
+        </LinearLayout>
+
+	    <LinearLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+	        android:layout_weight="1"
+	        android:gravity="center" > 
+	        <Button
+	            android:id="@+id/button2"
+	            android:layout_width="@dimen/BottomButtHeight"
+	            android:layout_height="@dimen/BottomButtHeight"
+	            android:background="@layout/button_chart"
+	            android:onClick="chartActivity"
+	            android:text=""/>
+	    </LinearLayout>
+
+	    <LinearLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+	        android:layout_weight="1"
+	        android:gravity="center" > 
+	        <Button
+	            android:id="@+id/button3"
+	            android:layout_width="@dimen/BottomButtHeight"
+	            android:layout_height="@dimen/BottomButtHeight"
+	            android:background="@layout/button_list"
+	            android:onClick="listActivity"
+	            android:text=""/>
+	    </LinearLayout>
+
+	    <LinearLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+	        android:layout_weight="1"
+	        android:gravity="center" > 
+	        <Button
+	            android:id="@+id/button4"
+	            android:layout_width="@dimen/BottomButtHeight"
+	            android:layout_height="@dimen/BottomButtHeight"
+	            android:background="@layout/button_share"
+	            android:onClick="share"
+	            android:text=""/>
+	    </LinearLayout>
+        
+	    <LinearLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+	        android:layout_weight="1"
+	        android:gravity="center" > 
+	        <Button
+	            android:id="@+id/button5"
+	            android:layout_width="@dimen/BottomButtHeight"
+	            android:layout_height="@dimen/BottomButtHeight"
+	            android:background="@layout/button_alarm"
+	            
+	            android:text="" />
+	     </LinearLayout>
+
+    </LinearLayout>
+    
+    
+    
+    
+    
+</LinearLayout>
