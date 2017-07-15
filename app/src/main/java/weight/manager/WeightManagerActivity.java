@@ -132,7 +132,9 @@ public class WeightManagerActivity extends Activity{
     WheelView month;
     WheelView year;
     WheelView day;	
-	
+
+
+    int i;
 	
 //	public static int DateFormat111 = 1;
 	
